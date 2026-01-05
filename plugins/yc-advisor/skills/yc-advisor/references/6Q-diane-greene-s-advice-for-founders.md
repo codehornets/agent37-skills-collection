@@ -3,93 +3,9 @@
 **Author:** Diane Greene
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6Q-diane-greene-s-advice-for-founders
+**YouTube ID:** bNvUW_IBz0g
 
 ---
-
-Diane Greene's advice for founders
-
-# Diane Greene's advice for founders
-
-by Diane Greene
-
-Diane Greene's Advice for Founders - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Diane Greene's Advice for Founders](https://www.youtube.com/watch?v=bNvUW_IBz0g)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-Up NextCancelAutoplay is paused
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[How Intelligent Is AI, Really?\\
-\\
-12:00](https://www.youtube.com/watch?v=pBlIgs6w7Ss)
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 12:59
-
-•Watch full videoLive
-
-•
-
-6,722 views
-
-Over 1 year ago
 
 Diane Greene is SVP of Google Cloud and she was also the CEO and cofounder of VMware.
 
@@ -97,13 +13,13 @@ This is her talk from the 2017 Female Founders Conference.
 
 # Transcript
 
-Jessica Livingston - I'm here to introduce our next speaker, who's one of my
+<span class="t-orange bt-listen">Jessica Livingston - </span>I'm here to introduce our next speaker, who's one of my
 just favorite people, Diane Greene. I'm sure you know her so she needs no introduction but she's the chief of Google's
 cloud businesses. And prior to that, amongst many of the things she did, she was the Founder and CEO of VMware. She's
-going to come out and say a few word then I'm going to come out and join her and do some Q&A for her talk. So please
+going to come out and say a few word then I'm going to come out and join her and do some Q\&A for her talk. So please
 welcome Diane.
 
-Diane Greene - Hi. I was trying to figure out what to do, because I like to read
+<span class="t-orange bt-listen">Diane Greene - </span>Hi. I was trying to figure out what to do, because I like to read
 my notes, and the lectern was too high for my five-foot-one self. It's just such a total pleasure for me to be here with
 more than 800 female founders from all over the world.
 
@@ -204,3 +120,4 @@ what you do is what will nourish you. It will satisfy you and will make you unaf
 or that one, but sailing ahead with everything you have will still be a pleasure. You may make a fortune, but the
 fortune will be incidental. If your goals are worthy, it's the process that will count, and that understanding will be
 your greatest source of strength no matter what the adversity.
+

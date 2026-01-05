@@ -4,59 +4,46 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world
 
+
 ---
 
-How WeChat grew to be the #1 app in the world
-
-# How WeChat grew to be the \#1 app in the world
-
-by Anu Hariharan
-
 Founders are increasingly pointing to Asia when asked for an example of a product they aspire to create, and WeChat is
-very often that aspirational product. My friend and former colleague [Connie\\
-Chan](https://twitter.com/conniechan?lang=en) described WeChat as “ [the one app to rule them\\
+very often that aspirational product. My friend and former colleague [Connie
+Chan](https://twitter.com/conniechan?lang=en) described WeChat as “[the one app to rule them
 all](http://a16z.com/2015/08/06/wechat-china-mobile-first/)”. It dominates the Chinese mobile market with 889 million
-monthly active users[1](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote1). The WeChat platform has completely evolved
+monthly active users<sup id="footnoteid1"><a href="#footnote1">1</a></sup>. The WeChat platform has completely evolved
 the way Chinese people communicate and socialize online, and it has also changed the way they pay each other and pay for
 their groceries. WeChat is no longer just an app. And while WeChat’s blazing success has been concentrated in China,
-_everyone_ in the Western world has experienced WeChat’s work, as the service has inspired a new category of “messaging
+*everyone* in the Western world has experienced WeChat’s work, as the service has inspired a new category of “messaging
 as a platform.” You don’t have to look hard to see hints of WeChat in other messaging platforms such as Apple’s iMessage
 or Facebook’s Messenger platform.
 
 We partnered up with [China Tech Insights](https://www.chinatechinsights.com/), a research group within Tencent
 (WeChat’s parent company) to understand how WeChat drives its **889 Million** monthly active users to use the app an
-average of **50+ minutes, and 9 to 11 separate times, per day** [2](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote2).
+average of **50+ minutes, and 9 to 11 separate times, per day**<sup id="footnoteid2"><a href="#footnote2">2</a></sup>.
 To put that in context, it is the same as the “combined time” users spend across a portfolio of Facebook apps, including
-Instagram, Facebook and Facebook messenger, on a daily basis[3](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote3).
+Instagram, Facebook and Facebook messenger, on a daily basis<sup id="footnoteid3"><a href="#footnote3">3</a></sup>.
 
 This post dives into the growth strategy that led to key WeChat milestones, lessons learned and gives insight into the
 method behind the madness as WeChat scaled from 0 to 800M+ MAUs in less than 6 years. Unlike AOL and Yahoo, Tencent is
 one of the few companies to have evolved its messaging product portfolio successfully from a web/desktop product to a
 mobile/messaging platform.
 
-[![WeChat-Growth](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Growth-901x1024.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Growth.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Growth-901x1024.png" alt="WeChat-Growth" width="780" height="886" class="aligncenter size-large wp-image-1099089" />](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Growth.png)
 
 # Lesson 1: Build Your Own Competition
 
-_**Tencent Started WeChat (mobile-first messenger) as a side project, and it ended up reinventing messaging in China.**_
+***Tencent Started WeChat (mobile-first messenger) as a side project, and it ended up reinventing messaging in China.***
 
 Tencent was already one of China’s top internet companies in 2010, and the biggest social company even before WeChat was
 launched. Many Chinese people grew up using Tencent’s QQ, a popular desktop messaging app (similar to ICQ and AOL
-Instant Messenger). At the time, Tencent’s products had ~650M[4](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote4)
+Instant Messenger). At the time, Tencent’s products had \~650M<sup id="footnoteid4"><a href="#footnote4">4</a></sup>
 monthly active Instant Messenger accounts. Recognizing the growing importance of mobile, the company created a mobile
 version of QQ in 2008, but the app was weighted down by desktop-centric features (e.g., multiple user statuses, large
 file transfers, embedded services such as music streaming, etc.) back then.
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
-
-Tencent made a bold decision: it put together a small skunkworks team from the QQ Mail team, its _core_ product at the
-time, to a new mobile app that could potentially _compete_ with other product teams from other divisions within Tencent.
+Tencent made a bold decision: it put together a small skunkworks team from the QQ Mail team, its *core* product at the
+time, to a new mobile app that could potentially *compete* with other product teams from other divisions within Tencent.
 **This team of only seven engineers went on to create the first version of WeChat in just three months**. WeChat
 launched in January of 2011 as a simple messaging and photo sharing app. This lean and relentlessly focused team very
 quickly launched what would become the most transformational mobile service in China.
@@ -72,7 +59,7 @@ for daily life. As one of the first messengers to offer voice, text and photos i
 daily downloads to spike to 50k-60k consistently.
 
 Today Mobile QQ continues to cater to a younger user base and has 652M
-MAUs[5](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote5) as of December 2016. Tencent proactively worked to
+MAUs<sup id="footnoteid5"><a href="#footnote5">5</a></sup> as of December 2016. Tencent proactively worked to
 differentiate the user experience between the two platforms, with QQ offering more features for entertainment (e.g.,
 animated video stickers, facial beautifying tools). Conversely, WeChat remains focused on offering useful services that
 its users access in daily life (e.g., Content subscription and paying utility bills).
@@ -83,10 +70,10 @@ yourself, then a competitor is likely to disrupt you.
 
 # Lesson 2: Design For Groups (“Group Effect”)
 
-_**An individual user’s behavior can be quite distinct from how they behave when in a group. To identify these**_
-_**group-effect opportunities, WeChat closely observed how users behaved among groups of friends and strangers in everyday**_
-_**life. WeChat did not lean on more traditional forms of user research, such as surveys, interviews or following**_
-_**competition.**_
+***An individual user’s behavior can be quite distinct from how they behave when in a group. To identify these
+group-effect opportunities, WeChat closely observed how users behaved among groups of friends and strangers in everyday
+life. WeChat did not lean on more traditional forms of user research, such as surveys, interviews or following
+competition.***
 
 Allen Zhang (Founder of WeChat) has been adamant about developing the product around “Group Effect” (i.e., an individual
 user’s behavior alone can be quite distinct from how they behave when in a group). So, the WeChat team pays attention to
@@ -96,11 +83,11 @@ adoption - as more users adopt these features, other users also hop on the bandw
 WeChat, like most social networks, realized early on that they needed to solve for the issue of having zero friends on
 day one. Simultaneously, in the U.S., Facebook was famously relentless about getting users to their first 10 friends
 within 14 days, which their data showed was the key to long-term retention. WeChat found success with a slightly
-different approach to keep people engaged via a feature called “ **People Nearby**”, which was a simulation of the real
+different approach to keep people engaged via a feature called “**People Nearby**”, which was a simulation of the real
 world. People could see other “People Nearby” users (who were not yet on their contact list) nearby through the
-app[6](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote6). The location-enabled feature satisfied users’ curiosity about
+app<sup id="footnoteid6"><a href="#footnote6">6</a></sup>. The location-enabled feature satisfied users’ curiosity about
 knowing what’s going on around them and at the same time, boosted their sense of community on the platform. It also
-helped boost the pace of user acquisition to over 100k+ per day[7](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote7).
+helped boost the pace of user acquisition to over 100k+ per day<sup id="footnoteid7"><a href="#footnote7">7</a></sup>.
 
 After launching People Nearby, WeChat also rolled out account linking between WeChat and QQ, enabling users to import
 their existing social graph on QQ to WeChat. Importantly, the team only exposed the importing feature to those who were
@@ -111,20 +98,20 @@ November 2011, allowing WeChat to overtake Xiaomi’s MiTalk as the leading mess
 **Shake** which utilized both the GPS and accelerometer had people shaking their phones to find a random person to chat
 with. The feature served two purposes: a) give people a way to engage when they’re new to the product, and b) it had the
 side benefit of creating a take-notice element to WeChat in the offline world, very much like people on Pokemon Go.
-Launched in October of 2011, Shake was used over 100M times[8](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote8) in the
+Launched in October of 2011, Shake was used over 100M times<sup id="footnoteid8"><a href="#footnote8">8</a></sup> in the
 first month of launch. This feature was critical to scale initially, and used as a creative growth strategy, but it is
-not popular today since most people in China are already connected to their friends and coworkers in WeChat. “ **Message**
-**in a Bottle**” allowed users to exchange random messages by throwing a virtual bottle in the sea and when a user picked
+not popular today since most people in China are already connected to their friends and coworkers in WeChat. “**Message
+in a Bottle**” allowed users to exchange random messages by throwing a virtual bottle in the sea and when a user picked
 it up, they were connected.
 
 In November 2011, after launching all these important new features that facilitated group interactions, the new user
-acquisition of WeChat hit a new record of 200k in a day[9](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnote9).
+acquisition of WeChat hit a new record of 200k in a day<sup id="footnoteid9"><a href="#footnote9">9</a></sup>.
 
 # Lesson 3: Extend Features from Users’ Inner Desires
 
-_**WeChat paid attention to the motivation behind communication nuances and cultural behaviors to give users more than**_
-_**they could ever think to ask for in a usability study. Allen Zhang was passionate about keying into the inner desires**_
-_**behind an exhibited behavior, which often led to features that fit naturally into users’ worlds.**_
+***WeChat paid attention to the motivation behind communication nuances and cultural behaviors to give users more than
+they could ever think to ask for in a usability study. Allen Zhang was passionate about keying into the inner desires
+behind an exhibited behavior, which often led to features that fit naturally into users’ worlds.***
 
 During WeChat’s second year, it launched **Moments** (the Chinese translation means “friend circles”), a photo-sharing
 feature to visually share your story with a private group of friends. Unlike the Facebook News Feed, comments and likes
@@ -151,7 +138,7 @@ up their WeChat OAs even though they had millions of followers on Weibo.
 The success of celebrity OAs prompted WeChat to expand the feature to accounts for brands and businesses. This has
 allowed publishers to directly broadcast valuable content on a regular basis to their fans although the frequency is
 limited. OAs also enable users to communicate with service providers (e.g., housekeeping) to do everything from booking
-a service, to customer care, feedback and Q&A. Where Twitter/Weibo were tools for businesses to broadcast and brand,
+a service, to customer care, feedback and Q\&A. Where Twitter/Weibo were tools for businesses to broadcast and brand,
 WeChat (via OAs) became a channel for direct communication with customers.
 
 **Sticker Store** was a way for users to express themselves when communicating with each other (similar to what Apple
@@ -162,9 +149,9 @@ enriched the quality of the WeChat user experience along the way).
 
 # Lesson 4: Big Ideas Come From Solving Your Own Problems
 
-_**Y Combinator has long advised founders to be an avid user of the product and solve their own problems. While WeChat**_
-_**was sitting comfortably at the 300M MAU mark, a simple feature to help their own management team give out Red Packets**_
-_**after Chinese New Year would help them nearly double.**_
+***Y Combinator has long advised founders to be an avid user of the product and solve their own problems. While WeChat
+was sitting comfortably at the 300M MAU mark, a simple feature to help their own management team give out Red Packets
+after Chinese New Year would help them nearly double.***
 
 **WeChat Red Packets** originates from one of Tencent’s company custom and broader Cantonese tradition that every
 manager in the company gives each employee a red envelope with a small cash gift on the first work day after the Chinese
@@ -199,33 +186,35 @@ In only two years, WeChat Pay has become the most significant player in the Chin
 multitude of actions - used for everything from Red Packets to offline payments. As of 2016, Tencent has 600M mobile
 payment MAUs and over 600M average daily payment transactions.
 
-[![WeChat-Pay](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Pay-1024x623.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Pay.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Pay-1024x623.png" alt="WeChat-Pay" width="780" height="475" class="aligncenter size-large wp-image-1099091" />](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Pay.png)
 
 # Lesson 5: Monetize Subtly
 
-_**Monetization and User Growth are not mutually exclusive. WeChat has always been ready for monetization and even uses**_
-_**it as a lever to improve the overall product experience.**_
+***Monetization and User Growth are not mutually exclusive. WeChat has always been ready for monetization and even uses
+it as a lever to improve the overall product experience.***
 
 **Game Center** bridged WeChat with the core expertise of the broader Tencent team to allow people to play games within
 the messaging platform. While similar on the surface to other game stores like Line and Kakao, WeChat took the element
 of social gaming to a new level - where people flooded to play games en masse. This subtle feature change benefitted
 both game creators and WeChat. A Tencent game called Rhythm Master, for example, had 700k DAUs a year after release, but
-exploded to 17M DAUs (>20x growth) after launching it in Game Center.
+exploded to 17M DAUs (\>20x growth) after launching it in Game Center.
 
 Launched in January of 2015, **WeChat Moment’s native ads** were an important part of WeChat’s business model. While
 this was not a key driver of growth, it did not limit the growth trajectory of WeChat either. To minimize the impact on
 user experience, WeChat limited the number of native ads shown in a user’s WeChat Moments feed to one per day (compared
-with Facebook’s limit of [one ad every ~10\\
+with Facebook’s limit of [one ad every \~10
 posts](http://tumblr.jackdawresearch.com/post/152915251408/facebook-ad-load-and-revenue-growth) in News Feed).
 
-[![WeChat-Moment-Ad](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-Ad.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-Ad.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-Ad.png" alt="WeChat-Moment-Ad" width="424" height="589" class="aligncenter size-full wp-image-1099094" />](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-Ad.png)
+<center> An example of Airbnb’s native ad in WeChat Moments feed
 
-An example of Airbnb’s native ad in WeChat Moments feed
+</center>
 
-[![WeChat-Moment](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-1024x433.jpg)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment.jpg)
-
-If a user double clicks on the Airbnb ad they will see 3 or 4 photos with text sharing the story, which is very
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-1024x433.jpg" alt="WeChat-Moment" width="780" height="330" class="aligncenter size-large wp-image-1099097" />](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment.jpg)
+<center> If a user double clicks on the Airbnb ad they will see 3 or 4 photos with text sharing the story, which is very
 similar to what WeChat moments offers with friends.
+
+</center>
 
 Users interact with and share ads similar to how they share posts from their friends, which is uncommon on other social
 networks. For example, if you [tap on the ad](http://wximg.qq.com/wxp/home-site/case-video-preview/91.mp4), you can see
@@ -241,32 +230,32 @@ who redeemed a coupon by giving the user another coupon for use and sharing, the
 products and services. Thus WeChat established a coupon credit system for vendors to purchase credits from WeChat for
 promoting their services through this coupon sharing model.
 
-# Lesson 6: Measure What _You_ Value, Not What You’re _Supposed_ to
+# Lesson 6: Measure What *You* Value, Not What You’re *Supposed* to
 
-_**WeChat defies the popular belief that growth is all about user growth. Instead they think about growth as increasing**_
-_**value (e.g., the number of tasks WeChat can do in the daily lives of users).**_
+***WeChat defies the popular belief that growth is all about user growth. Instead they think about growth as increasing
+value (e.g., the number of tasks WeChat can do in the daily lives of users).***
 
 Unlike other social products, WeChat does not only measure growth by number of users or messages sent. Instead they also
 focus on measuring how deeply is the product engaged in every aspect of daily life (e.g., the number of tasks WeChat can
 help with in a day). While WeChat does have KPIs, these are typically shared only among department heads. The
-drumbeat-message engineers receive every day is “are you creating _more_ value for the user?” In support of this goal to
+drumbeat-message engineers receive every day is “are you creating *more* value for the user?” In support of this goal to
 be a tool through which people accomplish their daily tasks, WeChat puts limits on how many friends you have, how many
 promotional messages you can see, how much engagement they display from your social circles -- ultimately they see this
 as noise that may distract from the utility of WeChat.
 
-[![WeChat-Engagement](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Engagement-1024x453.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Engagement.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Engagement-1024x453.png" alt="WeChat-Engagement" width="780" height="345" class="aligncenter size-large wp-image-1099092" />](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Engagement.png)
 
 WeChat’s elevation of the QR code as a link from the offline became the lynchpin for China’s online-to-offline boom
 in 2015. Previously, to engage with a service or brand, a user would have to search or enter a website address. WeChat’s
 Pony Ma says of QR codes, “it is a label of abundant online information attached to the offline world”. This logic
 explains why WeChat chose to promote QR codes in the first place. QR codes never took off in the U.S. for three key
-reasons: (1) the #1 phone and the #1 social app didn’t allow you to scan QR codes. (2) Because of this, people had to
+reasons: (1) the \#1 phone and the \#1 social app didn’t allow you to scan QR codes. (2) Because of this, people had to
 download dedicated scanner apps, and then the QR code would take them to a mobile website, which is arguably more
 cumbersome than simply typing in the URL or searching for the brand on social media. (3) Early use cases focused on
 low-value, marketing related content and at times was merely spam. So, even though QR codes would’ve been U.S.
 marketers’ dream, it was a few steps too far to be useful.
 
-With the established adoption of QR codes, WeChat launched “ **Mini Programs**” as an extension of WeChat Official
+With the established adoption of QR codes, WeChat launched “**Mini Programs**” as an extension of WeChat Official
 Accounts designed to enable users to access services in a more frictionless way just like the web browser did (there was
 no need to download a program to access a service in the PC era). Similarly Mini Programs is the tool that allows users
 to open those “apps” and take an action online (like placing an order or paying for merchandise) without requiring to
@@ -278,8 +267,8 @@ day-to-day messaging.
 
 # Lesson 7: Don’t Play Favorites With Features
 
-_**One of WeChat’s core product tenets is it is a “tool” holding up utility-oriented qualities (highly functional, quick**_
-_**and easy to use) as vital to the product experience.**_
+***One of WeChat’s core product tenets is it is a “tool” holding up utility-oriented qualities (highly functional, quick
+and easy to use) as vital to the product experience.***
 
 Most product managers are focused on building “sticky” features and driving retention metrics. However, Zhang actively
 worries about users spending too much time in any one feature since this could prevent users from doing other valuable
@@ -301,38 +290,30 @@ cultural needs and emphasized group interactions and most of all they have relen
 tool that could extend into the hands of every mobile consumer. At this point, WeChat is not only an app -- it is simply
 the internet. Which makes it easy to see why WeChat is becoming an inspiration to many hopeful startups.
 
-* * *
+-----
 
-_Thanks to [Rhea Liu](https://twitter.com/yushan_l) and the rest of the Tencent team for partnering with us to share_
-_first hand the learnings from WeChat. Thanks also to [Connie Chan](https://twitter.com/conniechan), [Jonathan\_\
-_Hsu](https://twitter.com/jonathanhsu), [Yanyun Xiao](https://twitter.com/yanyunx), [Ben\_\
-_Rubin](https://twitter.com/benrbn), [Ram Parameswaran](https://twitter.com/_ram_), [Sonal\_\
-_Chokshi](https://twitter.com/smc90), [Sam Altman](https://twitter.com/sama), [Ali\_\
-_Rowghani](https://twitter.com/rowghani), [Brad Lightcap](https://twitter.com/bradlightcap), [Sharon\_\
-_Pope](https://blog.ycombinator.com/welcome-sharon/), [Craig Cannon](https://twitter.com/craigcannon), [Simon\_\
-_Lu](https://twitter.com/simonlu), and [Nic Dardenne](https://twitter.com/ndardenn) for reading multiple drafts of this_
-_essay._
+*Thanks to [Rhea Liu](https://twitter.com/yushan_l) and the rest of the Tencent team for partnering with us to share
+first hand the learnings from WeChat. Thanks also to [Connie Chan](https://twitter.com/conniechan), [Jonathan
+Hsu](https://twitter.com/jonathanhsu), [Yanyun Xiao](https://twitter.com/yanyunx), [Ben
+Rubin](https://twitter.com/benrbn), [Ram Parameswaran](https://twitter.com/_ram_), [Sonal
+Chokshi](https://twitter.com/smc90), [Sam Altman](https://twitter.com/sama), [Ali
+Rowghani](https://twitter.com/rowghani), [Brad Lightcap](https://twitter.com/bradlightcap), [Sharon
+Pope](https://blog.ycombinator.com/welcome-sharon/), [Craig Cannon](https://twitter.com/craigcannon), [Simon
+Lu](https://twitter.com/simonlu), and [Nic Dardenne](https://twitter.com/ndardenn) for reading multiple drafts of this
+essay.*
 
-* * *
+-----
 
-**Notes**
+**Notes**  
+<b id="footnote1">1.</b> Source: MAU accounts based on Tencent data as of 2016.[↩](#footnoteid1)  
+<b id="footnote2">2.</b> Source: iResearch, Jiguang.[↩](#footnoteid2)  
+<b id="footnote3">3.</b> Source: Facebook Q1 2016 Earnings Call.[↩](#footnoteid3)  
+<b id="footnote4">4.</b> Source: Tencent Annual Report 2010.[↩](#footnoteid4)  
+<b id="footnote5">5.</b> Source: Tencent Annual Results for 2016; Smart Device MAU of QQ.[↩](#footnoteid5)  
+<b id="footnote6">6.</b> Note: Users not using “People Nearby” would not appear.[↩](#footnoteid6)  
+<b id="footnote6">7.</b> Source: The Story Of Tencent by Xiaobo Wu.[↩](#footnoteid7)  
+<b id="footnote7">8.</b> Source: The Story Of Tencent by Xiaobo Wu.[↩](#footnoteid8)  
+<b id="footnote8">9.</b> Source: The Story Of Tencent by Xiaobo Wu.[↩](#footnoteid9)
 
-**1.** Source: MAU accounts based on Tencent data as of 2016. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid1)
+-----
 
-**2.** Source: iResearch, Jiguang. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid2)
-
-**3.** Source: Facebook Q1 2016 Earnings Call. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid3)
-
-**4.** Source: Tencent Annual Report 2010. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid4)
-
-**5.** Source: Tencent Annual Results for 2016; Smart Device MAU of QQ. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid5)
-
-**6.** Note: Users not using “People Nearby” would not appear. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid6)
-
-**7.** Source: The Story Of Tencent by Xiaobo Wu. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid7)
-
-**8.** Source: The Story Of Tencent by Xiaobo Wu. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid8)
-
-**9.** Source: The Story Of Tencent by Xiaobo Wu. [↩](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world#footnoteid9)
-
-* * *

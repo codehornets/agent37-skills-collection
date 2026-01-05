@@ -4,60 +4,33 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao
 
+
 ---
 
-Table of Contents
+*Special contributions from [Luke Pryor](https://twitter.com/lukepryor) and [Brad
+Lightcap](https://twitter.com/bradlightcap).*
 
-[**Table of Contents**](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#)
+*Disclosure: I’m a personal investor in Toutiao.*
 
-[- 1: Mind the gap, seize the opportunity](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#1-mind-the-gap-seize-the-opportunity)
+-----
 
-[- 2: A data network effect deliberately built across the entire system](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#2-a-data-network-effect-deliberately-built-across-the-entire-system)
-
-[- 3\. From content aggregation to content destination](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#3-from-content-aggregation-to-content-destination)
-
-[- 4\. Unencumbered by formats](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#4-unencumbered-by-formats)
-
-[- 5\. Early monetization and alignment with product](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#5-early-monetization-and-alignment-with-product)
-
-The hidden forces behind China's content king Toutiao
-
-# The hidden forces behind China's content king Toutiao
-
-by Anu Hariharan
-
-_Special contributions from [Luke Pryor](https://twitter.com/lukepryor) and [Brad\_\
-_Lightcap](https://twitter.com/bradlightcap)._
-
-_Disclosure: I’m a personal investor in Toutiao._
-
-* * *
-
-**Using Machine and Deep Learning to Create and Serve Content, China’s Toutiao Created a Product with Engagement Similar**
-**to that of Social Networks - All without a Social Graph**
+**Using Machine and Deep Learning to Create and Serve Content, China’s Toutiao Created a Product with Engagement Similar
+to that of Social Networks - All without a Social Graph**
 
 Toutiao, one of the flagship products of Bytedance\*, may be the largest app you’ve never heard of–it’s like every news
 feed you read, YouTube, and TechMeme in one. Over 120M people in China use it each day. Yet what’s most interesting
-about Toutiao isn’t that people consume such varied content all in one place… it’s _how_ Toutiao serves it up. Without
+about Toutiao isn’t that people consume such varied content all in one place… it’s *how* Toutiao serves it up. Without
 any explicit user inputs, social graph, or product purchase history to rely on, Toutiao offers a personalized, high
 quality-content feed for each user that is powered by machine and deep learning algorithms.
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
-
 Going a step further than merely serving up content, Toutiao’s algorithms also create content: During the 2016 Olympics,
 a Toutiao bot wrote original news coverage, publishing stories on major events more quickly than traditional media
-outlets. The bot-written articles enjoyed read rates (# of reads and # of impressions) in line with those produced at
+outlets. The bot-written articles enjoyed read rates (\# of reads and \# of impressions) in line with those produced at
 a slower speed and higher cost by human writers on average.
 
-The average user spends more than _74 minutes_ each day in Toutiao -- that’s more than the average user spends on
-Facebook[1](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnote1), and more than twice what they spend on
-Snapchat[2](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnote2). More than half that time is spent watching short-form
+The average user spends more than *74 minutes* each day in Toutiao -- that’s more than the average user spends on
+Facebook<sup id="footnoteid1"><a href="#footnote1">1</a></sup>, and more than twice what they spend on
+Snapchat<sup id="footnoteid2"><a href="#footnote2">2</a></sup>. More than half that time is spent watching short-form
 videos; this coupled with over 10 billion video views per day makes Toutiao the YouTube of China (along with, of course,
 everything else it offers).
 
@@ -77,11 +50,13 @@ time spent on each article, time of the day the user reads, pauses, comments, in
 measured across millions of dimensions and the result is a personalized, extensive, and high-quality content feed for
 every user, each time they open the app.
 
-![Toutiao Blog Post Graphic_Minutes](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-Blog-Post-Graphic_Minutes.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-Blog-Post-Graphic_Minutes.png" alt="Toutiao Blog Post Graphic_Minutes" width="1312" height="1868" class="aligncenter size-full wp-image-1101027" />
 
-Sources: Snapchat - S-1 filing. Instagram - [Recode](https://www.recode.net/2017/8/2/16081086/instagram-snapchat-stories-anniversary-time-spent). Facebook - Q1 2016 earnings report.
+<center>
+  Sources: Snapchat - S-1 filing. Instagram - <a href="https://www.recode.net/2017/8/2/16081086/instagram-snapchat-stories-anniversary-time-spent">Recode</a>. Facebook - Q1 2016 earnings report.
+</center>
 
-* * *
+-----
 
 # The Five Hidden Forces Behind Toutiao
 
@@ -90,7 +65,7 @@ Sources: Snapchat - S-1 filing. Instagram - [Recode](https://www.recode.net/2017
 While timing is everything for a startup, it takes deliberate effort to build an addictive app. Toutiao’s timing was
 fortuitous, but its exploitation of this unique moment was deliberate. Toutiao launched as smartphone use was taking off
 in China: mobile penetration increased from nearly nothing in 2010 to 65%
-by 2014[3](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnote3). Moreover, many of the largest content providers had not
+by 2014<sup id="footnoteid3"><a href="#footnote3">3</a></sup>. Moreover, many of the largest content providers had not
 yet developed mobile apps or mobile-friendly sites, meaning that true mobile-optimized information and entertainment was
 rare. By mid-2012, there were only six significant news apps on the Chinese Android platform. Four of them were direct
 extensions of existing news portals with limited mobile optimization, and the other two were aggregators that relied
@@ -118,12 +93,12 @@ this resulted in improved retention over time.
 
 In the years that followed, competition for user share of attention on mobile would drastically increase – the number of
 mobile apps available in China more than tripled in the three years from 2012
-to 2015[4](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnote4). But Toutiao’s early lead meant that, by the time
+to 2015<sup id="footnoteid4"><a href="#footnote4">4</a></sup>. But Toutiao’s early lead meant that, by the time
 competitors arrived, it already had an important and valuable foothold.
 
-_The image below shows the personalized feed of two different users._
+*The image below shows the personalized feed of two different users.*
 
-[![Toutiao 2-1](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-2-1.png)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-2-1.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-2-1.png" alt="Toutiao 2-1" width="2397" height="1729" class="aligncenter size-full wp-image-1101016" />](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-2-1.png)
 
 ## 2: A data network effect deliberately built across the entire system
 
@@ -139,21 +114,20 @@ algorithms, which in turn further refines the products’ quality. Ultimately, t
 cycle to optimize every stage of what they call the “content lifecycle”: Creation, Curation, Recommendation and
 Interaction.
 
-[![Toutiao 3-1](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-3-1.jpg)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-3-1.jpg)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-3-1.jpg" alt="Toutiao 3-1" width="4000" height="2250" class="aligncenter size-full wp-image-1101018" />](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-3-1.jpg)
 
-**Creation**
-
+**Creation**  
 Ever since the invention of written language, content creation has been the exclusive domain of humans. Toutiao looks to
 change that. It’s begun with Xiaomingbot, an artificial intelligence that has already published more than 8,000 stories
 on the platform to-date. It debuted during the Olympics in 2016, where it published stories on major events more quickly
 (approximately 2 seconds after the event ended) than traditional media outlets. Indeed, the bot-authored articles
-enjoyed read rates (# of reads and # of impressions) in-line with those produced at a slower speed and higher cost by
+enjoyed read rates (\# of reads and \# of impressions) in-line with those produced at a slower speed and higher cost by
 human writers on average.
 
-_Below is a screenshot of an article written by the Xiaomingbot describing the results of the tennis match between Andy_
-_Murray and Juan Martin Del Potro during the 2016 Olympics._
+*Below is a screenshot of an article written by the Xiaomingbot describing the results of the tennis match between Andy
+Murray and Juan Martin Del Potro during the 2016 Olympics.*
 
-[![Toutiao 4](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-4.jpeg)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-4.jpeg)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-4.jpeg" alt="Toutiao 4" width="750" height="1334" class="aligncenter size-full wp-image-1101006" />](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-4.jpeg)
 
 To achieve this, Toutiao had to overcome a couple of significant technical challenges:
 
@@ -177,12 +151,11 @@ and suggest better titles for articles.The system employs recurrent neural netwo
 sentences and these sentence vectors are further fed into a ranking model to pick concise summaries for each article.
 
 The products of these efforts – 450 published stories with 500-1,000 words during the Rio Olympics – that were hugely
-successful. They enjoyed read rates (# of reads divided by # of impressions) on par with those produced at a slower
+successful. They enjoyed read rates (\# of reads divided by \# of impressions) on par with those produced at a slower
 speed and higher cost by human writers. Toutiao has extended this capability beyond sports to over 8,000 stories
 to-date, and is working hard to close some of the remaining technical loopholes that make human writers recognizable.
 
-**Curation**
-
+**Curation**  
 A major engagement driver for Toutiao in its early days was “soft news”– areas like celebrity gossip, pop culture and
 lifestyle articles. This was no accident. Contrary to official news, which was distributed by well-known state-owned
 news sources, soft content was distributed across the internet on a plethora of individual sites. In short, there was no
@@ -212,28 +185,27 @@ spam are major issues in the media industry. Toutiao’s underlying technology u
 determine if an article is fake news, uses clickbait titles, or doesn’t meet Toutiao’s quality standards. Here, Toutiao
 also leans on user moderators to flag fake articles and employs human moderators to arbitrate on disputed reporting.
 
-**Recommendation**
-
+**Recommendation**  
 Content recommendation is the feature for which Toutiao is best-known, and to which it owes much of its success and
 reputation. The use of machine and deep learning algorithms at this stage of the content lifecycle is what has sets
 Toutiao apart from its peers, and is key to driving continued user growth and retention.
 
-The question that the recommendation engine is trying to solve is simple: **what are the one hundred articles the**
-**platform can recommend to each user that are most likely to result in continued engagement?** This is a question with
+The question that the recommendation engine is trying to solve is simple: **what are the one hundred articles the
+platform can recommend to each user that are most likely to result in continued engagement?** This is a question with
 major consequences – the AI team has recognized that 100 headlines is a retention “threshold” (users that do not retain
-long-term tend to drop off dramatically after seeing ~100 headlines, similar to Facebook’s “10 friends” rule). It is
+long-term tend to drop off dramatically after seeing \~100 headlines, similar to Facebook’s “10 friends” rule). It is
 also a question that humans are unsuited to answer: no human editor could ever regularly and quickly identify the
 optimal set of headlines for every one of the app’s new users.
 
 As simple as the question may be, the solution is complex. For every new user, Toutiao blends signals from three key
 areas to create a feed that it hopes is engaging and will push users over the 100-headline threshold:
 
-- User profiles: are initially built based on the app’s understanding of the user’s demographics (their age, location,
-gender, and socio-economic status)
-- Content: to understand the content of articles, Toutiao turns to natural language processing to determine if the
-article is trending, whether it is long or short, and the timeliness of the article (some articles are evergreen
-while others have a very short half-life)
-- Context: pertain to location-related data (localities like geography, weather, local news, etc.)
+  - User profiles: are initially built based on the app’s understanding of the user’s demographics (their age, location,
+    gender, and socio-economic status)
+  - Content: to understand the content of articles, Toutiao turns to natural language processing to determine if the
+    article is trending, whether it is long or short, and the timeliness of the article (some articles are evergreen
+    while others have a very short half-life)
+  - Context: pertain to location-related data (localities like geography, weather, local news, etc.)
 
 The underlying algorithms must then identify the strongest statistical match between the user’s profile, its own content
 profile, and context, and it must do this on a continual basis. This matching is meant to optimize the percent of
@@ -243,11 +215,10 @@ Silicon Valley, for example, may be more likely to click on articles about tech.
 variety of articles to assess interest/disinterest– in doing so, can help users discover previously unknown content and
 test their potential interests. Over time, as the app collects user information, these recommendations get further and
 further refined. The engine learns quickly – for most users, it takes less than one day to successfully learn their
-interests (indicated by 80% read rates). The result is the case of strong user retention (>45%) that is similar to
+interests (indicated by 80% read rates). The result is the case of strong user retention (\>45%) that is similar to
 social networks and one of the largest time spent per user apps in the world.
 
-**Interaction**
-
+**Interaction**  
 As Toutiao has grown, interaction on the platform has become more and more central to its user value proposition. Rather
 than leaving it to the users to find each other, Toutiao uses underlying algorithms to help enable meaningful
 connections. Nowhere is this more relevant than in its recently developed question-and-answer feature, where the AI team
@@ -274,7 +245,7 @@ significant benefits to content contributors over the platforms.
 
 **Strong incentives via revenue sharing** that enabled writers to make money from very early on. In 2014, Toutiao rolled
 out incentive programs to attract more content creators to the platform. These ranged from offering office space, tools,
-minimum guarantees per month if they hit certain key milestones (e.g., # of articles, read rates) to sharing revenue
+minimum guarantees per month if they hit certain key milestones (e.g., \# of articles, read rates) to sharing revenue
 via monetization. Toutiao began monetizing via ads since 2014 and this enabled revenue sharing opportunities with their
 content contributors.
 
@@ -288,7 +259,7 @@ content supply and no single category contributes over 10% of the content.
 Below is an example of a variety of content that a user can choose from (the screenshot only displays the 40 of the 50+
 channels users can choose from):
 
-[![Toutiao 5-1](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-5-1.png)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-5-1.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-5-1.png" alt="Toutiao 5-1" width="1481" height="1400" class="aligncenter size-full wp-image-1101020" />](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-5-1.png)
 
 **Larger and more relevant audience** than other platforms that directly translated to increasing brand presence for
 content contributors. Almost all contributors create and distribute content on all platforms. But for many contributors,
@@ -318,17 +289,17 @@ Toutiao is close to exceeding 10 billion video views every day.
 
 Toutiao has reached unprecedented scale in revenue in a short time frame (5 years since launch and 3 years since they
 began monetizing) and it is remarkable that they are doing it without leveraging any social graph or product purchase
-history. Toutiao is on target to hit more than 15B RMB (>$2.2B USD) in revenue this year - one of the fastest growing
+history. Toutiao is on target to hit more than 15B RMB (\>$2.2B USD) in revenue this year - one of the fastest growing
 apps in terms of revenue in the history of the internet.
 
-![Toutiao Revenue Growth](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-Blog-Post-Graphics_revenue.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-Blog-Post-Graphics_revenue.png" alt="Toutiao Revenue Growth" width="1569" height="1898" class="aligncenter size-full wp-image-1101028" />
 
 Of the many things that Toutiao does, one element that is core to its model more than any other: it is good at
 identifying what its users want to see. It is fitting, then, that its business model maps perfectly to that strength.
 Toutiao generates revenue by matching relevant ads to users, using the same proprietary technology behind their content
 targeting. This has three important benefits:
 
-First, it reduced the impact of monetization on the user experience – and may have actually improved the experience!
+First, it reduced the impact of monetization on the user experience – and may have actually improved the experience\!
 Users typically consider ads as intrusive and degrading to their experience, but ads aligned with user preferences are
 less so. In serving ads that are highly relevant to a user’s interests, Toutiao in many ways acts as a product discovery
 mechanism.
@@ -353,12 +324,12 @@ Twitter are both critical sources for consumption of news in the U.S. today. The
 which in July announced that the feed in its mobile app would be increasing its use of machine learning to better show
 their users the information they will find most relevant and interesting – a feed that incorporates all types of news.
 
-* * *
+-----
 
-_Special thanks to the Toutiao team, Sharon Pope, Craig Cannon, Sonal Chokshi, Kat Manalac, Daniel Gross, and Ram_
-_Parameswaran for reading multiple drafts of this essay._
+*Special thanks to the Toutiao team, Sharon Pope, Craig Cannon, Sonal Chokshi, Kat Manalac, Daniel Gross, and Ram
+Parameswaran for reading multiple drafts of this essay.*
 
-* * *
+-----
 
 \*About Bytedance
 
@@ -372,17 +343,14 @@ video apps.
 Bytedance established an AI Lab in 2016, leveraging extensive and complex datasets to conduct state-of-the-art research
 in artificial intelligence.
 
-* * *
+-----
 
-**Notes**
+**Notes**  
+<b id="footnote1">1.</b> Source: Facebook Q1 2016 Earnings Call.[↩](#footnoteid1)  
+<b id="footnote2">2.</b> Source:
+<http://time.com/4272935/snapchat-users-usage-time-app-advertising/>.[↩](#footnoteid2)  
+<b id="footnote3">3.</b> Source:
+<http://www.businessinsider.com/china-has-more-smartphone-users-than-us-brazil-and-indonesia-combined-2015-7>.[↩](#footnoteid3)  
+<b id="footnote4">4.</b> Source:
+<https://www.statista.com/statistics/315485/china-number-of-mobile-apps-available/>.[↩](#footnoteid4)
 
-**1.** Source: Facebook Q1 2016 Earnings Call. [↩](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnoteid1)
-
-**2.** Source:
-[http://time.com/4272935/snapchat-users-usage-time-app-advertising/](http://time.com/4272935/snapchat-users-usage-time-app-advertising/). [↩](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnoteid2)
-
-**3.** Source:
-[http://www.businessinsider.com/china-has-more-smartphone-users-than-us-brazil-and-indonesia-combined-2015-7](http://www.businessinsider.com/china-has-more-smartphone-users-than-us-brazil-and-indonesia-combined-2015-7). [↩](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnoteid3)
-
-**4.** Source:
-[https://www.statista.com/statistics/315485/china-number-of-mobile-apps-available/](https://www.statista.com/statistics/315485/china-number-of-mobile-apps-available/). [↩](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao#footnoteid4)

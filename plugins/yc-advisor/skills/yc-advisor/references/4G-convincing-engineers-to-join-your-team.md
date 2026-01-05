@@ -4,41 +4,14 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team
 
+
 ---
 
-Table of Contents
+*[Harj Taggar](https://twitter.com/Harjeet) is cofounder of [Triplebyte](https://triplebyte.com/) (YC S15). Triplebyte
+helps great engineers find work at the fastest growing companies in the world, with the least amount of time and
+effort.*
 
-[**Table of Contents**](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#)
-
-[- Speed](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#speed)
-
-[- Technical Phone Screen](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#technical-phone-screen)
-
-[- Onsite Interview](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#onsite-interview)
-
-[- Making The Offer](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#making-the-offer)
-
-[- Culture](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#culture)
-
-[- Closing](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#closing)
-
-[- Exploding Offers](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#exploding-offers)
-
-[- Big Company Competition and Bay Area Relocation](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#big-company-competition-and-bay-area-relocation)
-
-[- Feedback and Iterate](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team#feedback-and-iterate)
-
-Convincing engineers to join your team
-
-# Convincing engineers to join your team
-
-by [Harj Taggar](https://www.ycombinator.com/people/harj-taggar)
-
-_[Harj Taggar](https://twitter.com/Harjeet) is cofounder of [Triplebyte](https://triplebyte.com/) (YC S15). Triplebyte_
-_helps great engineers find work at the fastest growing companies in the world, with the least amount of time and_
-_effort._
-
-* * *
+-----
 
 Once you've found an engineer you want to hire, the final step is presenting them an offer to join your team and
 convincing them to accept it. This post offers advice for increasing the percentage of the offers you make that are
@@ -58,19 +31,11 @@ something seemingly simple - being responsive.
 
 ## Speed
 
-Read this [blog\\
+Read this [blog
 post](https://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html) to
 get an engineer's perspective on the importance of speed and responsiveness in their job search process. Being fast and
 responsive seems like obvious advice and yet we still see companies move slowly and miss out on good people. There's two
 reasons this happens.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 The first is entropy. Maintaining an organized system for managing candidates is hard. It will naturally trend towards
 disorder unless you work really hard against it. This is especially true for larger companies with more people and
@@ -94,13 +59,13 @@ interaction. This starts with the first call.
 
 The first call with a candidate typically lasts for about 25 minutes. I'd recommend the following agenda:
 
-1. Introduce yourself, the company and what you work on.
-2. Ask the candidate to introduce themselves and talk about what's important to them in their next role (if you did the
-initial outreach and they're not actively looking, you can soften this to e.g. “how do you think about developing
-your career and skills in the future?”).
-3. Ask questions about their skills and experiences to see if they match with what you're looking for.
-4. Pitch the work being done at the company and why it's an exciting time to join now.
-5. Finish with answering any questions they have and explain what the next steps in your hiring process are.
+1.  Introduce yourself, the company and what you work on.
+2.  Ask the candidate to introduce themselves and talk about what's important to them in their next role (if you did the
+    initial outreach and they're not actively looking, you can soften this to e.g. “how do you think about developing
+    your career and skills in the future?”).
+3.  Ask questions about their skills and experiences to see if they match with what you're looking for.
+4.  Pitch the work being done at the company and why it's an exciting time to join now.
+5.  Finish with answering any questions they have and explain what the next steps in your hiring process are.
 
 It's common to leave asking the candidate what they're looking for until the end of the call. I think that's suboptimal
 because you miss the opportunity to tailor your pitch around it throughout the call.
@@ -108,30 +73,30 @@ because you miss the opportunity to tailor your pitch around it throughout the c
 If you're an early stage company (less than 20 people) a founder should always be doing this call with engineering
 candidates. Commonly you'll have one technical founder and one non-technical/sales founder. I'd recommend the sales
 founder do these calls even if they can't speak in detail about the technical challenges. This gives the technical
-founder more uninterrupted time to build ( [maker vs manager schedule](http://www.paulgraham.com/makersschedule.html)).
+founder more uninterrupted time to build ([maker vs manager schedule](http://www.paulgraham.com/makersschedule.html)).
 The sales founder should at least have enough sales ability to convince engineers to meet the technical founder in
 person to learn more about the technology.
 
 As you grow you'll hire a recruiter and typically they'll do these calls. I'd recommend doing the following to best set
 them up for success:
 
-1. Ask your recruiter to send you a monthly report on number of first calls they're doing and the % that opt'ed out of
-coming onsite. Have your recruiter keep a list of reasons why candidates said they wouldn't move forward and
-continually review these with them to improve the pitch.
-2. Assign one engineer to train your recruiter on how to talk about the interesting technical challenges at the
-company. Have them listen to mock pitches, give feedback, and repeat. I often see companies give their recruiter no
-help in learning how to best pitch the company and then complain when they see low conversions. That's not fair to
-them nor optimal for you.
-3. Asking technical vetting questions is difficult for recruiters as they're usually not technical. This is usually the
-most awkward aspect of the interactions between engineers and recruiters. Give your recruiter support and structure
-so they can do this well. I'd advise giving them specific technical questions to ask. One idea I've seen companies
-use to good effect is making them multiple choice format so the recruiter can read out the answers and ask the
-candidate to pick one that fits best. This helps your recruiter feel confident and provide a better candidate
-experience.
-4. If you're working on a deeply technical product that doesn't yet have marquee customers or traction, I'd actually
-recommend having an engineer do these first calls, at least for particularly promising candidates. In this case your
-main selling point is the depth of your technical challenges and it'll be very hard to find a recruiter who can
-pitch those well.
+1.  Ask your recruiter to send you a monthly report on number of first calls they're doing and the % that opt'ed out of
+    coming onsite. Have your recruiter keep a list of reasons why candidates said they wouldn't move forward and
+    continually review these with them to improve the pitch.
+2.  Assign one engineer to train your recruiter on how to talk about the interesting technical challenges at the
+    company. Have them listen to mock pitches, give feedback, and repeat. I often see companies give their recruiter no
+    help in learning how to best pitch the company and then complain when they see low conversions. That's not fair to
+    them nor optimal for you.
+3.  Asking technical vetting questions is difficult for recruiters as they're usually not technical. This is usually the
+    most awkward aspect of the interactions between engineers and recruiters. Give your recruiter support and structure
+    so they can do this well. I'd advise giving them specific technical questions to ask. One idea I've seen companies
+    use to good effect is making them multiple choice format so the recruiter can read out the answers and ask the
+    candidate to pick one that fits best. This helps your recruiter feel confident and provide a better candidate
+    experience.
+4.  If you're working on a deeply technical product that doesn't yet have marquee customers or traction, I'd actually
+    recommend having an engineer do these first calls, at least for particularly promising candidates. In this case your
+    main selling point is the depth of your technical challenges and it'll be very hard to find a recruiter who can
+    pitch those well.
 
 ## Technical Phone Screen
 
@@ -156,22 +121,22 @@ The onsite interview will be the first time a candidate meets your team in perso
 will be a huge deciding factor in where they end up. It's important to think through the details of the candidate
 experience when setting up your onsite. Start with the basic logistics and be sure to:
 
-1. Send an email ahead of time with clear directions to the office.
-2. Assign someone to greet them when they arrive
-3. Have somewhere they can hang out if they arrive early (even if it's just a spare desk and chair)
+1.  Send an email ahead of time with clear directions to the office.
+2.  Assign someone to greet them when they arrive
+3.  Have somewhere they can hang out if they arrive early (even if it's just a spare desk and chair)
 
 A standard onsite interview agenda will typically look like this:
 
-1. Quick welcome and talking through the agenda for the day (5 minutes)
-2. Technical interview 1 (1 hour)
-3. Technical interview 2 (1 hour)
-4. Lunch (1 hour)
-5. Technical interview 3 (1 hour)
-6. Technical interview 4 (1 hour)
-7. Behavioral / culture interview (45 mins)
-8. Closing Q&A for them to ask about the company (25 minutes)
+1.  Quick welcome and talking through the agenda for the day (5 minutes)
+2.  Technical interview 1 (1 hour)
+3.  Technical interview 2 (1 hour)
+4.  Lunch (1 hour)
+5.  Technical interview 3 (1 hour)
+6.  Technical interview 4 (1 hour)
+7.  Behavioral / culture interview (45 mins)
+8.  Closing Q\&A for them to ask about the company (25 minutes)
 
-If you're early stage I'd recommend having at least one of the founders involved in the closing Q&A. It can also be a
+If you're early stage I'd recommend having at least one of the founders involved in the closing Q\&A. It can also be a
 good idea to include a demo or roadmap section here at the end. Give the candidate a sneak preview of a new feature
 you're working on or talk through the most exciting upcoming projects so they finish the day feeling excited about your
 future momentum.
@@ -208,19 +173,19 @@ you without giving them that data.
 
 Create a formal offer letter template that includes these details:
 
-- Salary and benefits
-- Signing bonus details (if applicable)
-- Health insurance details (include a link to the policy documents)
-- 401(k) details, if any
-- Vacation policy details
+  - Salary and benefits
+  - Signing bonus details (if applicable)
+  - Health insurance details (include a link to the policy documents)
+  - 401(k) details, if any
+  - Vacation policy details
 
 Equity
 
-- Total number of shares/stock options presented
-- Total number of shares outstanding
-- % ownership that represents
-- Exercise price for options
-- Vesting schedule details
+  - Total number of shares/stock options presented
+  - Total number of shares outstanding
+  - % ownership that represents
+  - Exercise price for options
+  - Vesting schedule details
 
 When presenting the offer I'd recommend doing things in the following order:
 
@@ -238,11 +203,11 @@ Step Two: Call with offer details
 Call the next day to talk them through the offer details. Explaining salary and benefits is fairly straightforward. For
 equity, before giving any details, ask them how familiar they are with equity concepts like stock options or RSUs.
 
-- If they have little familiarity, do not overwhelm them with information on the call. Give them a quick explanation
-of how equity works. Talk them through the numbers of your offer and tell them you'll send them some resources on
-equity to read through on their own time.
-- If they're experienced with equity, then go straight into the numbers and ask if they have any questions about the
-details they'd like you to talk more about.
+  - If they have little familiarity, do not overwhelm them with information on the call. Give them a quick explanation
+    of how equity works. Talk them through the numbers of your offer and tell them you'll send them some resources on
+    equity to read through on their own time.
+  - If they're experienced with equity, then go straight into the numbers and ask if they have any questions about the
+    details they'd like you to talk more about.
 
 Tell them you'll be sending through the formal offer letter, documenting all these details, via email shortly. They
 should take some time to digest that and the next step would be a follow up call to talk through their thoughts. Offer
@@ -326,22 +291,22 @@ As a startup it's hard to compete with Facebook and Google compensation packages
 Unless you're also a public company, you won't be able to compete on total compensation. Still, you can win - we've seen
 startups successfully compete against them on Triplebyte. These are the arguments we've found are most successful:
 
-1. _Learning_: You learn the fastest by being given real decision making responsibility. Large companies won't give you
-this kind of responsibility for years, they need to have checks and balances in place to ensure no single person -
-especially a new hire - could cause too much damage. Fast growing startups don't have this luxury and you'll be
-thrown straight into making decisions that could materially affect the trajectory of the company.
-2. _Career Progression_: Silicon Valley and the technology industry are unique because you can rise up through the
-ranks of a company faster than anywhere else (e.g. the Chief Product Officer of Facebook ($500bn market cap) is 36
-years old). This only happens by joining a startup that grows fast and keeps throwing more responsibilities at you.
-Give the candidate examples of how this has already been happening for people at your startup and paint a specific
-picture of how the candidate could progress over the next few years with you.
-3. _Opportunity cost_: At any point in time there will always be the safe option of working at a public technology
-company. The names might change but the experience of working at one is fungible. The experience of working at
-startups can vary wildly and you should present your startup as a unique opportunity right now because of the team
-and market. They can always go back to the big company experience if it doesn't work out.
-4. _Mentorship_: One concern engineers, especially juniors, can have about working at a smaller startup is they won't
-learn best practices and the “right” way to do things. It will help a lot if you have experienced engineers on your
-team who would be willing to provide mentorship. If you do be sure to tell the candidate this.
+1.  *Learning*: You learn the fastest by being given real decision making responsibility. Large companies won't give you
+    this kind of responsibility for years, they need to have checks and balances in place to ensure no single person -
+    especially a new hire - could cause too much damage. Fast growing startups don't have this luxury and you'll be
+    thrown straight into making decisions that could materially affect the trajectory of the company.
+2.  *Career Progression*: Silicon Valley and the technology industry are unique because you can rise up through the
+    ranks of a company faster than anywhere else (e.g. the Chief Product Officer of Facebook ($500bn market cap) is 36
+    years old). This only happens by joining a startup that grows fast and keeps throwing more responsibilities at you.
+    Give the candidate examples of how this has already been happening for people at your startup and paint a specific
+    picture of how the candidate could progress over the next few years with you.
+3.  *Opportunity cost*: At any point in time there will always be the safe option of working at a public technology
+    company. The names might change but the experience of working at one is fungible. The experience of working at
+    startups can vary wildly and you should present your startup as a unique opportunity right now because of the team
+    and market. They can always go back to the big company experience if it doesn't work out.
+4.  *Mentorship*: One concern engineers, especially juniors, can have about working at a smaller startup is they won't
+    learn best practices and the “right” way to do things. It will help a lot if you have experienced engineers on your
+    team who would be willing to provide mentorship. If you do be sure to tell the candidate this.
 
 For candidates who would need to relocate to the Bay Area, they may be frightened by the cost of living, which has both
 increased in dollars and frequency of press coverage. While this is ultimately a personal decision for the candidate I
@@ -362,7 +327,8 @@ they made the decision and their general feedback on the quality of your hiring 
 your team and use them to iterate and improve your interviewing and closing process over time.
 
 If you treat optimizing this process like you would optimizing your product you will see improved conversions and have
-more success hiring. Good luck!
+more success hiring. Good luck\!
 
-_If you're hiring engineers and would like to try Triplebyte, [use this link](http://triplebyte.com/tblog/express) to_
-_sign up and you'll get a special $15,000 hiring fee for your first hire_
+*If you're hiring engineers and would like to try Triplebyte, [use this link](http://triplebyte.com/tblog/express) to
+sign up and you'll get a special $15,000 hiring fee for your first hire*
+

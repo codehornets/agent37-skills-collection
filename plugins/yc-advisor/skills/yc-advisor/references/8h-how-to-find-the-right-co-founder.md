@@ -3,129 +3,9 @@
 **Author:** Harj Taggar
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder
+**YouTube ID:** prKi3-rUPHc
 
 ---
-
-How to find the right co-founder
-
-# How to find the right co-founder
-
-by [Harj Taggar](https://www.ycombinator.com/people/harj-taggar)
-
-How to Find the Right Co-founder - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[How to Find the Right Co-founder](https://www.youtube.com/watch?v=prKi3-rUPHc)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-[Why am I seeing this?](https://support.google.com/youtube/answer/9004474?hl=en)
-
-Watch on
-
-0:00
-
-0:00 / 28:33
-
-•Watch full videoLive
-
-•
-Introduction
-
-139K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Introduction
-
-0:25
-
-Why have a co-founder at all?
-
-3:43
-
-Starting without a co-founder
-
-7:10
-
-What to look for
-
-11:13
-
-What about skills?
-
-13:38
-
-Where to look for a co-founder
-
-20:18
-
-Making the leap
-
-22:36
-
-Deciding equity
-
-24:40
-
-Who's the CEO?
-
-27:28
-
-Formalizing things
-
-**Find a Co-Founder with YC**
-
-Since this video was created, we've launched [YC Co-Founder Matching](https://www.startupschool.org/cofounder-matching).
-The advice in this video is still correct -- if you have an existing network to search for co-founders, that's a great
-place to look for a match. But many founders have also found success with our co-founder matching service, so we now
-recommend you try that in parallel.
-
-* * *
-
-YC Partner Harj Taggar shares advice on how to find the right co-founder for your startup. This lecture was filmed for
-the future founder track of Startup School 2020.
-
-## Transcript
 
 Hi, I'm Harj Taggar, and I'm partner at Y Combinator. And today I'm going to be talking about what I think is arguably the most important part of starting a company, which is finding the right co-founder.
 
@@ -145,7 +25,7 @@ So one is they have an idea that they have incredibly high conviction about eith
 
 The second condition is that those single founders, they are able to make progress on that idea without a co-founder, in the short time at least. And that almost always means that they're technical, or at least technical enough to be able to build the first version of the product so they can show it to potential investors, or maybe even to potential co-founders who may want to join the company. And that second point is something I've noticed that the best single founders are also able to do is not only are they tremendously productive in building product and talking to users themselves, they're also able to run a great background search for co-founders and keep their eyes open. And if the opportunity arises, bring on a great co-founder. And I think the best example I can think of here would be Drew Houston of Dropbox.
 
-So Drew applied Y Combinator way, way back now, in 2007. He had a really solid idea for building Dropbox, because he'd already felt the pain of losing his own files. So he knew for sure, there was a better solution to build. But he didn't have a co-founder. And so Paul Graham, the Y Combinator founder, messaged him back saying, "We love your application, you're great, the idea's great, but we really won't fund you without a co-founder. So come back to us when we have one." And Drew kind of went away, continued building the Dropbox prototype, while also looking for co-founders and found Arasha, who would be later the Dropbox CTO and his co-founder. And he applied again, and \[inaudible 00:06:34\] And now Dropbox is obviously a tremendously successful company.
+So Drew applied Y Combinator way, way back now, in 2007. He had a really solid idea for building Dropbox, because he'd already felt the pain of losing his own files. So he knew for sure, there was a better solution to build. But he didn't have a co-founder. And so Paul Graham, the Y Combinator founder, messaged him back saying, "We love your application, you're great, the idea's great, but we really won't fund you without a co-founder. So come back to us when we have one." And Drew kind of went away, continued building the Dropbox prototype, while also looking for co-founders and found Arasha, who would be later the Dropbox CTO and his co-founder. And he applied again, and [inaudible 00:06:34] And now Dropbox is obviously a tremendously successful company.
 
 So that's kind of what I'd ask you to bear in mind is, if you're really keen to get a startup right now, but you don't have a co-founder, ask yourself like, do you have absolute high conviction in this idea, you know sure that this is the idea that we want to work on? There's no other ideas that you'd be open to? And can you really make progress without having a co-founder? And if those things are true, sure. Go ahead and give it a shot. But if not, I'd really suggest you wait until you do have a co-founder to start a company.
 

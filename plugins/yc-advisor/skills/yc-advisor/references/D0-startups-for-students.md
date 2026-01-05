@@ -1,44 +1,19 @@
 # Startups for students
 
-**Author:** Tamanna Khemani
+**Author:** Tamanna Khemani and Kat Mañalac
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/D0-startups-for-students
 
+
 ---
-
-Table of Contents
-
-[**Table of Contents**](https://www.ycombinator.com/library/D0-startups-for-students#)
-
-[- 1\. Why Start a Startup?](https://www.ycombinator.com/library/D0-startups-for-students#1-why-start-a-startup)
-
-[- 2\. Why Not Start a Startup](https://www.ycombinator.com/library/D0-startups-for-students#2-why-not-start-a-startup)
-
-[- 3\. Bad Reasons For Not Starting a Startup](https://www.ycombinator.com/library/D0-startups-for-students#3-bad-reasons-for-not-starting-a-startup)
-
-[- 4\. Why Work At a Startup](https://www.ycombinator.com/library/D0-startups-for-students#4-why-work-at-a-startup)
-
-[- 5\. Startup School](https://www.ycombinator.com/library/D0-startups-for-students#5-startup-school)
-
-[- 6\. Applying to YC](https://www.ycombinator.com/library/D0-startups-for-students#6-applying-to-yc)
-
-[- 7\. Alternatives to Starting a Startup](https://www.ycombinator.com/library/D0-startups-for-students#7-alternatives-to-starting-a-startup)
-
-[- 8\. Frequently Asked Questions From Students](https://www.ycombinator.com/library/D0-startups-for-students#8-frequently-asked-questions-from-students)
-
-Startups for students
-
-# Startups for students
-
-by Tamanna Khemani and Kat Mañalac
 
 ![](https://lh5.googleusercontent.com/zv_sWGxKzF0H8KcF6Pa1xHbfUcI30aX7tBRFZ5UWdI1alZ_AQAiLvyIgKVTUIVo6RvV9JVZQaDbEDPga59THjgFyuj4Ulolmb0osCTrqNVNst3kuqDoNs7XJF7NyG6XcTlOVmLLa)
 
 **Introduction**
 
-In his 2007 essay “ [Why to Not Not Start a Startup](http://www.paulgraham.com/notnot.html),” YC co-founder Paul Graham
+In his 2007 essay “[Why to Not Not Start a Startup](http://www.paulgraham.com/notnot.html),” YC co-founder Paul Graham
 wrote about how common uncertainty was among people considering starting a company. “There's nothing wrong with being
-unsure,” he noted. “You’re part of a grand tradition.” When Y Combinator launched in 2005, [starting a startup was an\\
+unsure,” he noted. “You’re part of a grand tradition.” When Y Combinator launched in 2005, [starting a startup was an
 unusual career path for recent graduates](http://www.paulgraham.com/mit.html). It was hard to be taken seriously by
 investors if you didn’t have an MBA or years of experience in business or tech. To get a sense of how many startups were
 in the world, look at TechCrunch in 2005. It published about 40 company launches per month, and YC itself only got a
@@ -52,14 +27,6 @@ While it has become more common for people around the world to start startups, t
 startups as an option. For example, lots of folks choose a career in finance or as an engineer at a big company without
 considering other options. Whether you know you want to become a founder or are more interested in finding a job at a
 startup, we want to equip you with the best resources for getting started.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 In this guide, we’ll discuss why you should think about starting a startup and why you should consider not starting a
 startup. We’ll also talk about what you should do in college and walk-through some tips for applying to Y Combinator.
@@ -75,7 +42,7 @@ percent of YC companies that are over five years old are still alive). Why would
 **Ask Yourself Three Questions**
 
 “There is a certain type of person who only works at their peak capacity when there is no predictable path to follow,”
-YC alum and group partner Michael Seibel writes in his essay, [Why Should I Start a\\
+YC alum and group partner Michael Seibel writes in his essay, [Why Should I Start a
 Startup?](https://www.ycombinator.com/library/60-why-should-i-start-a-startup) “The odds of success are low, and they
 have to take personal responsibility for failure.”
 
@@ -118,8 +85,8 @@ more than any corporate job could ever offer if your startup is successful.
 
 ## **2.** **Why Not Start a Startup**
 
-**You’re Still in School**
-
+**You’re Still in School**   
+  
 Startups take an enormous amount of time and energy. If you decide to build one while still enrolled in college, your
 grades and social life will almost certainly suffer.
 
@@ -149,7 +116,7 @@ weight of building a startup, and can fill gaps in expertise. One co-founder mig
 other is great at sales.
 
 College is an ideal place to find a co-founder. But if you’ve exhausted both your first and second level networks and
-still haven’t found the right person to start a company with, [YC’s new co-founder matching\\
+still haven’t found the right person to start a company with, [YC’s new co-founder matching
 platform](https://www.startupschool.org/cofounder-matching) can pair you with a co-founder based on skills, interests,
 and location.
 
@@ -170,33 +137,33 @@ thrive, a startup may not be the ideal place for you.
 
 At a startup, there is no clear linear path to success. If the idea of uncertainty gives you hives, don't do a startup.
 
-## **3\. Bad Reasons For Not Starting a Startup**
+## **3. Bad Reasons For Not Starting a Startup**
 
 ![](https://lh6.googleusercontent.com/HDxogzwKPdX25SIAX_S_RtuFvCAjDFB_0Kxwu60bRWsvMTngu6sjLpnd_6pXe71LrBPjFsuctN56XPaqabiv2Vw8lGk6tNDGtqdauHuPIX0wdTF9UkZ4mAtq6Ob4IIOYDRgAsCua)
 
-At Y Combinator [we put more emphasis on the team than the\\
+At Y Combinator [we put more emphasis on the team than the
 idea](https://www.ycombinator.com/library/6p-all-about-pivoting) because time and time again we’ve seen companies pivot
 after they discovered a newer, more urgent problem to solve. Reddit, Brex, and Segment were all accepted into YC as
 completely different concepts before pivoting into the companies they are today.
 
 If you’re unsure of an idea to work on, we have the following resources to help you begin.
 
-- [Startup School: How to Get Startup Ideas](https://www.ycombinator.com/library/8g-how-to-get-startup-ideas)
-- [Startup School: How to Evaluate Startup\\
-Ideas](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas)
-- [Paul Graham: How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html)
+  - [Startup School: How to Get Startup Ideas](https://www.ycombinator.com/library/8g-how-to-get-startup-ideas)
+  - [Startup School: How to Evaluate Startup
+    Ideas](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas)
+  - [Paul Graham: How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html)
 
 **Your Parents Want You** **to Get a Real Job**
 
 ![](https://lh4.googleusercontent.com/FMXXB6wb70CwdgaukwWusu7kPJJqCh2rfkGNntSsZn290rSIw7LOCNcKJd46pDWCr1MAsfMu7JahGTaFaTtaMZP71VCTX-v7yFY5q-vl-PQr5idROkhZRMO4LpBxxOU31763ZB2i)
 
 Parental pressure seems like less of a problem for startup founders (at least in the US) today than it was a decade ago.
-When _The Social Network_ came out in 2012, YC got a massive spike in applications. We sometimes joke that _The Social_
-_Network_ was the cultural inflection point where parents realized startups could be a viable and lucrative career
+When *The Social Network* came out in 2012, YC got a massive spike in applications. We sometimes joke that *The Social
+Network* was the cultural inflection point where parents realized startups could be a viable and lucrative career
 option. If your parents are still skeptical about a career in startups, show them stories about
 [Brex](https://techcrunch.com/2018/10/05/how-the-22-year-old-founders-of-brex-built-a-billion-dollar-business-in-less-than-2-years/),
 [Stripe](https://techcrunch.com/2012/05/20/the-story-behind-payment-disruptor-stripe-com-and-its-founder-patrick-collison/),
-[Embark](https://observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/) and [Scale\\
+[Embark](https://observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/) and [Scale
 AI](https://www.businessofbusiness.com/articles/scale-ai-machine-learning-startup-alexandr-wang/). These companies,
 founded by people in their 20s, are all massively successful and now worth billions of dollars.
 
@@ -213,7 +180,7 @@ While it’s true that start-ups only rarely generate great wealth, it’s also 
 startup is typically a force multiplier for experience, knowledge, and ability to execute — all things that will
 increase earning potential.
 
-## **4\. Why Work At a Startup**
+## **4. Why Work At a Startup**
 
 There’s no better way to learn about startups than by working at one — especially a YC startup. You’ll gain experience
 building products that people love, talk to customers directly, and get a transparent view of the business. (And it
@@ -227,18 +194,18 @@ Here’s the best way to gain that experience.
 
 YC’s [Work at a Startup](https://www.workatastartup.com/jobs) helps you apply to multiple startups with the same resume
 and also allows founders to get in touch with you directly if they think your skills might be a good fit for a role. If
-you’re looking for an internship, YC companies also list active internships on the [YC internships\\
+you’re looking for an internship, YC companies also list active internships on the [YC internships
 page](https://www.workatastartup.com/internships).
 
 **Determine the Right Company**
 
 Find a startup that’s solving a problem that’s interesting to you. Are you obsessed with mitigating the impacts of
-climate change? Or maybe you want to focus on the intersection of robotics and biotech? [YC’s Work at a Startup jobs\\
+climate change? Or maybe you want to focus on the intersection of robotics and biotech? [YC’s Work at a Startup jobs
 page](https://www.workatastartup.com/jobs) lists positions at thousands of companies working on the world’s toughest
 challenges.
 
 If you find a startup that interests you but doesn’t look like it’s hiring, reach out to the founders. A single email
-can open doors you might not even realize are there. [Read\\
+can open doors you might not even realize are there. [Read
 here](https://www.ycombinator.com/library/4l-advice-for-job-seekers-on-resumes-and-reaching-out) for more tips on what a
 good outreach message might look like.
 
@@ -262,7 +229,7 @@ project ships at the end of your internship — you’ll have something concrete
 **Will I get to see how the business is doing?** **How much do I get to interact with customers?**
 
 One of the benefits of working at a startup is the transparency of a small team and being closer to the business. (Many
-engineers at large companies never even know who their customers are!) Talking to customers not only allows you to see
+engineers at large companies never even know who their customers are\!) Talking to customers not only allows you to see
 how the business is improving — or not improving — but is also a key skill set when you’re running your own startup.
 
 **What will I learn from the people I’m working with?**
@@ -273,22 +240,22 @@ development, building MVPs, or performing customer interviews? — and use that 
 cultivate.
 
 Lastly, if you’re looking for a full-time role, we also recommend asking about runway and burn rate. This will tell you
-if the startup is in a good funding situation and show how transparent the founders are. You can [read more about both\\
+if the startup is in a good funding situation and show how transparent the founders are. You can [read more about both
 here.](https://www.ycombinator.com/library/4l-advice-for-job-seekers-on-resumes-and-reaching-out)
 
 ## **5.** **Startup School**
 
-If you’re interested in starting a startup but haven’t decided on what to work on, you can explore [Startup\\
+If you’re interested in starting a startup but haven’t decided on what to work on, you can explore [Startup
 School](https://www.startupschool.org/)’s Aspiring Founders track. This free, online course runs for six weeks and is
 designed for anyone thinking about founding a startup — students, engineers, creatives — but not actively working on one
 right now.
 
-The curriculum features lectures like “ [How to Get Startup\\
-Ideas](https://www.ycombinator.com/library/8g-how-to-get-startup-ideas)” and “ [How to Plan an\\
+The curriculum features lectures like “[How to Get Startup
+Ideas](https://www.ycombinator.com/library/8g-how-to-get-startup-ideas)” and “[How to Plan an
 MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp)”. It also includes exercises that can help put what
 you’ve learned into practice.
 
-Once you’re ready to start working on your company in earnest, a good next step is to check out the rest of [Startup\\
+Once you’re ready to start working on your company in earnest, a good next step is to check out the rest of [Startup
 School](https://www.startupschool.org/)’s curriculum. This program, which we also offer for free, consists of founders
 who can help you learn about startups, build a product, and track growth. They also run periodic build sprints that many
 founders utilize as a catalyst for launching a company.
@@ -300,7 +267,7 @@ includes more than 15 years worth of startup advice, podcasts, and essays.
 
 YC accepts applications year-round, and it’s never too early to apply.
 
-Once you’re ready to work on your startup full time, you can [apply for the next\\
+Once you’re ready to work on your startup full time, you can [apply for the next
 batch](https://www.ycombinator.com/apply/) of Y Combinator.
 
 **Why Y Combinator?**
@@ -310,10 +277,10 @@ batch](https://www.ycombinator.com/apply/) of Y Combinator.
 **Lifetime Support**
 
 The Y Combinator program doesn't end on demo day. We continue to assist founders from idea through IPO and beyond. YC
-starts with teaching founders the basics of [starting a company](https://www.startupschool.org/), [finding\\
+starts with teaching founders the basics of [starting a company](https://www.startupschool.org/), [finding
 customers](https://www.ycombinator.com/companies/), [raising angel investments](https://demoday.ycombinator.com/), and
-[hiring their first employees](https://www.workatastartup.com/). Then we help founders secure [Series A and B\\
-funding](https://blog.ycombinator.com/introducing-yc-series-a-batches/) [scale their\\
+[hiring their first employees](https://www.workatastartup.com/). Then we help founders secure [Series A and B
+funding](https://blog.ycombinator.com/introducing-yc-series-a-batches/) [scale their
 companies](https://blog.ycombinator.com/growth-stage-program/), and hire an executive team. Once a YC company has scaled
 to a certain level, we may [invest in later stage rounds](https://www.ycombinator.com/continuity/).
 
@@ -386,7 +353,7 @@ were internationally based.
 You do not need a business plan to apply to YC. Our application process usually helps founders understand more about why
 and what they are trying to build.
 
-_Tip:_ Be concise and explain your idea simply.
+*Tip:* Be concise and explain your idea simply.
 
 ## **7.** **Alternatives to Starting a Startup**
 
@@ -395,14 +362,14 @@ industry. Here’s a few resources that can help.
 
 **Finding the Right Career Path**
 
-[Three Paths in the Tech Industry: Founder, Executive, or\\
+[Three Paths in the Tech Industry: Founder, Executive, or
 Employee](https://www.ycombinator.com/library/4h-three-paths-in-the-tech-industry-founder-executive-or-employee) by
 Michael Siebel
 
 [Career and Resume Advice: Student Edition](https://blog.ycombinator.com/career-and-resume-advice-student-edition/) by
 Ryan Choi
 
-[Advice for Job Seekers on Resumes and Reaching\\
+[Advice for Job Seekers on Resumes and Reaching
 Out](https://www.ycombinator.com/library/4l-advice-for-job-seekers-on-resumes-and-reaching-out) by Ryan Choi
 
 **Advice on Choosing a Startup**
@@ -412,7 +379,7 @@ Justin Kan and Sam Altman
 
 [Choosing a Startup to Work At](https://www.ycombinator.com/library/9t-choosing-a-startup-to-work-at) by Harj Taggar
 
-[Why You Should or Should Not Work at a\\
+[Why You Should or Should Not Work at a
 Startup](https://www.ycombinator.com/library/5n-why-you-should-or-should-not-work-at-a-startup) by Justin Kan
 
 **Salary + Equity**
@@ -480,13 +447,13 @@ you could potentially work with in the future.
 Also, don’t forget that you also have access to the entire world. Experts in all kinds of fields — technology, business,
 science — are usually happy to help college students.
 
-For more advice on how to spend your time during university read [A Letter to College\\
+For more advice on how to spend your time during university read [A Letter to College
 Students](https://www.ycombinator.com/library/4d-a-letter-to-college-students) by Michael Siebel.
 
 **Can I Still be a Founder Without a Technical Background?**
 
 YC has funded some startups that don’t have a technical co-founder. Roughly ten percent of the companies in every batch
-are founded by a non-technical founder. However, if you look at [YC’s Top\\
+are founded by a non-technical founder. However, if you look at [YC’s Top
 Companies](https://www.ycombinator.com/topcompanies) list you’ll only see 3 companies founded by a non-technical
 founder: Flexport, SnapDocs and UpKeep. If you are non-technical, we highly recommend finding a technical co-founder if
 you’re building a software company. With someone technical on the team, you can move quickly and have a greater chance
@@ -501,21 +468,21 @@ companies to see how the founders connected with each other. Here’s the breakd
 
 ![](https://lh4.googleusercontent.com/o70IyTyNiSwa98gw4Lk9q_uUqpn5vn7IM2J0ESg7wpEDJFoFSi4XPQqiJTvNn3ai0FJhZTUr7NIQcHlIdi4NnZY-Z9FimJsJwJDRtP2LNSWoRijjjJ3T00YYktZgSHrv0Li3YwoE)
 
-We also looked at how women met their co-founders >>
+We also looked at how women met their co-founders \>\>
 
 **WOMEN FOUNDERS (78 entries)**
 
 ![](https://lh5.googleusercontent.com/Z3VuGGyhRZzxYr0mZ9IHKz24itS2V32i2AYX_yklggg6SZwf4v6omutJfzWhWT3Rc5H_z-XTvoUKHN1YSSLzItJIJIYFHCQkKEe48rF2PWxyycnsSUc4sjGggknMMSk9GyJCiwIy)
 
-\* _A good way to get started is working on projects or extracurricular activities with your classmates._
+\**A good way to get started is working on projects or extracurricular activities with your classmates.*
 
-YC’s Startup School also recently launched a [co-founder matching\\
+YC’s Startup School also recently launched a [co-founder matching
 platform](https://www.startupschool.org/cofounder-matching). We pair you with co-founders based on your preferences for
 interests, skills, location, and more. While we don’t suggest you immediately start a company with someone you meet on
 this platform, it is a great way to connect with like-minded people who are interested in starting a company. You still
 need to do the hard work of building a strong, trusting relationship.
 
-For more on transforming a school project into business, read [From Student Side Project to\\
+For more on transforming a school project into business, read [From Student Side Project to
 Startup](https://www.ycombinator.com/library/6A-from-student-side-project-to-startup) by Paul Dornier co-founder of
 [Meetingbird.](https://www.ycombinator.com/companies/meetingbird)
 
@@ -524,42 +491,30 @@ Startup](https://www.ycombinator.com/library/6A-from-student-side-project-to-sta
 When landing on a concept for a startup, keep these three items in mind. But as we’ve said before, ideas can easily be
 changed.
 
-- **1.** Intention matters
-
-
-We’ve found the best YC founders are solving problems that they or a loved one have personally faced. Think about
-why you want to solve the problem you’re solving. Will you care about it a decade from now?
-
-**2.** Don't follow the mainstream
-
-
-Doing something because it’s considered “cool'' will likely not be successful. When Coinbase was founded in 2012,
-cryptocurrencies were very much a fringe idea. Today it’s pretty likely your grandmother has heard of Bitcoin.
-
-**3.** Solve for needs
-
-
-It’s tricky to balance an understanding of what people want versus what they need. Focus on what people are actually
-willing to spend their time or money on, not just what they say they want.
-
-For more, watch [How to Build the Future with YC’s Sam\\
-Altman](https://www.ycombinator.com/library/6G-how-to-build-the-future).
-
+  - **1.** Intention matters   
+    We’ve found the best YC founders are solving problems that they or a loved one have personally faced. Think about
+    why you want to solve the problem you’re solving. Will you care about it a decade from now?   
+      
+    **2.** Don't follow the mainstream   
+    Doing something because it’s considered “cool'' will likely not be successful. When Coinbase was founded in 2012,
+    cryptocurrencies were very much a fringe idea. Today it’s pretty likely your grandmother has heard of Bitcoin.   
+      
+    **3.** Solve for needs   
+    It’s tricky to balance an understanding of what people want versus what they need. Focus on what people are actually
+    willing to spend their time or money on, not just what they say they want.   
+      
+    For more, watch [How to Build the Future with YC’s Sam
+    Altman](https://www.ycombinator.com/library/6G-how-to-build-the-future).
 
 **I’ve built something. How do I get my first users or customers?**
 
-- **1.** College campus.
-
-
-A great part of being on a college campus is that you have easy access to a large pool of potential customers who
-are likely to try something new.
-
-**2.** Friends and family.
-
-
-Ask everyone you know – aunts, grandparents, cousins, friends, acquaintances — to use your product. This will help
-you determine your ideal demographic.
-
+  - **1.** College campus.   
+    A great part of being on a college campus is that you have easy access to a large pool of potential customers who
+    are likely to try something new.   
+      
+    **2.** Friends and family.   
+    Ask everyone you know – aunts, grandparents, cousins, friends, acquaintances — to use your product. This will help
+    you determine your ideal demographic.
 
 **Should I charge for my product?**
 
@@ -581,3 +536,4 @@ have lots of energy and little commitments, it’s much easier to spend time bui
 
 We tell most students to finish their degree. But if the only thing you can do is think about your startup and you’re
 spending all your free time working on it, it might be worth considering dropping out.
+

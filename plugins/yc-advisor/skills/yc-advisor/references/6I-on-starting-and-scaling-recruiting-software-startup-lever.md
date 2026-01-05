@@ -1,150 +1,15 @@
-# On starting and scaling recruiting software startup Lever
+# On starting and scaling recruiting software startup Lever 
 
 **Author:** Sarah Nahm
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever
+**YouTube ID:** UKVmfinc8qE
 
 ---
 
-On starting and scaling recruiting software startup Lever
-
-# On starting and scaling recruiting software startup Lever
-
-by Sarah Nahm
-
-Startup Hiring Advice from Lever CEO Sarah Nahm with Holly Liu - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Startup Hiring Advice from Lever CEO Sarah Nahm with Holly Liu](https://www.youtube.com/watch?v=UKVmfinc8qE)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-Up NextCancelAutoplay is paused
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[How to Find a Cofounder - Kat Manalac\\
-\\
-4:08](https://www.youtube.com/watch?v=CRLzkbtKPGM)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 58:06
-
-•Watch full videoLive
-
-•
-Did you ever see yourself becoming a founder
-
-12K views
-
-Over 1 year ago
-
-## Chapters
-
-0:05
-
-Did Sarah grow up thinking she'd be a founder?
-
-7:25
-
-Why did she decide to leave Google and start Lever?
-
-13:20
-
-Thinking about product in the early days of Lever
-
-15:15
-
-Fundraising and figuring out the team
-
-23:30
-
-How do you figure out someone's career motivations?
-
-26:50
-
-Getting concrete when interviewing
-
-28:45
-
-Hiring remote employees
-
-31:35
-
-Writing job descriptions around impact
-
-37:05
-
-Eva Zhang asks - What's the biggest roadblock you faced in trying to make hiring more inclusive to diverse candidates?
-
-41:30
-
-What does thinking about inclusion mean at a small company?
-
-46:45
-
-Not buying into technical and nontechnical people
-
-49:50
-
-Setting up a culture that allows for conversations about diversity and inclusion
-
-[Sarah Nahm](https://twitter.com/srhnhm) is the CEO and cofounder of [Lever](http://lever.co/). Lever builds modern
+[Sarah Nahm](https://twitter.com/srhnhm) is the CEO and cofounder of [Lever](http://Lever.co). Lever builds modern
 recruiting software for teams to source, interview, and hire top talent. They were in the Summer 2012 batch of YC. You
-can try Lever out at [Lever.co](http://lever.co/).
+can try Lever out at [Lever.co](http://Lever.co).
 
 [Holly Liu](https://twitter.com/hollyhliu) is a Visiting Partner at YC. Before that she cofounded the gaming company
 Kabam.
@@ -157,7 +22,7 @@ You can find Sarah on Twitter [@srhnhm](https://twitter.com/srhnhm) and Holly is
 Craig Cannon \[00:00\] - Hey how's it going? This is Craig Cannon and you're listening to Y Combinator's Podcast.
 Today's episode is with Sarah Nahm and Holly Liu. Sarah is the CEO and co-founder of Lever. Lever builds modern
 recruiting software for teams to source, interview and hire top talent. They were in the Summer 2012 batch of YC. You
-can try Lever out at [lever.co](http://lever.co/). Holly is a visiting partner at YC. Before that she co-founded the
+can try Lever out at [lever.co](http://lever.co). Holly is a visiting partner at YC. Before that she co-founded the
 gaming company Kabam. You can find Sarah on Twitter [@srhnhm](https://twitter.com/srhnhm) and Holly is
 [@hollyhlui](https://twitter.com/hollyhlui). All right, here we go. Sarah and Holly, welcome to the podcast.
 
@@ -169,7 +34,7 @@ Craig Cannon \[00:40\] - Holly you have a question to start it off.
 
 Holly Liu \[00:42\] - I'm super curious. Did you ever see yourself becoming a founder? A founding CEO?
 
-Sarah Nahm \[00:48\] - Oh my gosh! I have to honestly say no. Growing up, I could not have grown up further from
+Sarah Nahm \[00:48\] - Oh my gosh\! I have to honestly say no. Growing up, I could not have grown up further from
 Silicon Valley. I grew up in Birmingham, Alabama, so Deep South, and kind of back then I probably wanted to be a
 different thing when I grew up every three months. I was dabbling in anything, I was dabbling in everything, but
 probably the one thing I spent a lot of time on was social justice. I volunteered at the Civil Rights Institute, because
@@ -620,7 +485,7 @@ Sarah Nahm \[41:12\] - and I actually give a lot of people advice like look, bef
 into diversity in your recruiting and making kind of your hiring more diverse, I actually think it's really critical to
 start by making sure your culture is inclusive. Because what's the piont of hiring all this, quote, diverse talent if
 when they get there they're not ready to succeed. Number one roadblock when founders think that because maybe they're in
-a majority, they don't have a credible ability to lead their company to have a strong D&I culture.
+a majority, they don't have a credible ability to lead their company to have a strong D\&I culture.
 
 Craig Cannon \[41:49\] - It's what we were talking about before we started recording. Now founders are not only tasked
 with leading the company, thinking of a great product, hitting product/market fit, doing all this other stuff, now
@@ -678,7 +543,7 @@ your culture talks about itself and how like employees are shaping that conversa
 
 Holly Liu \[46:38\] - Oh, it's really funny. We actually visited the Lever offices and I noticed in the kitchen they
 have one, which I'm super appreciative for they have a bunch of cups and then there's this one lower shelf that says
-please leave for the vertically challenged. I was like, "Yes! This is so great. I feel so included."
+please leave for the vertically challenged. I was like, "Yes\! This is so great. I feel so included."
 
 Sarah Nahm \[46:55\] - I know.
 
@@ -750,7 +615,7 @@ next level. We also do kind of programmatically a lot with our management groups
 are, I'm a big believer in coaching. We do a group coaching program. Twice a year, every six months we do like a six
 month program that we run all our managers through. Some who were promoted internally, some that we hired. To be
 intentional about our management culture and I think that they can be such great advocates in terms of like spreading
-great practices that do make work more inclusive and if you're not already engaging you management team on D&I like,
+great practices that do make work more inclusive and if you're not already engaging you management team on D\&I like,
 hello, that's really impactful. That's some of the structural stuff and then some of the things that are just more human
 oh gosh, well, here's a funny example. We really encourage people to engage with each other, solve problems with each
 other, but sometimes having difficult conversations like you're kind of navigating these murky waters of you don't want
@@ -833,3 +698,4 @@ Craig Cannon \[58:18\] - That's excellent advice. All right, thanks for coming i
 Sarah Nahm \[58:20\] - Thanks.
 
 Holly Liu \[58:20\] - Thank you.
+

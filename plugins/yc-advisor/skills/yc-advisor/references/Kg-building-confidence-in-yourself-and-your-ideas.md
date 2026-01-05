@@ -1,82 +1,11 @@
 # Building Confidence In Yourself and Your Ideas
 
-**Author:** Dalton Caldwell
+**Author:** Dalton Caldwell, Michael Seibel
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/Kg-building-confidence-in-yourself-and-your-ideas
+**YouTube ID:** al-15mMAS18
 
 ---
-
-Building Confidence In Yourself and Your Ideas
-
-Dalton and Michael
-
-# Building Confidence In Yourself and Your Ideas
-
-by [Dalton Caldwell](https://www.ycombinator.com/people/)
-
-YouTube
-
-181K views
-
-1 year ago
-
-## Chapters
-
-0:00
-
-Coming Up
-
-0:16
-
-Intro: How Fast Is Too Fast?
-
-0:26
-
-Rigorous Thinking
-
-2:10
-
-Superficial Validation
-
-3:26
-
-Solving Problems
-
-4:09
-
-High Quality Reps
-
-5:52
-
-Best Qualities
-
-6:57
-
-Conviction
-
-8:26
-
-Fear
-
-12:52
-
-YC Standard Deal
-
-13:33
-
-"Pivotitis"
-
-14:01
-
-Random Walk
-
-16:11
-
-A Useless MVP
-
-19:40
-
-Learn A Good Rep
 
 One trait that many of the best founders share is conviction. You can be great at programming, sales, and raising funds
 — but if you don’t truly believe in what you’re building, you’re probably not going to make it.
@@ -92,4 +21,5 @@ In this episode of [**Dalton & Michael**](https://www.ycombinator.com/library/c
 about finding the right speed, the dangers of inaccurate assumptions, and a question founders need to ask themselves
 before they start trying to sell to anyone else.
 
--Dalton
+\-Dalton
+

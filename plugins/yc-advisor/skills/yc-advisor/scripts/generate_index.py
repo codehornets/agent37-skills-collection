@@ -147,6 +147,13 @@ def parse_reference_file(filepath: Path) -> dict:
             url = line.replace('**URL:**', '').strip()
             break
 
+    # Extract YouTube ID (for video content)
+    youtube_id = ""
+    for line in lines[:15]:
+        if line.startswith('**YouTube ID:**'):
+            youtube_id = line.replace('**YouTube ID:**', '').strip()
+            break
+
     filename = filepath.name
     code = extract_code_from_filename(filename)
 
@@ -173,7 +180,7 @@ def parse_reference_file(filepath: Path) -> dict:
     if not stages:
         stages.add("all")
 
-    return {
+    resource = {
         "code": code,
         "file": filename,
         "title": title,
@@ -185,13 +192,22 @@ def parse_reference_file(filepath: Path) -> dict:
         "related": []  # Will be filled in later phase
     }
 
+    # Only include youtube_id if present
+    if youtube_id:
+        resource["youtube_id"] = youtube_id
+
+    return resource
+
 
 def generate_index():
     """Generate the complete index from all reference files."""
     resources = []
 
+    # Index files to skip
+    skip_files = {"index.yaml", "summaries.md", "quick-index.md", "learning-paths.md"}
+
     for filepath in sorted(REFERENCES_DIR.glob("*.md")):
-        if filepath.name == "index.yaml" or filepath.name == "summaries.md":
+        if filepath.name in skip_files:
             continue
 
         try:

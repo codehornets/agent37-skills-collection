@@ -1,118 +1,17 @@
 # On raising Seed and Series A as a woman founder
 
-**Author:** Amber Atherton
+**Author:** Amber Atherton, Iba Masood
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/5G-on-raising-seed-and-series-a-as-a-woman-founder
+**YouTube ID:** TogTe74Zg7w
 
 ---
-
-On raising Seed and Series A as a woman founder
-
-# On raising Seed and Series A as a woman founder
-
-by Amber Atherton, Iba Masood
-
-Amber Atherton of Zyper and Iba Masood of TARA on Raising a Series A as a Female Founder - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Amber Atherton of Zyper and Iba Masood of TARA on Raising a Series A as a Female Founder](https://www.youtube.com/watch?v=TogTe74Zg7w)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-0:00
-
-0:00 / 1:02:48
-
-•Live
-
-•
-
-7,158 views
-
-Over 1 year ago
-
-## Chapters
-
-0:15
-
-Intros
-
-1:00
-
-Seed fundraising for Zyper and Tara
-
-3:10
-
-Tara's pivot
-
-4:15
-
-Series A fundraising for Zyper and Tara
-
-17:55
-
-Evaluating investors
-
-23:30
-
-Meeting with associates and partners
-
-30:20
-
-Raising a Series A as a female founder
-
-39:15
-
-Fundraising psychology
-
-41:30
-
-What not to do when fundraising
-
-44:45
-
-Talking to portfolio companies about investors
-
-46:05
-
-What it's like to run a Series A stage company
-
-1:00:25
-
-The most important piece of advice for fundraising
 
 [Amber Atherton](https://twitter.com/AmberAtherton) is the founder and CEO of [Zyper](https://www.zyper.com/) (YC W18).
 
 [Iba Masood](https://twitter.com/ibamasood) is the cofounder and CEO of [TARA](https://tara.ai/) (YC W15).
 
-* * *
+-----
 
 ## Transcript
 
@@ -123,7 +22,7 @@ at [@IbaMasood](https://twitter.com/IbaMasood). All right, here we go. Today we'
 before that, let's talk about your companies. Iba, what do you do?
 
 Iba Masood \[00:00:31\] - Craig, it's great to be here. I'm Iba Masood, I'm the cofounder and CEO of
-[Tara.AI](http://tara.ai/). We're building an end to end solution for product management. We help product managers,
+[Tara.AI](http://Tara.AI). We're building an end to end solution for product management. We help product managers,
 engineering managers spec out their products, gain insight into their development lifecycle, and essentially monitor
 progress within software development.
 
@@ -466,7 +365,7 @@ meetings sometimes would be in SF or they'd be in Menlo Park. The two weeks prio
 those nine days, I was pretty much full time on fundraising.
 
 Amber Atherton \[00:28:18\] - That is so important to know it as well is that being able to be in a mindset where you
-are locked in on fundraising, and this is what's so great about when you're doing YC. It's like, what's your M&A goal?
+are locked in on fundraising, and this is what's so great about when you're doing YC. It's like, what's your M\&A goal?
 Does it fit your goal? Don't do it. That is the process that you need to be thinking of when you're fundraising. It's
 full focus on that as much as you can, because that's how you're going to get to close in nine days, or in our case, 60
 days.
@@ -696,7 +595,7 @@ long term building a company but how are you getting the evidence of that?
 Iba Masood \[00:45:01\] - Okay, so what I did was I asked pointed questions to the founders, and honestly, I'm really
 grateful that those founders were truthful, because... I specifically asked pointed questions, I really tried to get to
 the bottom of things. And you know what you can do is you can set up a question, it's fascinating, right? You can really
-set up a Q&A process where you're really getting to where the rubber meets the road. And so for me, that's what I
+set up a Q\&A process where you're really getting to where the rubber meets the road. And so for me, that's what I
 wanted to do, and I think it's, I would probably even say made me a better interviewer, even in our recruiting process,
 in our candidate recruiting process. And so that I think, and you can, I got to a point where I could really tell where
 founders were not being necessarily truthful and were just kind of really trying to get us to say yes to the deal. And
@@ -908,3 +807,4 @@ Craig Cannon \[01:02:38\] - Awesome, all right, thanks so much for coming in.
 Amber Atherton \[01:02:40\] - Thank you.
 
 Iba Masood \[01:02:40\] - Thank you, great being here.
+

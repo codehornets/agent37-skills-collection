@@ -4,13 +4,8 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck
 
+
 ---
-
-How to build your seed round pitch deck
-
-# How to build your seed round pitch deck
-
-by Aaron Harris
 
 Demo Day for our Winter 2018 batch is a week from today. We’re largely focused on preparing companies for their on-stage
 presentations, but are also working with them on slightly longer decks to use in follow-up conversations with investors.
@@ -31,17 +26,9 @@ Focus on narrative. The rest is commentary. (see footnote)
 
 This is the title page. It has the name of your company, and a one line description of what you do.
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
-
 This is the only place in the deck where you can only have 1 slide for what you need to show. Any of the other slides in
 this deck should be treated as a first slide of a set. If you can keep the set to n=1, that’s ideal, but if you need
-more, that’s ok. You probably don’t want any set here where n > 3. This is a seed deck, remember.
+more, that’s ok. You probably don’t want any set here where n \> 3. This is a seed deck, remember.
 
 ![template-4](https://blog.ycombinator.com/wp-content/uploads/2018/03/YC-seed-deck-template-3.jpeg)
 
@@ -62,9 +49,9 @@ Add some context next to the chart if you’ve got some great stats you want to 
 
 ![template-7](https://blog.ycombinator.com/wp-content/uploads/2018/03/YC-seed-deck-template-6.jpeg)
 
-Got more metrics? Awesome! Add them!
+Got more metrics? Awesome\! Add them\!
 
-Trick slide! Revenue would be better here, but this is ok.
+Trick slide\! Revenue would be better here, but this is ok.
 
 ![template-8](https://blog.ycombinator.com/wp-content/uploads/2018/03/YC-seed-deck-template-7.jpeg)
 
@@ -83,7 +70,7 @@ thing? Convince the investor that they’re going to make lots of money with you
 
 ![template-11](https://blog.ycombinator.com/wp-content/uploads/2018/03/YC-seed-deck-template-10.jpeg)
 
-Team! So important at seed. Talk about what makes your team particularly well suited to the problem. This should be
+Team\! So important at seed. Talk about what makes your team particularly well suited to the problem. This should be
 about founders. Nobody cares about your advisors.
 
 ![template-12](https://blog.ycombinator.com/wp-content/uploads/2018/03/YC-seed-deck-template-11.jpeg)
@@ -91,11 +78,12 @@ about founders. Nobody cares about your advisors.
 Tell the investor how much money you need, and what it gets you. If you can lay out where you’ll be inside of a year,
 which should make you Series A ready, that’s powerful
 
-* * *
+-----
 
-footnote: This deck is intentionally simple in design. Kevin Hale wrote a great piece about [how to design decks\\
+footnote: This deck is intentionally simple in design. Kevin Hale wrote a great piece about [how to design decks
 well](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck).
 
-* * *
+-----
 
-_Thanks to Jared Friedman for suggesting that we put this together, and for reviewing it._
+*Thanks to Jared Friedman for suggesting that we put this together, and for reviewing it.*
+

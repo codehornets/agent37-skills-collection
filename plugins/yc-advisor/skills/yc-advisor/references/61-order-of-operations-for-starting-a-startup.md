@@ -3,120 +3,9 @@
 **Author:** Michael Seibel
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/61-order-of-operations-for-starting-a-startup
+**YouTube ID:** 5fmDKGV0TnQ
 
 ---
-
-Order of operations for starting a startup
-
-# Order of operations for starting a startup
-
-by [Michael Seibel](https://www.ycombinator.com/people/michael-seibel)
-
-One Order of Operations for Starting a Startup by Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[One Order of Operations for Starting a Startup by Michael Seibel](https://www.youtube.com/watch?v=5fmDKGV0TnQ)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[The Real Product Market Fit by Michael Seibel\\
-\\
-13:18](https://www.youtube.com/watch?v=FBOLk9s9Ci4)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 15:37
-
-•Watch full videoLive
-
-•
-One Order of Operations for Starting a Startup
-
-73K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-One Order of Operations for Starting a Startup
-
-1:00
-
-People aren’t taught how to find ideas
-
-2:40
-
-Find a particular problem that you’re passionate about
-
-6:15
-
-Find some friends and brainstorm a solution
-
-8:40
-
-Build an MVP
-
-11:15
-
-Two failed orders of operations for starting a startup
 
 More often than not, when I talk to a talented technical person who’s thinking about becoming a founder, their number
 one blocker is that they don’t have an idea. At some point during their formative years they learned that every great
@@ -124,11 +13,11 @@ startup started with a great idea and if the idea isn’t amazing (usually as ju
 with little startup experience), the startup will fail.
 
 My first startup’s idea (really Justin Kan’s idea) was to create a live reality TV show where people would walk around
-with cameras on their head livestreaming their lives 24/7. This company eventually became [Twitch.tv](http://twitch.tv/) and sold to Amazon
+with cameras on their head livestreaming their lives 24/7. This company eventually became Twitch.tv and sold to Amazon
 for almost a billion dollars (thanks to some amazing work by Emmett Shear, Kevin Lin, and a great group of employees).
 Airbnb started with the idea that when you want to attend a conference, sometimes all the hotels in that city are sold
 out. Therefore, wouldn’t it be great to have a site where you can find an airbed to crash on. In 2017 over 200 million
-nights were booked on Airbnb, [almost none of them fitting the original purpose of the\\
+nights were booked on Airbnb, [almost none of them fitting the original purpose of the
 site](https://press.atairbnb.com/the-u-s-midwest-ryokans-and-brazilian-beaches-airbnbs-2018-travel-trends/).
 
 I’d like to offer an alternative to the conventional “great idea” theory of startups for first time founders to
@@ -141,7 +30,7 @@ of YC companies.
 Here’s where I’d start: Is there any particular problem that you are passionate about? For younger founders, that
 problem can come from your experience growing up, from your family/friends, your personal interests, or from school. For
 older founders it could also come from experiences at work, being married, or being someone’s partner. For the Airbnb
-founders, their original problem was how to pay rent. For [Justin.tv/Twitch](http://justin.tv/Twitch) the original problem Justin and Emmett had
+founders, their original problem was how to pay rent. For Justin.tv/Twitch the original problem Justin and Emmett had
 was what startup should we work on next. Some problems seem important and impactful at the beginning and others feel
 like trivial toys. I’ve seen both types grow into billion dollar companies.
 
@@ -155,7 +44,7 @@ result of this brainstorm is a solution or idea that you can get really excited 
 your startup come alive. Because the people you brainstormed with feel some ownership for the solution you came up with
 together, this is the perfect time to ask them to work with you to actually build that solution. A great brainstorm can
 often not only provide you with an idea, it can also provide you with co-founders (so pick your brainstorming partners
-carefully).[1](https://www.ycombinator.com/library/61-order-of-operations-for-starting-a-startup#footnote1)
+carefully).<sup id="footnoteid1"><a href="#footnote1">1</a></sup>
 
 At this point the most important thing to make that spark turn into a fire is to work together to build and launch a
 minimal viable product (MVP). An MVP is the smallest possible product you can build that allows you to start offering
@@ -169,22 +58,20 @@ any kind, you have a startup. That being said, you still need someone with the t
 
 Once you’ve put your MVP together, there’s a ton of startup advice to follow. Here are a few resources I recommend:
 
-- [YC’s Essential Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
-- [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
-- [Blog Pmarca](https://pmarchive.com/)
+  - [YC’s Essential Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
+  - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
+  - [Blog Pmarca](https://pmarchive.com/)
 
 ## Two Failed Orders of Operations
 
 There are a couple of paths I see first time founders walk that often lead them to failure.
 
-**1) Come up with an idea and then pitch investors.**
-
+**1) Come up with an idea and then pitch investors.**  
 Usually these founders think that investors, by investing, will validate their idea and that if they can’t raise money -
 they don’t have a good idea. Good investors are interested in teams who are actually in the process of executing their
 idea and tend to shy away from teams that are just pitching their idea.
 
-**2) I have an idea but can’t write code and none of my co-founders can either.**
-
+**2) I have an idea but can’t write code and none of my co-founders can either.**  
 These founders want to pay someone else to build their product. Then they’ll launch it, try to raise money, and build
 out a tech team. The problem there is that good investors are actually investing in the team you’ve built. If you are
 building a tech startup and no one on your team can write code or do the technical work necessary, the bar to raise
@@ -203,13 +90,13 @@ By no means do I think this is the only path but when founders ask me to recomme
 It’s the most effective one I’ve seen in getting founders past the first major hurdles of putting something out and
 finding initial funding.
 
-* * *
+-----
 
-**Note**
-
-**1.** Now, what if you’re not technical and don’t have access to technical people? Often what I tell
+**Note**  
+<b id="footnote1">1.</b> Now, what if you’re not technical and don’t have access to technical people? Often what I tell
 future founders is go work at a startup and make those friends. At the end of the day, having the right founding team is
 such a fast track to to building a successful startup that it’s worth investing a year or two building those
-relationships before you start. [↩](https://www.ycombinator.com/library/61-order-of-operations-for-starting-a-startup#footnoteid1)
+relationships before you start.[↩](#footnoteid1)
 
-_Thanks to Carolynn Levy, Adora Cheung, Daniel Gackle, and Craig Cannon for reading drafts of this post._
+*Thanks to Carolynn Levy, Adora Cheung, Daniel Gackle, and Craig Cannon for reading drafts of this post.*
+

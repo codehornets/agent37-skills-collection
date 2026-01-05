@@ -4,17 +4,12 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/2s-advice-for-new-managers
 
+
 ---
 
-Advice for new managers
-
-# Advice for new managers
-
-by [Aaron Epstein](https://www.ycombinator.com/people/aaron-epstein)
-
 One of the most difficult things about starting a company is that you have to create both a product that people love and
-a company where people want to work _at the same time_. It’s usually not enough to _just_ have a great product, or
-_just_ be a great place to work, because great people build great products, and great people won’t tolerate a bad
+a company where people want to work *at the same time*. It’s usually not enough to *just* have a great product, or
+*just* be a great place to work, because great people build great products, and great people won’t tolerate a bad
 environment for very long.
 
 People leave managers, not companies, yet while most founders are obsessive about trying to build a product that people
@@ -24,7 +19,7 @@ all.
 I was one of those first-time founders who had to quickly learn on the job, so here’s some advice I wish someone had
 given me when I was just beginning to grow and manage a team at [Creative Market](https://creativemarket.com/).
 
-**Delegate!** As a founder you’re used to doing it all, and it can be scary to shed responsibilities you’ve always
+**Delegate\!** As a founder you’re used to doing it all, and it can be scary to shed responsibilities you’ve always
 owned, but you can’t scale yourself and focus on the highest leverage opportunities until you get things off your plate.
 If you think you’re going to have to work especially late or can’t get to the things you need to in a given day, take
 that as a signal to delegate to your team.
@@ -153,10 +148,3 @@ take maker duties off of their plate.
 years. Work with them to put together a plan, help them get the skills and experience they need, and guide them on a
 course to get there.
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)

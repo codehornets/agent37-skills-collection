@@ -3,202 +3,11 @@
 **Author:** Mike Knoop
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/68-product-and-design-process-for-remote-teams
+**YouTube ID:** zF84IMiSP7I
 
 ---
 
-Product and design process for remote teams
-
-# Product and design process for remote teams
-
-by Mike Knoop
-
-Mike Knoop on Product and Design Processes for Remote Teams with Kevin Hale - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Mike Knoop on Product and Design Processes for Remote Teams with Kevin Hale](https://www.youtube.com/watch?v=zF84IMiSP7I)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[The CEO Who Pays Employees to De-Locate From the Bay\\
-\\
-44:28](https://www.youtube.com/watch?v=g3mPvKUksag)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 1:03:29
-
-•Watch full videoLive
-
-•
-Intro
-
-9,828 views
-
-Over 1 year ago
-
-## Chapters
-
-0:10
-
-Kevin's intro
-
-0:30
-
-Mike's intro
-
-1:30
-
-How Mike and Kevin met
-
-3:30
-
-Market sizing for consumer software
-
-4:40
-
-Zapier's growth strategy today vs 2012
-
-5:55
-
-Jumpstarting a platform like Zapier
-
-8:30
-
-Building an app directory before building a product
-
-10:30
-
-Applying to YC twice
-
-12:50
-
-Zapier after Demo Day
-
-14:15
-
-Zapier's first remote hire
-
-16:15
-
-Remote companies not being perceived as legitimate
-
-18:15
-
-Noticing remote was working then committing
-
-20:55
-
-Qualities to look for when hiring remote employees
-
-23:55
-
-Nina Mehta asks - What’s the best way to share work and knowledge across designers working on different parts of product without distracting from focused working time?
-
-25:25
-
-Remote mistakes in the early days
-
-27:00
-
-When to change modes of communication to allow for deep work
-
-28:55
-
-When to ask for someone's full attention
-
-31:00
-
-Product and design practices at Zapier
-
-34:05
-
-OKRs for teams vs individuals
-
-39:15
-
-Tools for remote teams
-
-43:15
-
-No internal email at Zapier
-
-46:20
-
-Keeping morale high in a remote team
-
-48:45
-
-What happens at a Zapier retreat
-
-51:10
-
-Remote design critiques
-
-56:10
-
-Serendipity and over optimizing for it
-
-58:00
-
-Setting up a remote company for success
-
-[Mike Knoop](https://twitter.com/mikeknoop) is cofounder and Chief Product Officer at [Zapier](https://zapier.com/),
+[Mike Knoop](https://twitter.com/mikeknoop) is cofounder and Chief Product Officer at [Zapier](https://zapier.com),
 which was in the YC Summer 2012 batch. Zapier moves information between your web apps automatically.
 
 [Kevin Hale](https://twitter.com/ilikevests) is a Visiting Partner at YC. Before YC Kevin was the cofounder of Wufoo,
@@ -207,7 +16,7 @@ which was funded by YC in 2006 and acquired by SurveyMonkey in 2011.
 You can find Mike on Twitter at [@mikeknoop](https://twitter.com/mikeknoop) and Kevin at
 [@ilikevests](https://twitter.com/ilikevests).
 
-* * *
+-----
 
 ## Transcript
 
@@ -1155,3 +964,4 @@ in good company if you decide to build a fully remote company.
 Craig Cannon \[01:03:38\] - That's a great place to wrap it up. Alright, thank you.
 
 Mike Knoop \[01:03:40\] - Thanks Craig.
+

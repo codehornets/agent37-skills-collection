@@ -3,127 +3,9 @@
 **Author:** Jared Friedman
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/8g-how-to-get-startup-ideas
+**YouTube ID:** Th8JoIan4dg
 
 ---
-
-How to get startup ideas
-
-# How to get startup ideas
-
-by [Jared Friedman](https://www.ycombinator.com/people/jared-friedman)
-
-How to Get and Evaluate Startup Ideas \| Startup School - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[How to Get and Evaluate Startup Ideas \| Startup School](https://www.youtube.com/watch?v=Th8JoIan4dg)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[Should You Start A Startup? \| Startup School\\
-\\
-17:14](https://www.youtube.com/watch?v=BUE-icVYRFU)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-[Why am I seeing this?](https://support.google.com/youtube/answer/9004474?hl=en)
-
-Watch on
-
-0:00
-
-0:00 / 32:22
-
-•Watch full videoLive
-
-•
-Finding a promising idea
-
-1.3M views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Finding a promising idea
-
-0:51
-
-Where does this advice come from?
-
-1:44
-
-4 most common mistakes
-
-6:29
-
-10 key questions to ask about any startup idea
-
-14:40
-
-3 things that make your startup idea good
-
-19:42
-
-How to come up with startup ideas
-
-21:25
-
-7 recipes for generating startups ideas
-
-YC Partner Jared Friedman shares advice on how to get startup ideas. This video was recorded for the future founder
-track in Startup School 2020.
-
-## Transcript
 
 Hi, everyone. My name is Jared. I'm a partner at YC. I'm going to talk about how to get startup ideas. This talk is for anyone who doesn't yet have an idea for a startup, and wants to find one. It's also relevant if you have an idea, but aren't sure it's the one you want to stick with.
 
@@ -188,3 +70,4 @@ Number six, you can also crowdsource coming up with an idea by talking to people
 And, number seven. Look for industries that seem broken. Any industry that seems broken is probably ripe for disruption. A good example of this is a YC company called LendUp, which is a replacement for payday lending. And part of the founding story of LendUp is that the founders just noticed that payday lending was an obviously broken and scammy industry. The downside of this recipe is it will often take you to ideas that have poor founder/market fit. It's not likely to work well if you don't know anything about the industry you're hoping to disrupt. LendUp worked well because the founders were already FinTech experts, and so, if you try this approach, I would recommend sticking with industries that you already know something about.
 
 And that's it. As you can tell, I am very interested in the topic of how people come up with startup ideas, so if you try these recipes, and have feedback or suggestions for other approaches, please let me know. Thanks.
+

@@ -1,13 +1,13 @@
 ---
 name: yc-advisor
-description: This skill should be used when the user asks questions about startups, founding decisions, co-founders, fundraising, product development, growth, hiring, or any entrepreneurial advice. It provides access to Y Combinator's complete library of 434 curated resources including essays by Paul Graham, founder interviews, and startup school lectures. Use this skill to give thorough, research-backed advice on startup decisions.
+description: This skill should be used when the user asks questions about startups, founding decisions, co-founders, fundraising, product development, growth, hiring, or any entrepreneurial advice. It provides access to Y Combinator's complete library of 443 curated resources including essays by Paul Graham, founder interviews, and startup school lectures. Use this skill to give thorough, research-backed advice on startup decisions.
 ---
 
 # YC Advisor
 
 ## Overview
 
-This skill provides access to Y Combinator's comprehensive library of 434 startup resources - essays, podcast transcripts, and video transcripts from YC partners, successful founders, and industry experts.
+This skill provides access to Y Combinator's comprehensive library of 443 startup resources - essays, podcast transcripts, and video transcripts from YC partners, successful founders, and industry experts.
 
 ## How to Use This Skill (Tiered Retrieval)
 
@@ -131,7 +131,7 @@ Decision frameworks for common questions:
 - When to quit
 
 ### references/*.md
-The 434 full-content source files. Each follows this structure:
+The 443 full-content source files. Each follows this structure:
 
 ```markdown
 # [Title]

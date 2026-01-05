@@ -4,58 +4,16 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board
 
+
 ---
 
-Table of Contents
-
-[**Table of Contents**](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#)
-
-[- A note on board composition](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#a-note-on-board-composition)
-
-[- Managing Your Board](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#managing-your-board)
-
-[- Meeting Schedule](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#meeting-schedule)
-
-[- Agenda and length](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#agenda-and-length)
-
-[- Elements of a board deck](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#elements-of-a-board-deck)
-
-[- Behind the scenes preparation](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#behind-the-scenes-preparation)
-
-[- Involving the executive team in board meetings](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#involving-the-executive-team-in-board-meetings)
-
-[- Monthly updates](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#monthly-updates)
-
-[- Bonus: Letter to the board](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#bonus-letter-to-the-board)
-
-[- Leveraging Your Board & Navigating Issues](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#leveraging-your-board-amp-navigating-issues)
-
-[- Mixed messages](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#mixed-messages)
-
-[- Asking board members for help](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#asking-board-members-for-help)
-
-[- Balancing helpfulness vs control](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#balancing-helpfulness-vs-control)
-
-[- Problem (overbearing / unhelpful) board members](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#problem-overbearing-unhelpful-board-members)
-
-[- Removing board members](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#removing-board-members)
-
-[- Final Thoughts](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board#final-thoughts)
-
-How to create and manage a board
-
-# How to create and manage a board
-
-by Anu Hariharan
-
-_With special contributions from Nic Dardenne_
+*With special contributions from Nic Dardenne*
 
 One of the most common questions we hear from founders is “How do I manage my board?” It’s something that provokes
 anxiety, because this is the first time the founder/CEO is subject to external supervision, and the board has powers
 that include the firing of the CEO and the senior management. It is natural to feel this way. So, in this post, I’m
 sharing the collective wisdom of the YC community to help guide founders on best practices in managing a
 board––including running board meetings and overcoming board issues. Where possible, I’ve included specific examples
-
 - drawn from YC companies and partners - of how companies have handled board issues.
 
 But first, what’s the purpose of a board? The main role of a board is to help guide the company through major decisions,
@@ -73,19 +31,11 @@ industry, we won’t spend much time on board composition in this post, but the 
 lead your Series A and Series B rounds will typically join the board (later-stage growth stage investors don’t tend to
 ask for board seats).
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
-
 A smaller company will have 3-5 board seats and a public company board will have 7-9 seats. The composition tends to
 significantly change a few years before going public, beginning with recruiting independent board members. Later, as the
 company grows, specific topical expertise committees (e.g., audit and compensation) will also be formed.
 
-But in terms of how to pick the _right_ board members - for an early stage company - the #1 attribute you need is
+But in terms of how to pick the *right* board members - for an early stage company - the \#1 attribute you need is
 trust. And the only way you build trust is with time. We recommend getting to know partners at VC firms on your list at
 least 6 to 9 months before your fundraise. Mathilde Colin, the CEO of Front, shares her experience doing this
 [here](https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b).
@@ -99,7 +49,7 @@ Interestingly, many founders feel that this reference check and balance may be c
 in terms of providing feedback with the founders they work with - since they’re afraid of getting bad feedback and
 losing their next investment opportunity - so a number of founders have started bringing on independents much sooner.
 
-In their series B, Atrium founder Justin Kan added YC partner Michael Seibel––a former co-founder of his at [Justin.tv](http://justin.tv/).
+In their series B, Atrium founder Justin Kan added YC partner Michael Seibel––a former co-founder of his at Justin.tv.
 Similarly, the Brex founders (Henrique and Pedro) added TFG Founder/CEO Victor Lazarte, another founder from Brazil who
 has known them since the age of 16. The Faire founders (Max, Marcelo, and Daniele) added Brian Grassadonia, who leads
 Square Cash and was their former manager at Square. These are all examples of CEOs’ desire for deeply trusted
@@ -117,7 +67,7 @@ order to ensure a useful and productive group discussion.
 
 At the Series A stage, most meetings tend to be informal (like 1:1s), ranging anywhere from bi-weekly to even
 bi-monthly. By the time you reach the Series B stage, however, you should establish a regular meeting cadence: Every
-quarter, with all meetings scheduled a year in advance to ensure all board members can attend. Ideally, only in person!
+quarter, with all meetings scheduled a year in advance to ensure all board members can attend. Ideally, only in person\!
 
 ### Agenda and length
 
@@ -129,13 +79,13 @@ highlights/lowlights and KPIs (Key Performance Indicators), and then use the res
 than 1-2 strategic topics.
 
 Here’s an example agenda from the last board meeting I attended for Gusto (a company that offers payroll, benefits and
-HR for Small and Medium Businesses)––shared with their permission of course!
+HR for Small and Medium Businesses)––shared with their permission of course\!
 
-- Highlights / Lowlights (10 mins)
-- Performance / KPIs (50 mins)
-- Strategic topic 1: Gusto 3 Year Strategic Plan (45 mins)
-- Strategic topic 2: Engineering Org - Current and Future (45 mins)
-- Closed Session - 30 mins (e.g., Any board matters such as approvals, sensitive topics, and feedback)
+  - Highlights / Lowlights (10 mins)
+  - Performance / KPIs (50 mins)
+  - Strategic topic 1: Gusto 3 Year Strategic Plan (45 mins)
+  - Strategic topic 2: Engineering Org - Current and Future (45 mins)
+  - Closed Session - 30 mins (e.g., Any board matters such as approvals, sensitive topics, and feedback)
 
 What this shows is that the company spends no more than 1/3rd of the time on the state of the business, and then the
 majority of the time on the strategic issues that shape its future. I also recommend identifying and aligning on key
@@ -143,12 +93,12 @@ KPIs with your board members early as it helps the company standardize reporting
 board members to efficiently process the most important ones quickly - focusing on the “why” (why did or didn’t you hit
 certain goals?) - so they can turn to more strategic matters.
 
-What really allows Gusto to pull off their strategic focus within their board meeting, however, happens _outside_ the
+What really allows Gusto to pull off their strategic focus within their board meeting, however, happens *outside* the
 board meeting: (1) They do a lot of prep work on the areas where they’re seeking input. Ideally this is a topic you’re
 already discussing with your executive team so the materials can be leveraged for multiple discussions; and (2) They
 send out a pre-read version of their board deck at least a week in advance, collecting questions from each board member
 in a Google Doc three days before the meeting. The Gusto team then answers all those questions in the Google Doc by the
-morning of the board meeting, so the subsequent discussion _inside_ the board meeting can focus on the two most
+morning of the board meeting, so the subsequent discussion *inside* the board meeting can focus on the two most
 strategic topics.
 
 Getting through the entire agenda effectively requires strict time management. Consider assigning formal time-keeping
@@ -162,52 +112,26 @@ deck, Bryan Schrier from Sequoia has a great post [here](https://www.sequoiacap.
 This seems obvious, but is underrated: The structure of the board deck should align with the agenda of the meeting. For
 example, Gusto’s board decks are 30-50 pages long and typically have the following sections:
 
-- Highlights / Lowlights - 1 page
-- Performance / KPIs - 15 to 20 pages
-- Strategic topic 1: Gusto 3 Year Strategic Plan - 5 to 10 pages
-
-
-○ Options they considered
-
-
-○ Decision framework
-
-
-○ Product roadmap they plan to pursue
-
-
-○ Product areas they don’t plan to pursue
-
-
-○ Known vs. Unknown risks
-
-
-○ Initial assessment of economic value to the business
-
-
-○ Discussion on overall thinking and plan
-- Strategic topic 2: Engineering Org - 5 to 10 pages
-
-
-○ Current Engineering Org
-
-
-○ Hiring Scale
-
-
-○ Future Engineering Org (18 months)
-
-
-○ Talent Assessment
-
-
-○ Talent Plan: Retention, Development and Recruitment Opportunities
-- Closed Session (no slides)
-- Appendix
-
-
-○ Health of the organization (10 slides): Hiring metrics by department, Close rates, and Employee Pulse Survey -
-Results
+  - Highlights / Lowlights - 1 page
+  - Performance / KPIs - 15 to 20 pages
+  - Strategic topic 1: Gusto 3 Year Strategic Plan - 5 to 10 pages  
+    ○ Options they considered  
+    ○ Decision framework  
+    ○ Product roadmap they plan to pursue  
+    ○ Product areas they don’t plan to pursue  
+    ○ Known vs. Unknown risks  
+    ○ Initial assessment of economic value to the business  
+    ○ Discussion on overall thinking and plan
+  - Strategic topic 2: Engineering Org - 5 to 10 pages  
+    ○ Current Engineering Org  
+    ○ Hiring Scale  
+    ○ Future Engineering Org (18 months)  
+    ○ Talent Assessment  
+    ○ Talent Plan: Retention, Development and Recruitment Opportunities
+  - Closed Session (no slides)
+  - Appendix  
+    ○ Health of the organization (10 slides): Hiring metrics by department, Close rates, and Employee Pulse Survey -
+    Results
 
 ### Behind the scenes preparation
 
@@ -219,49 +143,25 @@ discussion.
 Here’s an example of a prep email sent by the Brex CFO to the team 28 days in advance of the board meeting, because
 obviously they are working on other things as well so they need that much time to prepare materials in between.
 
-- T-28 days:
-
-
-○ Founders/Chief of Staff: Identify the two strategic topics for discussion with the board
-
-
-○ Share with executive team to align on topics for discussion
-- T-18 days
-
-
-○ Founders/CFO/Finance team:Outline topics and write/collect content to be covered
-
-
-○ Share draft deck with end of month close data with executive team
-- T-11 days
-
-
-○ Execs comment/edit and provide feedback to Finance Team
-
-
-○ Finance Team finalizes the deck including formatting
-
-
-○ Final review if deck and backup data sent to founders and CFO
-- T-7 days
-
-
-○ Review and final run of edits
-
-
-○ Distribute deck to Board of Directors (BoD)
-- T-4 days
-
-
-○ BoD submits questions (particularly on KPIs)
-- T-2 days
-
-
-○ Brex consolidates and answers all questions from BoD
-- T-0
-
-
-○ Set expectations upfront (which sections you want to spend the most time and where do you need more feedback)
+  - T-28 days:  
+    ○ Founders/Chief of Staff: Identify the two strategic topics for discussion with the board  
+    ○ Share with executive team to align on topics for discussion
+  - T-18 days  
+    ○ Founders/CFO/Finance team:Outline topics and write/collect content to be covered  
+    ○ Share draft deck with end of month close data with executive team
+  - T-11 days  
+    ○ Execs comment/edit and provide feedback to Finance Team  
+    ○ Finance Team finalizes the deck including formatting  
+    ○ Final review if deck and backup data sent to founders and CFO
+  - T-7 days  
+    ○ Review and final run of edits  
+    ○ Distribute deck to Board of Directors (BoD)
+  - T-4 days  
+    ○ BoD submits questions (particularly on KPIs)
+  - T-2 days  
+    ○ Brex consolidates and answers all questions from BoD
+  - T-0  
+    ○ Set expectations upfront (which sections you want to spend the most time and where do you need more feedback)
 
 ### Involving the executive team in board meetings
 
@@ -285,13 +185,13 @@ board’s feedback directly; and more time at the end of the meeting for the CEO
 sensitive matters on their own.
 
 Remember: The board meeting is not about selling to your board members. Of course, you want to show off great work and
-celebrate milestones. But, your board is already bought in, and the highest leverage on their time - and yours! - is in
+celebrate milestones. But, your board is already bought in, and the highest leverage on their time - and yours\! - is in
 helping you get to the next milestone.
 
 ### Monthly updates
 
 In addition to quarterly in-person board meetings, it’s a good practice to send a 2-page monthly update email (sample
-[here](https://www.ycombinator.com/library/founder_link?slug=3w-how-to-create-and-manage-a-board)) to the board at the beginning of every month. The email
+[here](founder_link?slug=3w-how-to-create-and-manage-a-board)) to the board at the beginning of every month. The email
 usually includes a summary of last month’s performance; a hiring update; a section outlining burning issues; and a
 section with specific asks for help.
 
@@ -305,7 +205,7 @@ beyond to help you with your specific asks; (2) The board is better prepared for
 It is a great way for you as the CEO to take a step back and reflect on the most important elements of your business and
 objectively measure how well you are doing as a company. Often writing vs. talking is more effective for showcasing your
 clarity of thought, and written narrative is more compelling in sharing ideas than bullet points and slides, as Jeff
-Bezos has argued [about\\
+Bezos has argued [about
 memos](https://www.inc.com/carmine-gallo/jeff-bezos-bans-powerpoint-in-meetings-his-replacement-is-brilliant.html).
 
 ### Bonus: Letter to the board
@@ -331,7 +231,7 @@ collective advice on navigating these below.
 
 ### Mixed messages
 
-Conflicting viewpoints are a good thing! The job of the board is to push you on your strategy and to ask questions that
+Conflicting viewpoints are a good thing\! The job of the board is to push you on your strategy and to ask questions that
 help you sharpen your thinking. As a CEO you should welcome conflicting opinions and should not feel pressure to get the
 board to come to a consensus decision.
 
@@ -355,7 +255,7 @@ As you get a better sense of the areas where different board members can be most
 execs, offering fundraising advice, or other areas - don’t hesitate to follow up directly with them outside of board
 meetings on those topics.
 
-Many CEOs seem to think it’s important to update every board member 1:1 on every topic. To which I say: NO! Not every
+Many CEOs seem to think it’s important to update every board member 1:1 on every topic. To which I say: NO\! Not every
 board member needs to be in the loop on every topic or issue; it’s an ineffective use of everyone’s time, including
 yours. I also think it is a poor use of time to update every board member 1:1 before every board meeting. Unless there
 are sensitive topics that need to be discussed before hand, don’t waste time doing 1:1 calls with board members to get
@@ -394,7 +294,7 @@ and how the board can intervene. Use every challenging situation as an opportuni
 
 ### Removing board members
 
-This one is really hard! The situation arises when a board member is destructive to the company - trying to meddle,
+This one is really hard\! The situation arises when a board member is destructive to the company - trying to meddle,
 micromanage, act like an operator running the company - and sometimes even leaking information to the press. If you have
 tried everything (such as talking to the board member directly) and are convinced that your board member is destructive
 to the company, then you have a couple of options. I suggest the following, either (1) Approach someone senior at the
@@ -402,7 +302,7 @@ firm (where the board member works) and seek a replacement or (2) Add more board
 investment rounds) who can be a sounding board and help address some of the issues.
 
 If you pursue option (1), you will burn bridges with the board member and potentially the firm. If your company is not
-in good standing ( _i.e._, metrics don’t look good, and potential doesn’t look great) then it will be hard to find a
+in good standing (*i.e.*, metrics don’t look good, and potential doesn’t look great) then it will be hard to find a
 replacement. You will likely be stuck with your current board member. However, if your company is doing well then you
 have more negotiating leverage than you think. If your company is one of the best performing companies in the VC’s
 portfolio, the firm will work hard to find you the board member that you want.
@@ -427,6 +327,7 @@ for the company. And of course, what is considered an effective board will evolv
 you can be intentional in building the right team of advisors up front, using the best practices outlined above. If
 knowing is half the battle, why not enlist the best help you can get?
 
-_Special thanks to Justin Kan, Sonal Chokshi, Ali Rowghani, Daniel Gackle, Adora Cheung, Craig Cannon, Gusto, Brex,_
-_Convoy and Faire founders for reading multiple drafts of this essay. Thank you to numerous YC founders for sharing their_
-_perspectives on this topic._
+*Special thanks to Justin Kan, Sonal Chokshi, Ali Rowghani, Daniel Gackle, Adora Cheung, Craig Cannon, Gusto, Brex,
+Convoy and Faire founders for reading multiple drafts of this essay. Thank you to numerous YC founders for sharing their
+perspectives on this topic.*
+

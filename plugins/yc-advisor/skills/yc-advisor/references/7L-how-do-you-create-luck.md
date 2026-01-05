@@ -3,95 +3,60 @@
 **Author:** Dalton Caldwell
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/7L-how-do-you-create-luck
+**YouTube ID:** NmEyx9TEkRw
 
 ---
 
-How do you create luck?
-
-# How do you create luck?
-
-by [Dalton Caldwell](https://www.ycombinator.com/people/)
-
-How to Create Luck - Dalton Caldwell, Y Combinator Partner - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[How to Create Luck - Dalton Caldwell, Y Combinator Partner](https://www.youtube.com/watch?v=NmEyx9TEkRw)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[Ryan Hoover on Product Hunt's Acquisition and Lessons Learned About Launches with Dalton Caldwell\\
-\\
-50:30](https://www.youtube.com/watch?v=JaqUUAYi_Yo)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-[Why am I seeing this?](https://support.google.com/youtube/answer/9004474?hl=en)
-
-Watch on
-
-0:00
-
-0:00 / 6:04
-
-•Watch full videoLive
-
-•
-Introduction
-
-41K views
-
-Over 1 year ago
-
 YC Partner Dalton Caldwell on how to create luck.
+
+## Transcript
+
+I'm Dalton I'm a partner at Y Combinator I was the founder of a company called imeem in 2003 and a company called mixed-media labs in 2010 I'm working at YC since 2013 okay how do you create luck the way to create create luck is to move much faster than everyone else and to give yourselves as many opportunity for that lucky thing to happen to you so say that everyone is running at five miles an hour imagine that you're able to run at 15
+
+miles an hour you can run the circles around everyone and so if you're a startup that's moving really fast it gives you more opportunities to talk to more customers to change your idea more often to write code more quickly everything gets weight easier if you've moved much faster and so we've seen the founders that get the the luckiest are actually the founders that move the fastest to give them as much surface area as possible to get super lucky one example of course is Breck's which is the credit card for startups company
+
+that's been doing extremely well when we initially funded them it was for a completely different idea it was for a VR headset idea and if the founders weren't lucky they would have worked on that idea realized it wasn't gonna work and given up and the way they got lucky is they realized very quickly that that idea wasn't gonna work probably a month or two into the batch probably like six weeks and she decided to change ideas and they didn't decide just about one idea to change to
+
+they iteratively went through half a dozen or more different ideas and very quickly talked to all the world's experts about their other ideas and were able to cross them off a list as being in good ideals and so by doing this really fast process really quickly during the batch they zeroed in on what became Breck's very quickly right and so if they were way slower moving and they weren't creating luck for themselves the odds were definitely the it was definitely the case that that company was not gonna work and so they did that I've seen other companies do the same thing the
+
+same thing for retool where they had to change ideas and they move very quickly to find a much better idea also a company called magic did the same thing that I worked with where they originally were funded to do something completely different and they moved so fast going through different ideas and actually building full prototypes of the ideas and even launching the ideas to customers they got lucky and found an idea that really took off and so that's how they all of those companies dramatically increase the surface area of luck if your pre company how do you create
+
+luck its to know as many interesting people as possible and to learn from as many interesting people as possible and I think another way you can create luck is to do things that make you super uncomfortable and so I think a lot of the times founders that may not get as lucky just stay at home and they wait for the world to come to them and they wait to be recognized for their secret genius whereas the folks that are able to create luck just go out there and
+
+interact with people and tell other people about their ideas they build things a great example this is if you look at the the history of Facebook Mark Zuckerberg was constantly creating prototypes and giving him to users he was creating like music plug-ins for Winamp he was making hacks for his friends like he was always just kind of making stuff and giving it to people and that was the surface area by which the genesis of Facebook was created was he was just kind of like making stuff and so you can dramatically increase the
+
+chance that you will get lucky if you just make things you learn how to make things really fast you learn how to make things by yourself or with other people that are interesting and you give them to other people you don't just hide them to yourself and if you just do that a lot things start happening for you is what I've noticed in life so I would definitely recommend them when do you know when to double down on your strengths versus to go outside of what you know I think you could go both ways on that so for instance if you know
+
+literally nothing about science and you know nothing about biology and you decide you want to cure cancer with your startup that's a pretty tall order maybe it's possible I can't say impossible but the odds that you will get super lucky creating a cure for cancer as someone as a complete outsider does not feel like playing To Your Strengths on the other hand it sometimes it's the case where experts in a space are very uninterested and give up on anything in the space and
+
+it takes sort of an outsider's philosophy to be able to just to see the greatness in it and so maybe the delineation is if you have the technical skills to build the product you want to build then I think it's ok to get in way over your head but but if you have absolutely no relevant skills and you're trying to break in to break into something that requires technical skills I think you're gonna have a pretty hard time I think the way that you create luck
+
+when you're Series A or later is by continuing to move really fast and having a culture of fast moving experimentation and also to hire people that move so fast that they get lucky too right like if you have if if you're a very fast moving founder and you continue to to hire people that are able to iterate through ideas very quickly and have this culture of getting more done in a set amount of time than most people would not be able to that's how
+
+you can make your culture continuously lucky you you
+
+## Transcript
+
+I'm Dalton I'm a partner at Y Combinator I was the founder of a company called imeem in 2003 and a company called mixed-media labs in 2010 I'm working at YC since 2013 okay how do you create luck the way to create create luck is to move much faster than everyone else and to give yourselves as many opportunity for that lucky thing to happen to you so say that everyone is running at five miles an hour imagine that you're able to run at 15
+
+miles an hour you can run the circles around everyone and so if you're a startup that's moving really fast it gives you more opportunities to talk to more customers to change your idea more often to write code more quickly everything gets weight easier if you've moved much faster and so we've seen the founders that get the the luckiest are actually the founders that move the fastest to give them as much surface area as possible to get super lucky one example of course is Breck's which is the credit card for startups company
+
+that's been doing extremely well when we initially funded them it was for a completely different idea it was for a VR headset idea and if the founders weren't lucky they would have worked on that idea realized it wasn't gonna work and given up and the way they got lucky is they realized very quickly that that idea wasn't gonna work probably a month or two into the batch probably like six weeks and she decided to change ideas and they didn't decide just about one idea to change to
+
+they iteratively went through half a dozen or more different ideas and very quickly talked to all the world's experts about their other ideas and were able to cross them off a list as being in good ideals and so by doing this really fast process really quickly during the batch they zeroed in on what became Breck's very quickly right and so if they were way slower moving and they weren't creating luck for themselves the odds were definitely the it was definitely the case that that company was not gonna work and so they did that I've seen other companies do the same thing the
+
+same thing for retool where they had to change ideas and they move very quickly to find a much better idea also a company called magic did the same thing that I worked with where they originally were funded to do something completely different and they moved so fast going through different ideas and actually building full prototypes of the ideas and even launching the ideas to customers they got lucky and found an idea that really took off and so that's how they all of those companies dramatically increase the surface area of luck if your pre company how do you create
+
+luck its to know as many interesting people as possible and to learn from as many interesting people as possible and I think another way you can create luck is to do things that make you super uncomfortable and so I think a lot of the times founders that may not get as lucky just stay at home and they wait for the world to come to them and they wait to be recognized for their secret genius whereas the folks that are able to create luck just go out there and
+
+interact with people and tell other people about their ideas they build things a great example this is if you look at the the history of Facebook Mark Zuckerberg was constantly creating prototypes and giving him to users he was creating like music plug-ins for Winamp he was making hacks for his friends like he was always just kind of making stuff and giving it to people and that was the surface area by which the genesis of Facebook was created was he was just kind of like making stuff and so you can dramatically increase the
+
+chance that you will get lucky if you just make things you learn how to make things really fast you learn how to make things by yourself or with other people that are interesting and you give them to other people you don't just hide them to yourself and if you just do that a lot things start happening for you is what I've noticed in life so I would definitely recommend them when do you know when to double down on your strengths versus to go outside of what you know I think you could go both ways on that so for instance if you know
+
+literally nothing about science and you know nothing about biology and you decide you want to cure cancer with your startup that's a pretty tall order maybe it's possible I can't say impossible but the odds that you will get super lucky creating a cure for cancer as someone as a complete outsider does not feel like playing To Your Strengths on the other hand it sometimes it's the case where experts in a space are very uninterested and give up on anything in the space and
+
+it takes sort of an outsider's philosophy to be able to just to see the greatness in it and so maybe the delineation is if you have the technical skills to build the product you want to build then I think it's ok to get in way over your head but but if you have absolutely no relevant skills and you're trying to break in to break into something that requires technical skills I think you're gonna have a pretty hard time I think the way that you create luck
+
+when you're Series A or later is by continuing to move really fast and having a culture of fast moving experimentation and also to hire people that move so fast that they get lucky too right like if you have if if you're a very fast moving founder and you continue to to hire people that are able to iterate through ideas very quickly and have this culture of getting more done in a set amount of time than most people would not be able to that's how
+
+you can make your culture continuously lucky you you

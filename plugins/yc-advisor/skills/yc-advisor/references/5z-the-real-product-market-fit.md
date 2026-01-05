@@ -3,120 +3,9 @@
 **Author:** Michael Seibel
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/5z-the-real-product-market-fit
+**YouTube ID:** FBOLk9s9Ci4
 
 ---
-
-The real product-market fit
-
-# The real product-market fit
-
-by [Michael Seibel](https://www.ycombinator.com/people/michael-seibel)
-
-The Real Product Market Fit by Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[The Real Product Market Fit by Michael Seibel](https://www.youtube.com/watch?v=FBOLk9s9Ci4)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[Users You Don't Want by Michael Seibel\\
-\\
-6:55](https://www.youtube.com/watch?v=BSYExUUrmD4)
-
-Up NextCancelAutoplay is paused
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 13:18
-
-•Watch full videoLive
-
-•
-The Real Product Market Fit
-
-234K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-The Real Product Market Fit
-
-1:00
-
-Why do many founders think they have product market fit when they don’t?
-
-5:45
-
-Building a successful company is not a single variable problem
-
-7:30
-
-Socialcam didn’t hit product market fit
-
-8:40
-
-Justin.tv had $1M in profit before reaching product market fit
-
-12:30
-
-Some companies take a long time
 
 I often talk to founders who believe they’ve found product/market fit when they haven’t. This is a huge problem because
 they start hiring people, increasing burn, and optimizing their product before they’ve actually discovered what needs to
@@ -124,7 +13,7 @@ be built.
 
 I’m writing this post to help you understand when you’ve really found product/market fit.
 
-To start, read Marc Andreessen’s “ [On product/market fit for\\
+To start, read Marc Andreessen’s “[On product/market fit for
 startups](https://pmarchive.com/guide_to_startups_part4.html)”. It has been the single most influential post for me as
 an entrepreneur and was the first time I ever read the term.
 
@@ -168,3 +57,4 @@ users have a real, meaningful problem, launch quickly, and listen to your users.
 Once you’ve actually reached product/market fit—congratulations—you can begin optimizing your core product, hiring
 specialists to increase your efficiency, and make strategic investments. Also, you’ve made it further than most startups
 ever dream.
+

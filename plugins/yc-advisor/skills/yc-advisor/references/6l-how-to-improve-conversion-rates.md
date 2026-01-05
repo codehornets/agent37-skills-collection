@@ -3,106 +3,9 @@
 **Author:** Kevin Hale
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6l-how-to-improve-conversion-rates
+**YouTube ID:** PGqX9fpweyc
 
 ---
-
-How to improve conversion rates
-
-# How to improve conversion rates
-
-by Kevin Hale
-
-Kevin Hale - How to Improve Conversion Rates - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Kevin Hale - How to Improve Conversion Rates](https://www.youtube.com/watch?v=PGqX9fpweyc)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-Up NextCancelAutoplay is paused
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[How To Cold Email Investors - Michael Seibel\\
-\\
-7:52](https://www.youtube.com/watch?v=A3MmYbH1hbs)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-[Why am I seeing this?](https://support.google.com/youtube/answer/9004474?hl=en)
-
-Watch on
-
-0:00
-
-0:00 / 18:57
-
-•Watch full videoLive
-
-•
-Introduction
-
-68K views
-
-Over 1 year ago
-
-YC Partner Kevin Hale covers the first principles of conversion, one of the main drivers of growth for your startup, and
-how you can improve it starting with your landing page.
-
-**Watch this if:**
-
-- your conversion rate is less than 1%
-- you're trying to improve your landing page
-
-## Transcript
 
 So this presentation on improving conversion rates is designed to mostly focus on, like, landing pages, but all of the principles and ideas that I'll talk about in this talk actually can help you improve the conversion rates of almost anything, any user interface. So keep that in mind. This is a typical example conversion rate funnel. And when you're trying to improve in conversion rate, you're basically trying to improve the efficiency of going from one step to the next. And the thing is, why we care about conversion rate, is because it's part of two different aspects of growth, the two main, sort of, drivers. And so growth is kind of like the balance between conversion and churn. And basically, growth happens as a gap between the two.
 
@@ -134,7 +37,7 @@ How much is it? What's the catch? This is the one that so many B2B enterprise co
 
 And then lastly is where can I get help? There's always a percentage of users who will go to your website and it doesn't matter that you have all the FAQs, you've written everything down. you've created these beautiful video documentation. They will just go like, "I just wanna ask someone, I just need to talk to somebody. I need someone to tell me directly." And part of it is some people are just like, "I just wanna see if there's a real person behind this." That's number one. Or some people just can't be bothered. And sometimes it's easier for them to just directly ask than navigate through the website. And if you don't make it really easy to find and contact you or make it look like that you were going to help them if they start using the product, they probably won't use it.
 
-This talk is so short. So that's basically it, those are the seven questions. We are now gonna go through two examples of startup school companies that sent their stuff to me, and I don't really have their permission, but they did submit it when they asked to have a design critique done in the Startup School forums. So I feel like we're gonna be okay. Okay. So the first one we're gonna do is [meetingroom.io](http://meetingroom.io/). All right. First question, what is the call to action? What is it that this company most wants me to do? And then what I do is I basically then try to do that thing and just follow it all the way through and just see how far away am I in the magic moment. So these guys create virtual meeting room platforms. So basically, we don't have a copy-paste sentence, but basically it's like, you want to meet in VR space with someone, you can use this to help create that space and create that sort of meeting.
+This talk is so short. So that's basically it, those are the seven questions. We are now gonna go through two examples of startup school companies that sent their stuff to me, and I don't really have their permission, but they did submit it when they asked to have a design critique done in the Startup School forums. So I feel like we're gonna be okay. Okay. So the first one we're gonna do is meetingroom.io. All right. First question, what is the call to action? What is it that this company most wants me to do? And then what I do is I basically then try to do that thing and just follow it all the way through and just see how far away am I in the magic moment. So these guys create virtual meeting room platforms. So basically, we don't have a copy-paste sentence, but basically it's like, you want to meet in VR space with someone, you can use this to help create that space and create that sort of meeting.
 
 Imagine it is, get a virtual room right now. There's a lot of things that are, sort of, competing with it for all the call to actions on this page. And then we, kind of, don't repeat it down here that reminds me where to go. So let's go to the most efficient, get a virtual meeting room right now. And then on here, we have competing calls to action to download and then we have manage rooms. And then there's a start here to get to your virtual room, which is a carousel that walks you through seven steps to finally get to making a room, but none of these are the actual forms to do it. So you have to then go here and then hopefully you will remember all of those seven steps in the carousel and then walk all the way through it.
 

@@ -1,120 +1,11 @@
-# On starting and scaling Bloom Institute of Technology
+# On starting and scaling Bloom Institute of Technology 
 
 **Author:** Austen Allred
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/5N-on-starting-and-scaling-bloom-institute-of-technology
+**YouTube ID:** _yIAYZtdrfI
 
 ---
-
-On starting and scaling Bloom Institute of Technology
-
-# On starting and scaling Bloom Institute of Technology
-
-by Austen Allred
-
-YouTube
-
-18K views
-
-Over 1 year ago
-
-## Chapters
-
-0:35
-
-Encouraging people to do something that they're scared to do
-
-4:50
-
-Where did the insight for Lambda School come from?
-
-6:00
-
-College vs developer schools
-
-10:00
-
-Building a network
-
-11:50
-
-Does Austen see value in a traditional liberal arts education?
-
-14:30
-
-Steven Klaiber-Noble asks - As competitors begin to copy your model what front do you believe you'll be competing on?
-
-17:30
-
-Why did Austen choose to raise money?
-
-19:40
-
-Fundraising falling through on Austen's first startup
-
-21:10
-
-Moving back to Utah and writing a book about growth
-
-23:00
-
-Why Austen wrote a book
-
-26:00
-
-"Starting a company is by definition saying, I think what I can do is worth more than what other people will pay me for."
-
-27:00
-
-Mispriced human capital
-
-29:55
-
-Other opportunities for Lambda School
-
-32:20
-
-Modeling risk
-
-35:10
-
-David Kofoed Wind asks - When Lambda School is incentivized to take in people that will land high paying jobs, how do you think about the diversity of candidates? One would imagine that it quickly becomes a game of pattern matching the stereotypical SV people.
-
-37:25
-
-Will Lambda School ever not be remote?
-
-40:50
-
-Dave Dawson asks - You appear to be on the successful path now, was there a point early in Lambda School when you wanted to stop?
-
-43:20
-
-Helping everyone become an autodidact
-
-46:20
-
-Rethinking where to start on an online course
-
-47:45
-
-Dave Dawson asks - What keeps you up at night at this point?
-
-49:20
-
-Dayo Koleowo asks - “I have made remarks I do not agree with” - from Austen's Twitter bio. What is that one remark you wish you didn’t have to disagree with?
-
-53:00
-
-Choosing remote work as a core problem to solve in your company
-
-55:30
-
-Analysts aren't good at measuring product quality
-
-57:10
-
-Teaching taste
 
 [Austen Allred](https://twitter.com/Austen) is the CEO and cofounder of [Lambda School](https://lambdaschool.com/).
 
@@ -124,14 +15,14 @@ You can learn more about Lambda School at [lambdaschool.com](https://lambdaschoo
 
 Austen is on Twitter at [@austen](https://twitter.com/Austen).
 
-* * *
+-----
 
 ## Transcript
 
 Craig Cannon \[00:00:00\] - Hey, how's it going? This is Craig Cannon and you're listening to Y Combinator's Podcast.
 Today's episode is with Austen Allred. Austen is the CEO and co-founder of Lambda School. Lambda School is a CS
 education that's free until you get a job. They were in the summer 2017 batch of YC. You can learn more about Lambda
-School at [lambdaschool.com](http://lambdaschool.com/) and Austen is on Twitter [@Austen](https://twitter.com/Austen).
+School at [lambdaschool.com](http://lambdaschool.com) and Austen is on Twitter [@Austen](https://twitter.com/Austen).
 All right, here we go. Today we have Austen Allred. He is the CEO of Lambda School, which was in the summer of 2017
 batch and Lambda School is a CS education that is free until you get a job. Austen, what I wanted to ask you about, you
 mentioned this on a few podcasts that I've listened to you on and basically, there's this core idea in Lambda School
@@ -862,7 +753,7 @@ differences.
 Craig Cannon \[01:00:07\] - Fair enough. I like being critical sometimes. Especially of products. All right man, so if
 people want to sign up or learn more about Lambda School, where should they go?
 
-Austen Allred \[01:00:16\] - Yeah, at [lambdaschool.com](http://lambdaschool.com/).
+Austen Allred \[01:00:16\] - Yeah, at [lambdaschool.com](http://lambdaschool.com).
 
 Craig Cannon \[01:00:18\] - Sweet and you're on Twitter at?
 
@@ -875,3 +766,4 @@ Austen Allred \[01:00:21\] - Like the feminist author, not like the city.
 Craig Cannon \[01:00:25\] - All right, thanks for coming in.
 
 Austen Allred \[01:00:25\] - Perfect, thank you.
+

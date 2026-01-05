@@ -4,13 +4,8 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo
 
+
 ---
-
-The second job of a startup CEO
-
-# The second job of a startup CEO
-
-by Ali Rowghani
 
 Successful startups go through three broad phases as they scale, and a startup CEO’s job changes dramatically in each
 phase. A CEO’s first job is to build a product users love; the second job is to build a company to maximize the
@@ -22,7 +17,7 @@ successfully into Phase 2, and some who have not. The future of your startup dep
 **Your First Creation is a Product, Your Second Creation is a Company**
 
 A CEO’s first job is to build a great product and find a small group of people who love it and use it
-enthusiastically.[1](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo#footnote1) A Phase 1 startup CEO is the Doer-in-Chief. You
+enthusiastically.<sup id="footnoteid1"><a href="#footnote1">1</a></sup> A Phase 1 startup CEO is the Doer-in-Chief. You
 must be deeply involved in both building the product (observing/interacting with users, writing code, designing product
 specs) and acquiring users/customers. Delegation should not be a word in your vocabulary. If you succeed, it’s because
 your deep involvement and unique vision give the company a perspective and drive that few others have. The other
@@ -41,14 +36,6 @@ customers on a daily basis. It’s hard to stop answering support tickets, doing
 latest build. It’s even hard to delegate the random and sometimes menial tasks that you’ve accumulated over the years
 because they were “no one’s job.” But you have to stop doing all of these things so that you can safeguard your time for
 high leverage tasks that only CEOs can do.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 This transition can cause confusion and even friction with your team, who can suddenly wonder what you are doing if
 you’re no longer committing code or why you’re suddenly delegating a bunch of menial tasks that you’d been doing for
@@ -77,9 +64,9 @@ separate product and buy Instagram, WhatsApp, and Oculus.
 
 Stated simply, your job as a Phase 2 startup CEO is to delegate everything you did in Phase 1 in order to create time to
 focus on three critical operational tasks that only the CEO can do
-[2](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo#footnote2):
+<sup id="footnoteid2"><a href="#footnote2">2</a></sup>:
 
-**1\. Hiring a Leadership Team and Making Sure They Work Well Together**
+**1. Hiring a Leadership Team and Making Sure They Work Well Together**
 
 Only the CEO can hire the company’s senior leadership team and make sure that they work well together. You can get help
 and feedback from others as you hire, but when you bring leaders like a VP of Engineering, VP of Sales, and CFO on
@@ -114,7 +101,10 @@ Your job is done when your entire leadership team has been hired, you’ve coach
 can operate at a high level with minimal involvement from you. Don’t be surprised if 50% of your time goes to hiring and
 managing your senior team; it’s time well spent.
 
-**2\. Creating Purpose and Alignment**
+<div id="creating-purpose-and-alignment">
+</div>
+
+**2. Creating Purpose and Alignment**
 
 The second task that CEOs cannot delegate is creating purpose and alignment at the company. When your startup has less
 than 10 people who all sit together, you don’t need to work very hard to keep people aligned. Everyone can easily hear
@@ -146,7 +136,7 @@ Can you define the Mission, Strategy, and Metrics for your startup in a way that
 Phase 2 CEOs can’t readily do this. And, when they sit down to define it, they find it harder than they thought. The
 diagram below captures the task at hand:
 
-[![Mission-to-Metrics](https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png" alt="Mission-to-Metrics" width="1016" height="981" class="aligncenter size-full wp-image-1097571" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png)
 
 Your mission should feel ambitious and permanent. It should find its roots in the reasons you started your company and
 should not be something that you change very often. Conversely, you should revisit your product strategy and
@@ -173,7 +163,7 @@ more than what feels reasonable, which may run counter to your instinct to be ef
 internalize the message unless you communicate it constantly. The real test is not simply whether employees can repeat
 it, but whether they can make good decisions in your absence based on the context you have provided.
 
-**3\. Nurturing Company Culture**
+**3. Nurturing Company Culture**
 
 There are few concepts in company building that are as slippery as culture. Fundamentally, culture is defined by the way
 people treat one another in a company -- both the way management treats employees and the way people treat one another.
@@ -224,19 +214,20 @@ leadership team, delegated the day-to-day activities to them, and codified Missi
 for them to operate effectively without your daily involvement. Your reward is the bounty of time to think and plan the
 future of your startup.
 
-* * *
+-----
 
 **NOTES:**
 
-**1** No one has written more eloquently about this topic than YC co-founder Paul Graham in essays
-like [How To Start A Startup](http://www.paulgraham.com/start.html) and [Do Things That Don’t\\
-Scale](http://www.paulgraham.com/ds.html). [↩](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo#footnoteid1)
+<b id="footnote1">1</b> No one has written more eloquently about this topic than YC co-founder Paul Graham in essays
+like [How To Start A Startup](http://www.paulgraham.com/start.html) and [Do Things That Don’t
+Scale](http://www.paulgraham.com/ds.html).[↩](#footnoteid1)
 
-**2** The focus of this essay is on a CEO’s operational responsibilities. There are certain
+<b id="footnote2">2</b> The focus of this essay is on a CEO’s operational responsibilities. There are certain
 non-operational responsibilities such as building/managing a Board, raising money, interacting with the press, etc.,
 that are also part of a CEO’s job, especially when a startup is small. Generally speaking, the less time a Phase 2 CEO
 spends on these types of non-operational tasks, the better, because they come at the cost of running the
-company. [↩](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo#footnoteid2)
+company.[↩](#footnoteid2)
 
-_Thanks to Daniel Yanisse, Patrick Collison, David Rusenko, Ben Holzman, Michael Seibel, Ed Catmull, Sam Altman, Leore_
-_Avidar, Tyler Bosmeny, and the YC Continuity team for reading drafts of this essay._
+*Thanks to Daniel Yanisse, Patrick Collison, David Rusenko, Ben Holzman, Michael Seibel, Ed Catmull, Sam Altman, Leore
+Avidar, Tyler Bosmeny, and the YC Continuity team for reading drafts of this essay.*
+

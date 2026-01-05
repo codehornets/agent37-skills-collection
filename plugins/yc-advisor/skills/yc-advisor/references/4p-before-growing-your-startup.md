@@ -4,13 +4,8 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4p-before-growing-your-startup
 
+
 ---
-
-Before growing your startup
-
-# Before growing your startup
-
-by Sam Altman
 
 [Startups are defined by growth](http://www.paulgraham.com/growth.html), but growth isn't step one in building a great
 company. If you focus on trying to grow before you make a product people love, you are unlikely to succeed.
@@ -29,14 +24,6 @@ Facebook, for example, had a product people talked about obsessively from the st
 discovering how to make their product loved. Once they had that, it grew exponentially by word of mouth, and that still
 continues today.
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
-
 This is true for enterprise and hard tech companies, too– your sales process becomes much easier when word has spread
 that what you're making is great.
 
@@ -50,10 +37,10 @@ capital for growth– the problems will still be there, with higher expectations
 
 And if you're just starting out, take the time to build a product your users love, no matter how long it takes. When
 they actively recommend your product to friends, you're in the right place.
-[1](https://www.ycombinator.com/library/4p-before-growing-your-startup#footnote1)
+<sup id="footnoteid1"><a href="#footnote1">1</a></sup>
 
-* * *
+-----
 
-**Notes**
+**Notes**  
+<b id="footnote1">1</b> Net Promoter Score can be a good way to measure user love too. [↩](#footnoteid1)
 
-**1** Net Promoter Score can be a good way to measure user love too. [↩](https://www.ycombinator.com/library/4p-before-growing-your-startup#footnoteid1)

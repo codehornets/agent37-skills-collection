@@ -3,164 +3,9 @@
 **Author:** Harry Zhang
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob
+**YouTube ID:** O-LKD3yUnk0
 
 ---
-
-On starting and scaling direct mail automation startup Lob
-
-# On starting and scaling direct mail automation startup Lob
-
-by Harry Zhang
-
-Harry Zhang with Kevin Hale on Building Lob to Automate the Offline World - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Harry Zhang with Kevin Hale on Building Lob to Automate the Offline World](https://www.youtube.com/watch?v=O-LKD3yUnk0)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[Gustaf Alstromer - How to Get Users and Grow\\
-\\
-1:04:15](https://www.youtube.com/watch?v=T9ikpoF2GH0)
-
-Up NextCancelAutoplay is paused
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 40:38
-
-•Watch full videoLive
-
-•
-Harry's intro
-
-7,030 views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Harry's intro
-
-0:10
-
-What did Lob have when they applied to YC?
-
-1:30
-
-Documentation as an API company
-
-2:45
-
-Where did the insight to create Lob come from?
-
-3:55
-
-Lob's first version and first customer
-
-6:55
-
-Closing their first big customer then signing others
-
-12:00
-
-Did Harry always know Lob would be an API company?
-
-13:30
-
-How long did it take to work up to enterprise customers?
-
-14:00
-
-Pricing
-
-19:15
-
-Creating a product roadmap
-
-20:55
-
-Tradeoffs when building product
-
-21:50
-
-Competing for top engineers as an API company
-
-24:00
-
-Options vs RSUs
-
-27:30
-
-Sales mistakes
-
-31:50
-
-Building out features for enterprise clients
-
-33:45
-
-Why did Lob choose to not vertically integrate?
-
-39:00
-
-How has Harry had to change as a founder over the life of Lob?
 
 [Harry Zhang](https://twitter.com/harryzhang) is the cofounder of [Lob](https://lob.com/). Lob makes it possible for
 enterprises to programmatically send physical mail. They were in the Summer 2013 batch of YC.
@@ -175,7 +20,7 @@ Harry is on Twitter [@harryzhang](https://twitter.com/harryzhang) and Kevin is
 Craig Cannon \[00:00\] - Hey, how's it going? This is Craig Cannon, and you're listening to Y Combinator's podcast.
 Today's episode is with Harry Zhang and Kevin Hale. Kevin is a partner at YC. Harry is the co-founder of Lob. Lob makes
 it possible for enterprises to programmatically send physical mail. They were in the summer 2013 batch of YC. You can
-try Lob at [lob.com](http://lob.com/). Harry is on Twitter [@harryzhang](https://twitter.com/harryzhang), and Kevin is
+try Lob at [lob.com](http://lob.com). Harry is on Twitter [@harryzhang](https://twitter.com/harryzhang), and Kevin is
 [@ilikevests](https://twitter.com/ilikevests). All right, here we go. Today we have Harry Zhang, co-founder of Lob. Lob
 makes APIs for companies to send letters and postcards. Kevin has a question for you.
 
@@ -589,18 +434,18 @@ Harry Zhang \[28:46\] - Yeah, coffee mugs. There's a point where we thought it w
 coffee mugs on demand through our API. We wanted to be able to print on anything. How this happened, we had a customer
 who came to us and told us that they had this use case for coffee mugs, and it was a big number, a really big number for
 us. And when you're small, every single deal looks super valuable, and we were like, "This is awesome. It will be so
-cool to do coffee mugs!" We built the product. So we told the customer, "We can definitely do it for you. We'll have it
+cool to do coffee mugs\!" We built the product. So we told the customer, "We can definitely do it for you. We'll have it
 for you Tues." And we scrambled, and we hustled super hard. We built a fully-functioning mugs API product, but we didn't
 sign any paperwork for this customer. We built this whole entire thing. We spent two weeks of valuable engineering time.
 We met the customer. Mr. Customer, we have the mugs API, here's how you use it. And he was like, "Awesome, we'll get
 right on it." He went dark, he stopped responding. I was super disappointed. To this day, we sold two mugs through our
-mugs API, two. One of 'em went to another YC partner, actually, Dalton. He was working at [App.net](http://app.net/), and I convinced him
+mugs API, two. One of 'em went to another YC partner, actually, Dalton. He was working at App.net, and I convinced him
 that he should definitely do mugs as well. And I think he put in one order for it, and it worked. He's like, "This is
 awesome." We killed the product a little bit shortly after. But I think it was a really valuable lesson in that you
 always want to be selling a little bit ahead of where you are, but you also want to align with the customer
 
 Harry Zhang \[30:11\] - what you actually have and don't have. That actually helped us close one of our biggest
-customers today in [Booking.com](http://booking.com/). Essentially, how this opportunity came about is they were already
+customers today in [Booking.com](http://Booking.com). Essentially, how this opportunity came about is they were already
 a customer of Lob using our address verification API. They had sort of this moment in time with GDPR where they started
 reevaluating all their vendors for print. We sort of got roped into consideration. One of the key things that was really
 important to them was actually having operations in Europe. They were familiar with our API in the US. They knew it
@@ -659,7 +504,7 @@ Harry Zhang \[34:20\] - That's correct.
 
 Kevin Hale \[34:23\] - What I'm kind of curious about is you've seen this trend that sort of sees companies get larger
 and larger where they get more vertically integrated, where they all want to do every step of the process so they can
-own it in terms of quality but also in R&D, et cetera. And I'm kind of curious, do you feel like is that a thing that
+own it in terms of quality but also in R\&D, et cetera. And I'm kind of curious, do you feel like is that a thing that
 you guys will eventually do? Or if not, why not? For example, it's just like basically, you buy a printer, or you own
 some printing facilities and be like, okay, great. Because this whole flexibility and mail format, et cetera, part of
 the reason that you have to be cautious about what you go into is because you have to go and spend time to find the
@@ -744,3 +589,4 @@ Craig Cannon \[40:44\] - Yeah, that's a great piece of advice. All right, thanks
 Harry Zhang \[40:47\] - Yeah, absolutely, thanks for the time, guys.
 
 Kevin Hale \[40:49\] - Thanks, Harry.
+

@@ -3,108 +3,9 @@
 **Author:** Elon Musk
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6W-elon-musk-on-how-to-build-the-future
+**YouTube ID:** tnBQmEqBCY0
 
 ---
-
-Elon Musk on how to build the future
-
-# Elon Musk on how to build the future
-
-by Elon Musk
-
-YouTube
-
-2.1M views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Introduction
-
-0:22
-
-If you were 22 today, what would the five problems that you would think about working on? 💡
-
-1:01
-
-AI 🤖
-
-1:50
-
-Genetics 🧬
-
-2:16
-
-High bandwidth interface to the brain 🧠
-
-2:55
-
-Common questions - I want to be the next Elon Musk, how do I do that?
-
-3:08
-
-What did you do when you were younger that set you up to have a big impact?
-
-5:00
-
-Do you think people that want to be useful today should get PhDs? 🎓
-
-5:10
-
-How should someone figure out how they can be most useful?
-
-5:49
-
-SpaceX decision 🚀 - Estimating the probability of success of this very crazy idea at the time
-
-8:16
-
-Making a decision when everyone tells you this is a crazy idea? Where do you get the internal strength? 💪
-
-8:57
-
-Just feel it and let the importance of it drive you to do it anyway
-
-9:43
-
-What are the odds of the Mars colony are at this point? When can we go to Mars? ♂⚓
-
-11:13
-
-What does the positive future for AI looks like and how can we get there? 🤖🔮
-
-13:23
-
-Humans are so slow 😂
-
-15:02
-
-How do you think OpenAI is going as a six-month-old company? ⚛️
-
-16:03
-
-How do you spend your days now? What do you allocate most of your time to? 🕒
-
-16:30
-
-What do you do when you are at SpaceX or Tesla? 🤔
-
-16:56
-
-Elon spends most of his time with engineering team 😲
-
-18:18
-
-About Tesla Gigafactory and speed of the production line 🏭
-
-Elon is the CEO of SpaceX and Tesla Motors.
-
-Originally a cofounder of Paypal, Elon Musk founded SpaceX to enable the colonization of Mars.
-
-## Transcript
 
 Sam: Today we have Elon Musk. Elon, thank you for joining us.
 
@@ -224,7 +125,7 @@ Sam: What's the speed on the line of these cars?
 
 Elon: Actually the average speed line is incredibly slow. It's probably about...including both X and S it's maybe 5 centimeters per second.
 
-Sam: And what can you get to?
+Sam: And what can you get to? 
 
 Elon: This is very slow.
 

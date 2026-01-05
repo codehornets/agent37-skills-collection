@@ -3,82 +3,21 @@
 **Author:** Ooshma Garg
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/69-on-starting-and-scaling-meal-kit-company-gobble
+**YouTube ID:** A21qyXsAfME
 
 ---
 
-On starting and scaling meal kit company Gobble
-
-# On starting and scaling meal kit company Gobble
-
-by Ooshma Garg
-
-Gobble founder Ooshma Garg speaks at Female Founders Conference 2016 - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Gobble founder Ooshma Garg speaks at Female Founders Conference 2016](https://www.youtube.com/watch?v=A21qyXsAfME)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 26:34
-
-•Watch full videoLive
-
-•
-
-21K views
-
-Over 1 year ago
-
-In this inspiring talk, Ooshma Garg, the founder and CEO of dinner kit delivery service [Gobble](http://www.gobble.com/),
+In this inspiring talk, Ooshma Garg, the founder and CEO of dinner kit delivery service [Gobble](http://www.gobble.com),
 detailed her company's complicated years-long path to what might look from the outside like simple success, and
-described how building a startup is like a daily game of [_Snakes and_\\
-_Ladders_](https://en.wikipedia.org/wiki/Snakes_and_Ladders) that can take you two steps forward, and then two steps
+described how building a startup is like a daily game of [*Snakes and
+Ladders*](https://en.wikipedia.org/wiki/Snakes_and_Ladders) that can take you two steps forward, and then two steps
 back. She also gave her best advice for other entrepreneurs.
 
 A full transcript is below.
 
-* * *
+-----
 
-Hey Everyone! How's it going? Are you excited to be here? Let's have some fun...
+Hey Everyone\! How's it going? Are you excited to be here? Let's have some fun...
 
 My name Ooshma and I’m the founder and CEO of Gobble. Gobble helps anyone cook dinner in just 10 minutes. We’re the
 inventors of the 10-minute 1-pan dinner kit.
@@ -90,22 +29,22 @@ here today. I live an hour away, but it took me five and a half years to get her
 I could tell you our whole story with this graph in three seconds. This is a Stripe revenue data dump of Gobble over the
 last five years.
 
-[![ooshmaslide1](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide1-1.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide1-1.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide1-1.png" alt="ooshmaslide1" width="1125" height="614" class="aligncenter size-full wp-image-1097326" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide1-1.png)
 
 You might be wondering what happens right here \[highlight inflection point\]. Doesn’t it look like we had no idea what
 we were doing and then all of a sudden we just figured it all out? That's not the case. In order to understand what
 happens at the promised land, you have to know what happens in the beginning and the middle and all along the way.
 
-What you're seeing up there are actually the words from the [startup\\
+What you're seeing up there are actually the words from the [startup
 curve](http://andrewchen.co/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/) that Paul Graham coined. He talks
-about how most startups have a launch. It's very exciting! They fall into this trough of sorrow which is oftentimes a
+about how most startups have a launch. It's very exciting\! They fall into this trough of sorrow which is oftentimes a
 multi-year slog, then you have these wiggles of, I like to call them hope, but maybe they are wiggles of false hope.
 Then, if you're lucky and you have the stamina, maybe you get to the promised land. That was our story, and like Jessica
 said, it's not so uncommon.
 
 In 2010 Brian Chesky of Airbnb gave a talk at startup school. His graph from 2008 to 2010 looked similar to our graph.
 
-[![ooshmaslide2](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide2.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide2.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide2.png" alt="ooshmaslide2" width="1118" height="610" class="aligncenter size-full wp-image-1097327" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide2.png)
 
 It was a launch, a trough, and wiggles of hope. What's interesting though is now, that whole area of the graph looks
 smooth.
@@ -113,7 +52,7 @@ smooth.
 When you look at a startup, it looks like there's nothing, and then something. But, what's important to know is how it
 really is day-to-day. And to me it feels a lot like a game of Snakes and Ladders.
 
-[![ooshmaslide3](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide3.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide3.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide3.png" alt="ooshmaslide3" width="1168" height="654" class="aligncenter size-full wp-image-1097328" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide3.png)
 
 That's what Gobble is like. Oftentimes, it's two steps forward and two steps back, and other days, it's all about
 forward. Today, I'm going to tell you about some of our early snakes and ladders and some of the lessons I learned from
@@ -132,10 +71,10 @@ to cook for two hours at night after coming home from my startup work. It just d
 offered to move here from Dallas, and I didn't really want them to move here. I wanted to be independent.
 
 I had to solve this problem another way. I posted an ad on Craigslist see if any chef would make me a home cooked meal
-for $8 a plate. I got 70 responses in 24 hours. I thought “Wow! There are so many people in the Bay Area that are proud
+for $8 a plate. I got 70 responses in 24 hours. I thought “Wow\! There are so many people in the Bay Area that are proud
 of their food and want to earn a living from it.” I ended up asking my friends, “Who wants some free food?” We started
 meeting chefs and their interview was to cook us a free dinner. So in the beginning, I thought “This is an amazing
-dinner hack!” But what started out really fun and amazing and funny became a very serious opportunity very quickly.
+dinner hack\!” But what started out really fun and amazing and funny became a very serious opportunity very quickly.
 These chefs were driving from Fremont or San Jose or San Francisco to my office in Palo Alto and they were putting their
 culture, their pride, and their heart on a plate.
 
@@ -150,7 +89,7 @@ prototyped with email, PayPal, and me driving my car. There was no tech and all 
 supply and demand and a business was forming. I was a delivery driver. I was driving dinner to all of my friends and
 then eating it myself.
 
-I thought to myself “This is really fun!” I was having a lot of fun, and what I was doing was feeding my soul and my
+I thought to myself “This is really fun\!” I was having a lot of fun, and what I was doing was feeding my soul and my
 heart. I was giving people home-cooked food, which is what love means to me and how I grew up. I wanted to take this
 further and people were starting to order every day.
 
@@ -158,18 +97,18 @@ Most people advised me that I should find a technical co-founder. I'm a mechanic
 software. I started looking for co-founder, meeting friends of friends, going on coffee dates, and no one was as
 passionate about the idea as I was, they weren't willing to quit their job, and we just didn't connect in a deep way.
 
-This idea was happening, it felt amazing, and it was already moving, so I thought “Screw it! I’m just gonna do it
+This idea was happening, it felt amazing, and it was already moving, so I thought “Screw it\! I’m just gonna do it
 anyway.” Lucky for me, the investors felt the same way. I had the passion, there was a market, there was a proof of
 concept, and there was a mission. I'd already built a previous start up company. So, my fear of not having a technical
-co-founder did not need to be a fear. We were able to raise our [seed\\
+co-founder did not need to be a fear. We were able to raise our [seed
 round](http://techcrunch.com/2011/05/11/marketplace-for-home-cooked-food-gobble-raises-1-2m-from-founder-collective-reid-hoffman-and-other-angels/).
 
-It felt amazing! It was actually pretty great. We got a new office, I started hiring people, and Gobble was off to a
+It felt amazing\! It was actually pretty great. We got a new office, I started hiring people, and Gobble was off to a
 phenomenal, almost dream-like, start. I hired our first engineer and we were months away from launch. We were building
 our website, getting customers to pre-signup, and all of a sudden, our first engineer quits just weeks before our
 launch. I was walking to our local Starbucks, and I saw him sitting there with someone. Looking at me, he turned pale. I
 knew something was wrong. I walked back to our office, and sure enough, a few minutes later, he walked in and said “This
-is too much pressure. I can't handle it anymore! I quit.” At that point, I didn't know what to do. I felt like I had
+is too much pressure. I can't handle it anymore\! I quit.” At that point, I didn't know what to do. I felt like I had
 failed all of our investors. I didn't know the code base. Where would I find the next engineer? What was I going to do?
 Would our launch be delayed? How would I look? That was our first big snake, and a very dark day for Gobble.
 
@@ -232,7 +171,7 @@ and we launched the service as our next product. Again, not always with the supp
 
 The good news is that this idea worked. It was showing in the numbers, and we were climbing ladders of success. We were
 making five times the revenue than we did with any other version of Gobble, and the technology was working. I decided to
-try and raise Series A again. We'd made a lot of progress. We had a defensible technology. It was time to go! However,
+try and raise Series A again. We'd made a lot of progress. We had a defensible technology. It was time to go\! However,
 by this time, a lot of other food startups had come up in the space, and it was very competitive. This time when I was
 raising money, the space was heating up, and I got a lot of pushback because investors had already made their bets or
 they just wanted to see how it would play out. They said “It’s a competitive space. It's early, so we're gonna wait.” We
@@ -245,14 +184,14 @@ they didn't have space in the fund, and it was November and December. Thanksgivi
 numbers. Everything was down and to the right.
 
 One of my friends suggested “Hey, YC is starting in January... Why don't you try joining Y Combinator?” At first, I
-thought “What?! We’ve already raised seed money, and we’ve already launched a product. Why would I join a startup
+thought “What?\! We’ve already raised seed money, and we’ve already launched a product. Why would I join a startup
 incubator?” My decision then was to either join YC or to die. When you look at it that way, you put your pride aside and
 you keep the company alive.
 
 We joined Y Combinator and it was one of the best decisions I ever made. Just so you know how bad it was, this is a
 screenshot of our bank account before we got the Y Combinator money.
 
-[![ooshmaslide4](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide4.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide4.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide4.png" alt="ooshmaslide4" width="1137" height="363" class="aligncenter size-full wp-image-1097329" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide4.png)
 
 I had just made the last full payroll that I could make. Nobody knew this but me.
 
@@ -265,13 +204,13 @@ at any point and anytime in your company. We had innovated on the technology and
 we learned that next we had to innovate on the food. We needed consistent quality and consistent portion sizes. We got
 our own commercial kitchen and ultimately hired an Executive Chef. These were two really key moves for us.
 
-[![ooshmaslide5](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide5.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide5.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide5.png" alt="ooshmaslide5" width="1134" height="631" class="aligncenter size-full wp-image-1097330" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide5.png)
 
 Our Executive Chef is Thomas Ricci, he’s the tall and debonaire gentleman to my right, and Chris Woodford is our lead
 engineer, who's on my left. The reason I show them is because they're 10X hires. The three of us had years of experience
 in our fields, and we came together to visit customers. We all want to customers’ houses together. It was kind of
 awkward because we were standing in the corner of their house, while they were cooking and talking to their spouse or
-their kids were on their legs. Then, they were eating and we were watching them eat. That's what you have to do!
+their kids were on their legs. Then, they were eating and we were watching them eat. That's what you have to do\!
 
 The interesting thing that we saw is that when people were microwaving our food, we had great quality, great portions,
 and great sourcing, but they would cringe when they microwaved the food. Microwaving was not a great experience for
@@ -286,8 +225,8 @@ storm.” And that's what we did.
 We talked to our customers after they would microwave and eat those meals, and we learned from them that they really
 wanted to cook, but they didn't have the time. Now that we had a kitchen and a phenomenal Executive Chef in Thomas, I
 started spending time with him, and he would say “Well, why don't you cook? What's wrong with it?” And I said “I don't
-want to chop everything! And I don't want to spend hours doing this prep work.” It was then that Thomas taught me about
-the restaurant concept of _mise en place_, which is where the prep cooks and sous chefs chop the vegetables, make the
+want to chop everything\! And I don't want to spend hours doing this prep work.” It was then that Thomas taught me about
+the restaurant concept of *mise en place*, which is where the prep cooks and sous chefs chop the vegetables, make the
 sauces, and marinate the meats, so that the Executive Chefs can finish off the meal and serve it to the customers. We
 ended up applying that concept to families. We started by testing it with me in our kitchen. Here’s a photo of me giving
 a TaskRabbit some of our very first dinner kits to take to friends in Palo Alto and try out this idea. We wanted to see
@@ -310,7 +249,7 @@ game of Snakes and Ladders is that there are lots of snakes in the beginning and
 you back or take you down. But, as you get through them, and you have grit and perseverance and you believe in your
 mission, those future snakes aren't snakes anymore, they're just obstacles that you can isolate and then work around.
 
-[![ooshmaslide6](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide6.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide6.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide6.png" alt="ooshmaslide6" width="1163" height="654" class="aligncenter size-full wp-image-1097331" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide6.png)
 
 Also, the game doesn't really end. It just gets harder. After raising this money, we want to expand across the country
 and we want to expand our defensibility. There's a whole new level of play. People ask me “With ups and downs every
@@ -318,7 +257,7 @@ single day, how do you get through all of it?” \[Show slide of empty wine bott
 
 I have three takeaways for you.
 
-[![ooshmaslide7](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide7.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide7.png)
+[<img src="https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide7.png" alt="ooshmaslide7" width="1117" height="613" class="aligncenter size-full wp-image-1097332" />](https://blog.ycombinator.com/wp-content/uploads/2016/11/ooshmaslide7.png)
 
 The first is GRIT. How I think about grit is that it’s the thing that comes from your core. It’s this place inside of
 you when no one believes in you that tells you whether you should keep going or what to do. Another way to think about
@@ -338,3 +277,4 @@ now it is being felt because of our invention.
 An easy way to remember these takeaways is to be a "GEM." Running a startup and being a successful founder is a full
 body experience. Make yourself a gem. Have grit from your core, run experiments from your head, and believe your mission
 in your heart, and you will be successful. Thank you.
+

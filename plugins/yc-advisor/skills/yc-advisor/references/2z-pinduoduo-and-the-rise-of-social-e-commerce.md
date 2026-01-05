@@ -1,16 +1,11 @@
 # Pinduoduo and the rise of social e-commerce
 
-**Author:** Anu Hariharan
+**Author:** Anu Hariharan, Nic Dardenne
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce
 
+
 ---
-
-Pinduoduo and the rise of social e-commerce
-
-# Pinduoduo and the rise of social e-commerce
-
-by Anu Hariharan, Nic Dardenne
 
 Across the globe, as the novel coronavirus moves us from communal spaces into the confinement of our homes, our social
 experiences are forced to adapt. Beyond the social networks we already know and use, we are finding new ways to
@@ -25,11 +20,11 @@ opportunity for social commerce platforms to emerge in other regions.
 When Pinduoduo launched in 2015, there was little room for a new commerce platform in China. Two major e-commerce
 platforms, JD and Taobao/TMall (sub brands of Alibaba), dominated online commerce in China, much like Amazon dominates
 in the US. During that same year, JD and Taobao generated a combined $433B of gross merchandise
-value.[1](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnote1) And yet, five years later, Pinduoduo is defying
+value.<sup id="footnoteid1"><a href="#footnote1">1</a></sup> And yet, five years later, Pinduoduo is defying
 expectations, skyrocketing from a start-up to
-a 57[2](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnote2)-billion-dollar-company with an active buyer base of 585
+a 57<sup id="footnoteid2"><a href="#footnote2">2</a></sup>-billion-dollar-company with an active buyer base of 585
 million that generated over $144B of Gross Merchandise Value in the last twelve
-months.[3](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnote3) In 2020, it is China’s second largest e-commerce platform
+months.<sup id="footnoteid3"><a href="#footnote3">3</a></sup> In 2020, it is China’s second largest e-commerce platform
 on an active user basis only lagging behind Alibaba.
 
 Pinduoduo found room in e-commerce, not as a competitor to search-based websites like JD, but as a new e-commerce
@@ -44,18 +39,10 @@ interactive games and rewards, and offering personalized experiences and value v
 Consumers’ desire for social engagement while shopping is highlighted by sales within categories. Only 29% of
 apparel, 11% of health & personal care, and 3% of food & beverage purchases were expected to happen online in 2020 in
 the US (compared to 55% and 43% of books/music and computers/electronics purchases,
-respectively[4](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnote4)). These numbers reveal a missing element in
+respectively<sup id="footnoteid4"><a href="#footnote4">4</a></sup>). These numbers reveal a missing element in
 e-commerce. Social shopping is particularly important for categories where consumers seek feedback or recommendations
 from friends. Pinduoduo is one of the first companies to successfully create a social shopping experience online, and
 has accelerated the transition of commerce from offline to online in China.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 In our view, Pinduoduo’s rapid success in social commerce will be replicated by others globally, which will continue to
 drive commerce in social-driven categories online. And so, to understand the success of Pinduoduo is to understand the
@@ -72,14 +59,14 @@ more passively wait for other buyers to join the purchase on the Pinduoduo (Pind
 be formed within 24 hours to have the order confirmed. Once a team is formed, the purchase is confirmed and the product
 is shipped within 48 hours.
 
-![](https://blog.ycombinator.com/wp-content/uploads/2020/05/PDD-Overview.jpg)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2020/05/PDD-Overview.jpg" alt="" width="1004" height="495" class="alignnone size-full wp-image-1104308" />
 
 Nearly all Pinduoduo transactions are completed using team purchase. In the early days, the size of many groups was
 large (e.g., 10+), but as Pinduoduo has scaled the group size requirements have declined. Team purchase is beneficial to
 both buyers and manufacturers; buyers benefit from better prices for goods they want and sellers benefit from increased
 demand and better visibility of future demand. In addition to driving down prices, team purchase helps solve the “trust
 deficit” of retail in China’s developing cities, where more
-than 80%[5](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnote5)) of retail is unorganized and consumers rely heavily on
+than 80%<sup id="footnoteid5"><a href="#footnote5">5</a></sup>) of retail is unorganized and consumers rely heavily on
 social recommendations to initiate transactions.
 
 Pinduoduo’s team purchase is often compared to Groupon in the US because they both enable a form of group buying. But
@@ -108,7 +95,7 @@ create a unique recommendation engine based on users’ social interactions. Whi
 today, we expect social e-commerce to be global. New commerce platforms that can leverage social relationships will
 accelerate the offline to online transition and if you are able to tap into groups of social relationships vs.
 one-to-one relationship the faster your platforms will scale. PDD has one of the most powerful network effects in the
-world ( [Reed’s law](https://en.wikipedia.org/wiki/Reed%27s_law): The value of a group-forming network is proportional to
+world ([Reed’s law](https://en.wikipedia.org/wiki/Reed%27s_law): The value of a group-forming network is proportional to
 number and the ease with which groups form within it. Think Slack, WhatsApp Groups -- they all grew exponentially as
 they could tap into groups of social relationships)
 
@@ -139,7 +126,7 @@ The daily check-in is a simple yet brilliant feature that encourages users to en
 While each check-in does not generate revenue for Pinduoduo, the product experience eventually ties back to commerce
 if/when users redeem their vouchers. This theoretically should yield a higher customer lifetime value for Pinduoduo.
 
-![](https://blog.ycombinator.com/wp-content/uploads/2020/05/2.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2020/05/2.png" alt="" class="alignnone size-full wp-image-1104298" />
 
 **Price Chop**
 
@@ -148,7 +135,7 @@ feature is outlined in detail below. Once in the Price Chop section of Pinduoduo
 want for free. Upon selection, a 24 hour timer begins. To get the item for free, the user must share their link with as
 many friends as possible. Every friend that clicks on the link and engages with Pinduoduo (no purchase required) drives
 an incremental discount for the initiator. If you don't reduce the price to 0 within 24 hours you don't get the item for
-free and you have to start all over again!
+free and you have to start all over again\!
 
 The product mimics the experience of “leveling” in a massive online multiplayer game like World of Warcraft whereby it
 becomes harder to level up as you graduate to higher levels. In the case of Pinduoduo, the difficulty is customized
@@ -161,7 +148,7 @@ an order on the commerce platform. But unlike Daily Check-In, Price Chop incenti
 their social network. So in addition to increasing customer lifetime value, Price Chop also helps Pinduoduo efficiently
 acquire customers via user-user sharing of the product.
 
-![](https://blog.ycombinator.com/wp-content/uploads/2020/05/3.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2020/05/3.png" alt="" class="alignnone size-full wp-image-1104299" />
 
 **Card Program**
 
@@ -173,14 +160,14 @@ Brand Card, and the Brand Card.
 The Free Pass Card is similar to a loyalty program where users can enjoy a “team purchase discount” without having to
 join a team. Users usually get one Free Pass Card after making two purchases on Pinduoduo.
 
-![](https://blog.ycombinator.com/wp-content/uploads/2020/05/4.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2020/05/4.png" alt="" class="alignnone size-full wp-image-1104300" />
 
 The Brand Black Card encourages users to leave reviews on the platform by offering them a discount on branded products
 in return. Pinduoduo gives users a Brand Black Card after they have posted 2 - 4 reviews on the website. This is
 important as consumers rely on reviews and recommendations from previous buyers when making purchase decisions. The
 Brand Black Card incentivizes a good user behavior that makes the platform better for the entire user base.
 
-![](https://blog.ycombinator.com/wp-content/uploads/2020/05/5.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2020/05/5.png" alt="" class="alignnone size-full wp-image-1104301" />
 
 The Brand Card aims to promote Pinduoduo’s branded products. Consumers get a Brand Card after they have made a purchase
 on Pinduoduo. They can share their brand cards with friends via WeChat, to attract their friends to browse and buy
@@ -190,7 +177,7 @@ normally buy because the recommendation/card was sent to them by a trusted frien
 This is also important because Pinduoduo has historically been used to primarily buy non-branded products. The Brand
 Card is an effective incentive mechanism to increase Pinduoduo’s branded product market share in China.
 
-![](https://blog.ycombinator.com/wp-content/uploads/2020/05/6.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2020/05/6.png" alt="" class="alignnone size-full wp-image-1104302" />
 
 **Mini Games**
 
@@ -199,9 +186,9 @@ shopping. As such, they want users to engage with the app to have fun, even if i
 purchase. Pinduoduo now hosts in-app games to help drive up daily time spent on the platform. The first popular game on
 Pinduoduo was Duo Duo Orchard. Think of Farmville except now the rewards are real physical goods. The game is simple – a
 user creates and nurtures a virtual fruit tree to eventually yield a real box of fruit shipped to his or her address. It
-already has more than 11M DAUs!
+already has more than 11M DAUs\!
 
-![](https://blog.ycombinator.com/wp-content/uploads/2020/05/7.png)
+<img src="https://blog.ycombinator.com/wp-content/uploads/2020/05/7.png" alt="" class="alignnone size-full wp-image-1104303" />
 
 Though not multiplayer, Orchard has social cooperation aspects that drive up network engagement as well. Once users
 choose a tree to create (e.g., mango, lemon, macadamia nut), they need to nurture the tree with water and fertilizer.
@@ -268,14 +255,11 @@ to their user base. If there is a gap in the US e-commerce market, it is not jus
 retail. As the pandemic drives the worlds' social lives to the Internet, there is an undeniable opportunity for
 companies to build social into their commerce platforms to accelerate the offline to online transition globally.
 
-_Special thanks to the Pinduoduo team and Chloe Gordon for reading and editing multiple drafts of this essay._
+*Special thanks to the Pinduoduo team and Chloe Gordon for reading and editing multiple drafts of this essay.*
 
-**1.** 20-F filings, 1USD:7CNY conversion rate [↩](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnoteid1)
+<b id="footnote1">1.</b> 20-F filings, 1USD:7CNY conversion rate [↩](#footnoteid1)  
+<b id="footnote2">2.</b> As of April 30, 2020 [↩](#footnoteid2)  
+<b id="footnote3">3.</b> As of December 31, 2019 [↩](#footnoteid3)  
+<b id="footnote4">4.</b> eMarketer [↩](#footnoteid4)  
+<b id="footnote5">5.</b> YC company data [↩](#footnoteid5)
 
-**2.** As of April 30, 2020 [↩](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnoteid2)
-
-**3.** As of December 31, 2019 [↩](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnoteid3)
-
-**4.** eMarketer [↩](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnoteid4)
-
-**5.** YC company data [↩](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce#footnoteid5)

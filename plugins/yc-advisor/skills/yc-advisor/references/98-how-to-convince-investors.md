@@ -4,31 +4,11 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/98-how-to-convince-investors
 
+
 ---
 
-Table of Contents
-
-[**Table of Contents**](https://www.ycombinator.com/library/98-how-to-convince-investors#)
-
-[- Formidable](https://www.ycombinator.com/library/98-how-to-convince-investors#formidable)
-
-[- Truth](https://www.ycombinator.com/library/98-how-to-convince-investors#truth)
-
-[- Market](https://www.ycombinator.com/library/98-how-to-convince-investors#market)
-
-[- Rejection](https://www.ycombinator.com/library/98-how-to-convince-investors#rejection)
-
-[- Different](https://www.ycombinator.com/library/98-how-to-convince-investors#different)
-
-[- Notes](https://www.ycombinator.com/library/98-how-to-convince-investors#notes)
-
-How to convince investors
-
-# How to convince investors
-
-by Paul Graham
-
-_The_ _original_ _version_ _of_ _this_ _essay_ _is_ _available_ _at_ [_http://www.paulgraham.com/convince.html_](http://www.paulgraham.com/convince.html)
+*The* *original* *version* *of* *this* *essay* *is* *available* *at*
+[*http://www.paulgraham.com/convince.html*](http://www.paulgraham.com/convince.html)
 
 August 2013
 
@@ -201,7 +181,7 @@ by the investors you're currently talking to, who will be proud of and thus atta
 This strategy will work best with the best investors, who are both hard to bluff and who already believe most other
 investors are conventional-minded drones doomed always to miss the big outliers. Raising money is not like applying to
 college, where you can assume that if you can get into MIT, you can also get into Foobar State. Because the best
-investors are much smarter than the rest, and the best startup ideas look initially like [bad\\
+investors are much smarter than the rest, and the best startup ideas look initially like [bad
 ideas](http://www.paulgraham.com/startupideas.html), it's not uncommon for a startup to be rejected by all the VCs
 except the best ones. That's what happened to Dropbox. Y Combinator started in Boston, and for the first 3 years we ran
 alternating batches in Boston and Silicon Valley. Because Boston investors were so few and so timid, we used to ship
@@ -226,9 +206,9 @@ about this will be bored and frustrated by unclear explanations. \[13\]
 
 So here's the recipe for impressing investors when you're not already good at seeming formidable:
 
-1. Make something worth investing in.
-2. Understand why it's worth investing in.
-3. Explain that clearly to investors.
+1.  Make something worth investing in.
+2.  Understand why it's worth investing in.
+3.  Explain that clearly to investors.
 
 If you're saying something you know is true, you'll seem confident when you're saying it. Conversely, never let pitching
 draw you into bullshitting. As long as you stay on the territory of truth, you're strong. Make the truth good, then just
@@ -304,3 +284,4 @@ how an investor would sell it to colleagues.
 **Thanks** to Marc Andreessen, Sam Altman, Patrick Collison, Ron Conway, Chris Dixon, Alfred Lin, Ben Horowitz, Steve
 Huffman, Jessica Livingston, Greg Mcadoo, Andrew Mason, Geoff Ralston, Yuri Sagalov, Emmett Shear, Rajat Suri, Garry
 Tan, Albert Wenger, Fred Wilson, and Qasar Younis for reading drafts of this.
+

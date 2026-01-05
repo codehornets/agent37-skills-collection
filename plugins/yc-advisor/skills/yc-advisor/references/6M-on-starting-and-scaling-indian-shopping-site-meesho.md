@@ -1,214 +1,11 @@
-# On starting and scaling Indian shopping site Meesho
+# On starting and scaling Indian shopping site Meesho 
 
 **Author:** Vidit Aatrey
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho
+**YouTube ID:** L325PVEvm7Q
 
 ---
-
-On starting and scaling Indian shopping site Meesho
-
-# On starting and scaling Indian shopping site Meesho
-
-by Vidit Aatrey
-
-Vidit Aatrey on Building Meesho, India's Top Reselling Platform, with Adora Cheung - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Vidit Aatrey on Building Meesho, India's Top Reselling Platform, with Adora Cheung](https://www.youtube.com/watch?v=L325PVEvm7Q)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[How to Get and Test Startup Ideas - Michael Seibel\\
-\\
-6:21](https://www.youtube.com/watch?v=vDXkpJw16os)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 49:59
-
-•Watch full videoLive
-
-•
-Intro
-
-46K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Intro
-
-0:45
-
-What is Meesho?
-
-2:45
-
-Why not just sell directly to consumers?
-
-4:30
-
-What are the macro trends in Meesho's favor in India?
-
-6:55
-
-A trust deficit market
-
-8:20
-
-How does Meesho help users get online and start selling?
-
-11:10
-
-Most impactful user stories
-
-13:15
-
-Growth drivers
-
-15:15
-
-Balancing growth and quality
-
-16:50
-
-What if Facebook copies Meesho?
-
-18:15
-
-When did Vidit and his cofounder know they wanted to start a startup?
-
-20:45
-
-Their first startup idea and the inspiration for Meesho
-
-25:05
-
-When did they know Meesho was working?
-
-26:45
-
-How hard was it to pivot the business and how did they manage it?
-
-29:30
-
-As a CEO how does he stay in touch with users?
-
-34:15
-
-How has Vidit's role changed over time?
-
-36:20
-
-How has he learned to be a CEO?
-
-37:55
-
-What mistakes have they made?
-
-39:00
-
-What was his best decision?
-
-39:40
-
-What's a strong opinion he had about running a startup that he's changed since running Meesho?
-
-41:10
-
-How has the Indian startup ecosystem evolved?
-
-42:45
-
-Big problems worth solving in India
-
-42:30
-
-Can foreigners come to India and start a startup?
-
-44:35
-
-Best advice for aspiring Indian founders
-
-45:45
-
-After Meesho, what's the most exciting startup in India?
-
-46:45
-
-Why is Delhi the best IIT?
-
-47:40
-
-What's a must read book and why?
-
-48:35
-
-What's a startup idea he'd be working on if Meesho didn't happen?
-
-48:50
-
-In 100 years, what does he hope Meesho is?
 
 [Vidit Aatrey](https://twitter.com/viditaatrey) is cofounder and CEO of [Meesho](https://meesho.com/). Meesho is a
 platform in India that allows people to resell products using their social networks. They were in the Summer 2016 batch
@@ -224,7 +21,7 @@ You can find Vidit on Twitter [@viditaatrey](https://twitter.com/viditaatrey) an
 Craig Cannon \[00:00\] - Hey, how's it going? This is Craig Cannon, and you're listening to Y Combinator's podcast.
 Today's episode is with Vidit Aatrey and Adora Cheung. Vidit is co-founder and CEO of Meesho. Meesho is a platform in
 India that allows people to resell products using their social networks. They were in the Summer 2016 Batch of YC, and
-you can check them out at [Meesho.com](http://meesho.com/). Adora is a partner at YC. Before working at YC, she
+you can check them out at [Meesho.com](http://Meesho.com). Adora is a partner at YC. Before working at YC, she
 co-founded Homejoy. You can find Vidit on Twitter [@viditaatrey](https://twitter.com/viditaatrey) and Adora is
 [@nolimits](https://twitter.com/nolimits). All right, here we go.
 
@@ -902,3 +699,4 @@ Adora Cheung \[50:08\] - That makes sense. That's a great answer. Cool, thank yo
 Vidit Aatrey \[50:11\] - Awesome, thank you so much for having me.
 
 Adora Cheung \[50:13\] - Yes, cool.
+

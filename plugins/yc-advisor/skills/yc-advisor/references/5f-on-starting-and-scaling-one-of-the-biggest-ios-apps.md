@@ -3,216 +3,25 @@
 **Author:** David Lieb
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps
+**YouTube ID:** fDcW_qb-uew
 
 ---
 
-On starting and scaling one of the biggest iOS apps
-
-# On starting and scaling one of the biggest iOS apps
-
-by [David Lieb](https://www.ycombinator.com/people/david-lieb)
-
-Google Photos Product Lead and Bump Cofounder David Lieb with Gustaf Alströmer - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Google Photos Product Lead and Bump Cofounder David Lieb with Gustaf Alströmer](https://www.youtube.com/watch?v=fDcW_qb-uew)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[Gustaf Alstromer - How to Get Users and Grow\\
-\\
-1:04:15](https://www.youtube.com/watch?v=T9ikpoF2GH0)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 56:31
-
-•Watch full videoLive
-
-•
-Intro
-
-9,529 views
-
-Over 1 year ago
-
-## Chapters
-
-0:10
-
-How Bump became one of the biggest apps on the App Store
-
-3:24
-
-Bump was the billionth app downloaded on iOS
-
-5:42
-
-David's YC interview
-
-7:45
-
-Bump's goal during YC
-
-9:40
-
-Experiments at Bump before working on photos
-
-10:45
-
-How Bump grew
-
-12:00
-
-How David thinks about product market fit
-
-13:00
-
-Flock and talking with the top users of Bump
-
-17:30
-
-Going upstream in photo sharing, becoming the camera roll
-
-19:00
-
-Being a photo sharing power user and how that helped when building a product
-
-21:40
-
-Fundraising
-
-25:40
-
-Deciding that Photo Roll would work better within a big company and building it at Google
-
-29:10
-
-When building a product, pretend there's a person doing that task for you in the best possible way then try to build that
-
-31:20
-
-How David spends his time running Google Photos
-
-33:15
-
-How David feels about his work at Google after being a startup founder
-
-34:45
-
-When to apply AI
-
-36:50
-
-Attention to the user vs the technology
-
-37:30
-
-Talking to users at scale
-
-40:30
-
-Lamide Akomolafe asks - What did David focus on too much as a rookie product lead that he thinks was a mistake now?
-
-42:15
-
-Getting confidence to ship features to a billion users
-
-44:45
-
-Generating support for a project within a big company
-
-46:30
-
-In 5-10 years will David be working for a large or small company?
-
-47:55
-
-When thinking about an acquisition, can you execute your vision in a larger way within the company?
-
-49:40
-
-Larger truths about people learned by paying so much attention to photos and memories
-
-51:15
-
-Giving everyone a photographic memory and deciding which photos are important
-
-52:25
-
-Products David likes and the importance of solving a durable human need
-
-[David Lieb](https://twitter.com/dflieb) is the Product Lead for [Google Photos](https://photos.google.com/). Prior to
+[David Lieb](https://twitter.com/dflieb) is the Product Lead for [Google Photos](https://photos.google.com). Prior to
 working on Google Photos, David was the cofounder and CEO of Bump, which was in the Summer 2009 batch of YC.
 
 [Gustaf Alströmer](https://twitter.com/gustaf) is a Partner at YC.
 
 David is on Twitter [@dflieb](https://twitter.com/dflieb) and Gustaf is [@gustaf](https://twitter.com/gustaf).
 
-* * *
+-----
 
 ## Transcript
 
 Craig Cannon \[00:00\] - Hey, how's it going? This is Craig Cannon and you're listening to Y Combinator's podcast.
 Today's episode is with David Lieb and Gustaf Alströmer. Gustaf is a partner at YC. David is the product lead for Google
 Photos. Prior to working on Google Photos, David was the co-founder and CEO of Bump, which was in the summer 2009 batch
-of YC. You can try Google Photos at [photos.google.com](http://photos.google.com/). David is on Twitter
+of YC. You can try Google Photos at [photos.google.com](http://photos.google.com). David is on Twitter
 [@dflieb](https://twitter.com/dflieb) and Gustaf is [@gustaf](https://twitter.com/gustaf). All right, here we go.
 Welcome to the podcast, guys.
 
@@ -904,7 +713,7 @@ linear, evenly distributed, photographic memory. The way our brains work is we p
 write a lot to the disk during those moments, and then we kind of don't worry about the rest. One of the challenges we
 have with Google Photos is we now have all the photos that you've taken in your life. How do we decide which ones are
 the important ones that we should really focus on and try to help you relive and engage with? Which ones are not
-important, even though they may seem important to our algorithms> And then, on the other side, which ones are not
+important, even though they may seem important to our algorithms\> And then, on the other side, which ones are not
 memories that you want to re engage with? And this is a big challenge, and it's a very difficult problem, but we all
 have moments in our lives or people in our lives that were part of our life before. And it was an experience we had, but
 going forward, it's not a thing that we want to dwell on, and that's a really difficult challenge. I would say, we're
@@ -975,3 +784,4 @@ Gustaf Alströmer \[56:42\] - Thank you so much.
 David Lieb \[56:42\] - All right, thanks Gus.
 
 Gustaf Alströmer \[56:43\] - It was great.
+

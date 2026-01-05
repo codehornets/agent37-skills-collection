@@ -4,21 +4,8 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/3j-how-to-measure-leadership
 
+
 ---
-
-Table of Contents
-
-[**Table of Contents**](https://www.ycombinator.com/library/3j-how-to-measure-leadership#)
-
-[- Three Foundational Characteristics of Great Leaders](https://www.ycombinator.com/library/3j-how-to-measure-leadership#three-foundational-characteristics-of-great-leaders)
-
-[- It All Adds Up To Trust](https://www.ycombinator.com/library/3j-how-to-measure-leadership#it-all-adds-up-to-trust)
-
-How to measure leadership
-
-# How to measure leadership
-
-by Ali Rowghani
 
 Are you a good leader? How do you know?
 
@@ -40,7 +27,7 @@ Despite their differences, these men were able to create an extraordinary amount
 They built trust by doing the same three things exceptionally well, though each in his own way. I believe that these
 three traits are the foundational traits of great leaders You cannot be a great leader without them because you cannot
 build trust without them. And the trick to measuring leadership is to measure a leader’s effectiveness along these three
-dimensions, as detailed in the notes section [at the end of this\\
+dimensions, as detailed in the notes section [at the end of this
 post](https://blog.ycombinator.com/how-do-you-measure-leadership/#survey-questions).
 
 ### Three Foundational Characteristics of Great Leaders
@@ -49,20 +36,12 @@ I believe that people of all temperaments, personality types, and personal/profe
 leaders, and that they can lead quite differently and still be successful. But to be trusted and followed as a leader,
 you must excel in three key areas:
 
-**1\. Clarity of Thought and Communication**
+**1. Clarity of Thought and Communication**
 
 Great leaders think and communicate clearly. They describe a vision of the future that people find compelling to work
 hard to achieve. If your employees are confused about your mission and strategy, or do not find it motivating or
 credible, they will not follow you with the focus and determination necessary to
-succeed.[1](https://www.ycombinator.com/library/3j-how-to-measure-leadership#footnote1)
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
+succeed.<sup id="footnoteid1"><a href="#footnote1">1</a></sup>
 
 Clarity of thought always precedes clarity of language. To improve your communication, the best thing you can do is to
 spend more time thinking about what you believe is truly important for your business. Once you’ve crystallized what’s
@@ -86,7 +65,7 @@ Summit is the main enabler of this because it is a grand sync. We spend countles
 communicate well at the Summit, we achieve great alignment by the end. We can then use our weekly townhalls to keep us
 from drifting too far apart until the next Summit.”
 
-**2\. Judgment about People**
+**2. Judgment about People**
 
 Great leaders have great intuition about people, particularly when it comes to selecting people to whom they give power
 and responsibility. They are able to see hidden potential in people and detect cases where ambition exceeds ability. And
@@ -108,7 +87,7 @@ It also helps to do extensive reference checks on hires and ask for examples of 
 high integrity because these traits are hard to test in an interview. And try to learn from cases when you hire or
 promote the wrong person and are not able to coach them to improve.
 
-**3\. Personal Integrity and Commitment**
+**3. Personal Integrity and Commitment**
 
 Great leaders have exceptional personal integrity and commitment to their mission. Integrity means standing for
 something meaningful beyond oneself rather than being motivated by narrow personal interests. It means being able to
@@ -154,108 +133,123 @@ This, perhaps, is the lesson that great leaders teach everyone else. In difficul
 action versus another, ask yourself which path will generate more trust in you as a person and as a leader. Always try
 to choose that path.
 
-_Thanks to Tobi Lütke, Tyler Bosmeny, Daniel Yanisse, David Rusenko, Sam Altman, Michael Seibel, and the YC Continuity_
-_team for reading drafts of this essay._
+*Thanks to Tobi Lütke, Tyler Bosmeny, Daniel Yanisse, David Rusenko, Sam Altman, Michael Seibel, and the YC Continuity
+team for reading drafts of this essay.*
 
-* * *
+-----
 
-* * *
+-----
+
+<div id="survey-questions">
+</div>
 
 **NOTES:**
 
-**Survey Questions for Evaluating Leaders**
+<span style="color: #888888;"><strong>Survey Questions for Evaluating Leaders</strong></span>
 
-The best approach to measuring leadership is to evaluate a leader’s performance in the
+<span style="color: #888888;">The best approach to measuring leadership is to evaluate a leader’s performance in the
 three areas in which all great leaders must excel: clarity of thought / communication, judgment about people, and
 personal integrity / commitment. Measuring leadership in this way requires gathering data from employees, but most
-startups have never done this in a systematic way.
+startups have never done this in a systematic way.</span>
 
-Eventually, all companies need to develop methods to gather employee sentiment and turn it
+<span style="color: #888888;">Eventually, all companies need to develop methods to gather employee sentiment and turn it
 into structured data. In fact one of the core responsibilities of a good HR team is to gather and document employee
-sentiment and use it to assess leadership.[2](https://www.ycombinator.com/library/3j-how-to-measure-leadership#footnote2) I suggest that startups
-begin to gather this data systematically once they reach about 50 people in size.
+sentiment and use it to assess leadership.<sup id="footnoteid2"><a href="#footnote2">2</a></sup> I suggest that startups
+begin to gather this data systematically once they reach about 50 people in size.</span>
 
-Whatever set of data gathering techniques is used, it’s critical to ask the right
+<span style="color: #888888;">Whatever set of data gathering techniques is used, it’s critical to ask the right
 questions to assess leadership performance. These sample questions are meant to serve as a starting point for a more
 thorough employee survey. These questions are written to evaluate a CEO, but can easily be adapted to any leader in the
-company. Part of the goal is to see the level of alignment between a CEO’s responses and that of the employees.
+company. Part of the goal is to see the level of alignment between a CEO’s responses and that of the employees.</span>
 
-**1\. Clarity of Thought and Communication**
+<p dir="ltr">
+  <span style="color: #808080;"><strong>1. Clarity of Thought and Communication</strong></span>
+</p>
 
-**Questions for the CEO**
+<p dir="ltr">
+  <span style="color: #808080;"><strong>Questions for the CEO</strong></span>
+</p>
 
-- Write down your company’s mission, strategy, and key metrics (“mission-to-metrics”) in
-less than 2 minutes.
-- Write down 2-3 themes that you have consistently emphasized in your communications to
-employees.
+  - <span style="color: #808080;">Write down your company’s mission, strategy, and key metrics (“mission-to-metrics”) in
+    less than 2 minutes.</span>
+  - <span style="color: #808080;">Write down 2-3 themes that you have consistently emphasized in your communications to
+    employees.</span>
 
-**Questions for Employees (current and departing)**
+<p dir="ltr">
+  <span style="color: #808080;"><strong>Questions for Employees (current and departing)</strong></span>
+</p>
 
-- What is the company’s mission and strategy?
-- What are the most important operating metrics that measure the company’s
-success?
-- How does your work contribute to these key success metrics?
-- How often has the company’s definition of mission, strategy and metrics changed in the
-past 24 months?  Or has it been the same over this time?
-- What do you think is really important to the CEO?  What does he or she consistently
-emphasize in communications?
-- How effective and clear is the CEO in the following communication methods: written,
-speaking to a large group, speaking with a small group?
+  - <span style="color: #808080;">What is the company’s mission and strategy?  </span>
+  - <span style="color: #808080;">What are the most important operating metrics that measure the company’s
+    success?</span>
+  - <span style="color: #808080;">How does your work contribute to these key success metrics?</span>
+  - <span style="color: #808080;">How often has the company’s definition of mission, strategy and metrics changed in the
+    past 24 months?  Or has it been the same over this time?</span>
+  - <span style="color: #808080;">What do you think is really important to the CEO?  What does he or she consistently
+    emphasize in communications?</span>
+  - <span style="color: #808080;">How effective and clear is the CEO in the following communication methods: written,
+    speaking to a large group, speaking with a small group?  </span>
 
-**2\. Judgment About People**
+<p dir="ltr">
+  <span style="color: #808080;"><strong>2. Judgment About People</strong></span>
+</p>
 
-**Questions for the CEO**
+<p dir="ltr">
+  <span style="color: #808080;"><strong>Questions for the CEO</strong></span>
+</p>
 
-- Rate the effectiveness of each leader you have promoted or hired at the
-company.
-- Write down the name of any leader that you have promoted or hired that you don’t think
-is actually the right person to lead his/her area.
-- Have you exited the right employees?  Or have you made mistakes?
+  - <span style="color: #808080;">Rate the effectiveness of each leader you have promoted or hired at the
+    company.</span>
+  - <span style="color: #808080;">Write down the name of any leader that you have promoted or hired that you don’t think
+    is actually the right person to lead his/her area.</span>
+  - <span style="color: #808080;">Have you exited the right employees?  Or have you made mistakes?</span>
 
-**Questions for Employees (current and departing)**
+<span style="color: #808080;"><strong>Questions for Employees (current and departing)</strong></span>
 
-- Has the CEO chosen good leaders at the company?
-- Which leaders do you respect and why?
-- Are there leaders that you think are weak and why?
-- Has the CEO replaced any leaders in the past year?  Were these good decisions, from
-your perspective?
-- What are the strengths and weaknesses of the senior leader (i.e., CEO direct report)
-who oversees your area?
-- Have any high performing members of your team chosen to leave the company in the past
-year?  Why did they choose to leave?
-- Ask departing employees: are they leaving because of concerns about senior
-leadership?
+  - <span style="color: #808080;">Has the CEO chosen good leaders at the company?</span>
+  - <span style="color: #808080;">Which leaders do you respect and why?</span>
+  - <span style="color: #808080;">Are there leaders that you think are weak and why?</span>
+  - <span style="color: #808080;">Has the CEO replaced any leaders in the past year?  Were these good decisions, from
+    your perspective?</span>
+  - <span style="color: #808080;">What are the strengths and weaknesses of the senior leader (i.e., CEO direct report)
+    who oversees your area?</span>
+  - <span style="color: #808080;">Have any high performing members of your team chosen to leave the company in the past
+    year?  Why did they choose to leave?</span>
+  - <span style="color: #808080;">Ask departing employees: are they leaving because of concerns about senior
+    leadership?</span>
 
-**3\. Personal Integrity and Commitment**
+<span style="color: #808080;"><strong>3. Personal Integrity and Commitment</strong></span>
 
-**Questions for the CEO**
+<p dir="ltr">
+  <span style="color: #808080;"><strong>Questions for the CEO</strong></span>
+</p>
 
-- Are there actions you have taken which you feel have diminished the confidence that
-employees have in your integrity?  What are they?
-- Do you ask for feedback about your performance?  Are there examples when you have
-responded to employee feedback and changed your behavior?
-- How do you rate your level of commitment to your job?
-- How do you rate the level of commitment of your direct reports?
+  - <span style="color: #808080;">Are there actions you have taken which you feel have diminished the confidence that
+    employees have in your integrity?  What are they?</span>
+  - <span style="color: #808080;">Do you ask for feedback about your performance?  Are there examples when you have
+    responded to employee feedback and changed your behavior?</span>
+  - <span style="color: #808080;">How do you rate your level of commitment to your job?</span>
+  - <span style="color: #808080;">How do you rate the level of commitment of your direct reports?</span>
 
-**Questions for Employees (current and departing)**
+<span style="color: #808080;"><strong>Questions for Employees (current and departing)</strong></span>
 
-- How would you rate your CEO’s integrity / moral compass?
-- Do you think the CEO listens well and is open to feedback?  Are there examples where
-feedback has changed the CEO’s behavior in a positive way?
-- Have you seen examples of favoritism, inappropriate relationships, inappropriate
-language, conflicts of interest, or any other unethical behavior in the CEO?
-- When asked anonymously, what do employees / direct reports feel motivates the
-CEO?
-- How would you describe the level of personal commitment that the CEO shows to the
-mission of the company?
-- Have you seen examples of lack of commitment from the CEO?
-- Have you seen examples of lack of commitment from other leaders or from
-employees?
+  - <span style="color: #808080;">How would you rate your CEO’s integrity / moral compass?</span>
+  - <span style="color: #808080;">Do you think the CEO listens well and is open to feedback?  Are there examples where
+    feedback has changed the CEO’s behavior in a positive way?</span>
+  - <span style="color: #808080;">Have you seen examples of favoritism, inappropriate relationships, inappropriate
+    language, conflicts of interest, or any other unethical behavior in the CEO?</span>
+  - <span style="color: #808080;">When asked anonymously, what do employees / direct reports feel motivates the
+    CEO?</span>
+  - <span style="color: #808080;">How would you describe the level of personal commitment that the CEO shows to the
+    mission of the company?</span>
+  - <span style="color: #808080;">Have you seen examples of lack of commitment from the CEO?</span>
+  - <span style="color: #808080;">Have you seen examples of lack of commitment from other leaders or from
+    employees?</span>
 
-**1** Please see “ [What’s the Second Job of a Startup\\
+<b id="footnote1">1</b> Please see “[What’s the Second Job of a Startup
 CEO](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/#creating-purpose-and-alignment)” for a more thorough
-discussion of creating purpose & alignment. [↩](https://www.ycombinator.com/library/3j-how-to-measure-leadership#footnoteid1)
-
-**2** Data gathering methods include employee roundtables mediated by the CEO or HR, structured
+discussion of creating purpose & alignment.[↩](#footnoteid1)  
+<b id="footnote2">2</b> Data gathering methods include employee roundtables mediated by the CEO or HR, structured
 questions asked as part of employee exit interviews, all-hands or team meetings to gather employee feedback, hiring of
-external consultants to survey or interview employees, and on-line or email surveys of employees. [↩](https://www.ycombinator.com/library/3j-how-to-measure-leadership#footnoteid2)
+external consultants to survey or interview employees, and on-line or email surveys of employees.[↩](#footnoteid2)
+

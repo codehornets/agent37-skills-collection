@@ -4,41 +4,11 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/96-do-things-that-don-t-scale
 
+
 ---
 
-Table of Contents
-
-[**Table of Contents**](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#)
-
-[- Recruit](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#recruit)
-
-[- Fragile](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#fragile)
-
-[- Delight](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#delight)
-
-[- Experience](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#experience)
-
-[- Fire](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#fire)
-
-[- Meraki](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#meraki)
-
-[- Consult](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#consult)
-
-[- Manual](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#manual)
-
-[- Big](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#big)
-
-[- Vector](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#vector)
-
-[- Notes](https://www.ycombinator.com/library/96-do-things-that-don-t-scale#notes)
-
-Do things that don't scale
-
-# Do things that don't scale
-
-by Paul Graham
-
-_The_ _original_ _version_ _of_ _this_ _essay_ _is_ _available_ _at_ [_http://www.paulgraham.com/ds.html_](http://www.paulgraham.com/ds.html)
+*The* *original* *version* *of* *this* *essay* *is* *available* *at*
+[*http://www.paulgraham.com/ds.html*](http://www.paulgraham.com/ds.html)
 
 July 2013
 
@@ -113,7 +83,7 @@ path to dominating microcomputer software. And I know Brian Chesky and Joe Gebbi
 the big time as they were taking "professional" photos of their first hosts' apartments. They were just trying to
 survive. But in retrospect that too was the optimal path to dominating a big market.
 
-How do you find users to recruit manually? If you build something to solve [your own\\
+How do you find users to recruit manually? If you build something to solve [your own
 problems](http://www.paulgraham.com/startupideas.html), then you only have to find your peers, which is usually
 straightforward. Otherwise you'll have to make a more deliberate effort to locate the most promising vein of users. The
 usual way to do that is to get some initial set of users by doing a comparatively untargeted launch, and then to observe
@@ -294,7 +264,7 @@ get growth started. It's a common mistake among inexperienced founders to believ
 will be their big break. Six months later they're all saying the same thing: that was way more work than we expected,
 and we ended up getting practically nothing out of it. \[11\]
 
-It's not enough just to do something extraordinary initially. You have to make an extraordinary _effort_ initially. Any
+It's not enough just to do something extraordinary initially. You have to make an extraordinary *effort* initially. Any
 strategy that omits the effort — whether it's expecting a big launch to get you users, or a big partner — is ipso facto
 suspect.
 
@@ -365,3 +335,4 @@ least for those founders.
 
 **Thanks** to Sam Altman, Paul Buchheit, Patrick Collison, Kevin Hale, Steven Levy, Jessica Livingston, Geoff Ralston,
 and Garry Tan for reading drafts of this.
+

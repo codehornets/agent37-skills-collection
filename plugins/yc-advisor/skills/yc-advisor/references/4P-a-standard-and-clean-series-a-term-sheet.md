@@ -1,16 +1,11 @@
 # A standard and clean Series A term sheet
 
-**Author:** Jason Kwon
+**Author:** Jason Kwon, Aaron Harris
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet
 
+
 ---
-
-A standard and clean Series A term sheet
-
-# A standard and clean Series A term sheet
-
-by Jason Kwon, Aaron Harris
 
 While working with companies in YC’s Series A program, we’ve noticed a common problem: founders don’t know what “good”
 looks like in a term sheet. This makes sense, because it is often, literally, the first time in their careers that
@@ -35,15 +30,7 @@ see most often. Founders with a lot of negotiating leverage can sometimes do bet
 
 [You can also download the Word version of the doc from this page.](https://www.ycombinator.com/series_a_term_sheet/)
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
-
-It may be surprising to see everything covered in a single page. [1](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnote1) This wasn’t always the case, but became
+It may be surprising to see everything covered in a single page.[1](#footnote1) This wasn’t always the case, but became
 common over the last decade as some investors decided to make their term sheets more user friendly by shortening the
 legalese as if to say, “We aren’t going to get bogged down in the minutiae. We’re going to make this easy, friendly,
 standard and fast.”
@@ -54,11 +41,11 @@ insists on can sometimes say a lot about the investor’s perceived risks. These
 ways.
 
 The first way relates to control terms. We don’t mean the set of investor vetoes in the “Voting Rights” section, which
-are pretty standard fare, [2](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnote2) but rather issues of board composition and the investor’s ability to block or
+are pretty standard fare,[2](#footnote2) but rather issues of board composition and the investor’s ability to block or
 dictate operational decisions made by the board. The board structure in this term sheet is founder-friendly because the
-founders retain board control 2-1. [3](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnote3) The way in which founders most often lose control at the Series A is
+founders retain board control 2-1.[3](#footnote3) The way in which founders most often lose control at the Series A is
 with a 2-2-1 board structure, i.e. 2 founders, 2 investors and an independent board member. The loss of board control is
-most significant because it means the founders can be fired from their own company. [4](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnote4) Another way in which
+most significant because it means the founders can be fired from their own company.[4](#footnote4) Another way in which
 founders lose some control is a term that doesn’t appear in the standard example above, which is a separate provision
 that says the investor director’s approval is required for operational decisions like setting the annual budget,
 hiring/firing executives, pivoting the business, adding new lines of business, etc. When boards are set up to take power
@@ -68,15 +55,15 @@ risk. So when an investor says that they’re committed to partnering with you f
 everything on you - but then tells you something else with the terms that they insist on, believe the terms.
 
 The other way perceived risks manifest is if a term sheet includes non-standard or “dirty” economic terms. Here, the
-term sheet example is instructive not for what it contains but what it _doesn’t_. Examples of such terms would be:
+term sheet example is instructive not for what it contains but what it *doesn’t*. Examples of such terms would be:
 
-- Liquidation preference greater than 1x -- the investor gets back more than its invested capital first.
-- Participating preferred -- the investor double-dips by getting its money back plus its pro rata portion of exit
-proceeds, rather than choosing between the two.
-- Cumulative dividends -- the investor compounds its liquidation preference every year by X%, which increases the
-economic hurdle that has to be cleared before founders and employees see any value.
-- Warrant coverage -- the investor gets extra fully diluted ownership without paying for it at the agreed upon
-valuation.
+  - Liquidation preference greater than 1x -- the investor gets back more than its invested capital first.
+  - Participating preferred -- the investor double-dips by getting its money back plus its pro rata portion of exit
+    proceeds, rather than choosing between the two.
+  - Cumulative dividends -- the investor compounds its liquidation preference every year by X%, which increases the
+    economic hurdle that has to be cleared before founders and employees see any value.
+  - Warrant coverage -- the investor gets extra fully diluted ownership without paying for it at the agreed upon
+    valuation.
 
 These are all ways of adding structure to reduce typical venture risk, either directly by boosting the investor’s
 downside economics, or indirectly by juicing the upside outcomes. The investor is essentially saying, “I’m sort of
@@ -107,23 +94,24 @@ addressed in the term sheet is definitely re-trading. Also, in a few places, thi
 being “standard.” That may seem vague and circular, but term sheets frequently do describe certain terms that way. What
 that really means is that there’s an accepted practice of what appears in the docs for these terms among the lawyers who
 specialize in startups and venture deals, so make sure your lawyer (and the investor’s lawyer) fit that
-description. [↩](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnoteid1)
+description.[↩](#footnoteid1)
 
 **2.** The two most impactful investor vetoes in this section are the veto on a financing, which is covered by clauses
 (ii) and (iii), and the veto on a sale of the company, which is in clause (vii). We point these out because the concrete
 implications of these clauses aren’t facially obvious, and because most term sheets use similar technical jargon for
-these vetoes. [↩](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnoteid2)
+these vetoes.[↩](#footnoteid2)
 
 **3.** The founders implicitly control those 2 seats because they’re designated by a majority of common, and founders
 generally control a majority of common for a long time. In even more founder-friendly term sheets, those 2 seats may be
-designated by the founders themselves (as individuals). [↩](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnoteid3)
+designated by the founders themselves (as individuals).[↩](#footnoteid3)
 
 **4.** Whether being fired from the company as an employee also triggers the removal of the founder from the board is a
 separate question and depends on what was negotiated in the financing documents. Sometimes a founder’s right to vote her
 shares to appoint a director will be conditioned on the founder being currently employed by the company. Whenever
 conditions are attached to your rights to vote on anything, make sure to ask your lawyer to walk you through the various
-scenarios in which those conditions matter and how they can hurt you. [↩](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet#footnoteid4)
+scenarios in which those conditions matter and how they can hurt you.[↩](#footnoteid4)
 
-_This is not legal advice._
+*This is not legal advice.*
 
-_Thanks to Carolynn Levy, Jon Levy, and Nicole Cadman for their comments on this._
+*Thanks to Carolynn Levy, Jon Levy, and Nicole Cadman for their comments on this.*
+

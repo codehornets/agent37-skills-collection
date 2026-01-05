@@ -4,23 +4,8 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years
 
+
 ---
-
-Table of Contents
-
-[**Table of Contents**](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#)
-
-[- How tech startup fundraising changed from 2005 to now](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#how-tech-startup-fundraising-changed-from-2005-to-now)
-
-[- What’s happening now with biotech companies](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#what-s-happening-now-with-biotech-companies)
-
-[- Predictions for the future](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#predictions-for-the-future)
-
-How biotech startup funding will change in the next 10 years
-
-# How biotech startup funding will change in the next 10 years
-
-by [Jared Friedman](https://www.ycombinator.com/people/jared-friedman)
 
 Back when YC was getting started about 10 years ago, Paul Graham wrote
 [some](http://www.paulgraham.com/webstartups.html) [essays](http://www.paulgraham.com/future.html) that predicted the
@@ -29,7 +14,7 @@ would be way more startups, that they’d be cheaper to start, that new kinds of
 would be more technical, and that founders would keep control of their companies. All of those seem to have come true.
 
 I've noticed that raising money for a biotech or other life
-science[1](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnote1) company in 2019 looks a lot like raising money for a tech
+science<sup id="footnoteid1"><a href="#footnote1">1</a></sup> company in 2019 looks a lot like raising money for a tech
 company 10 years ago. Since then, fundamental forces caused fundraising for tech companies to change dramatically. I see
 those same forces that Paul Graham wrote about happening with biotech companies now. And I believe that they are going
 to change biotech fundraising very much the way they changed tech company fundraising.
@@ -44,14 +29,6 @@ preferred to fund MBAs with previous executive experience and shied away from un
 Because they had a lock on the funding market, they asked for onerous financial terms and often replaced founders with
 favored executives. The only model of institutional seed funding was the “business incubator” model, where VC firms
 would fund well-connected founders they knew and incubate them in their office.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 Then, the cost to start a tech company plummeted. It plummeted because new infrastructure was created: a combination of
 open source software, modern web frameworks, SaaS developer tools, cloud hosting, and better distribution channels. This
@@ -68,7 +45,7 @@ for tech startups to get started.
 Because these companies wouldn’t raise VC until they were much further along and had leverage, the balance of power
 shifted. Founders increasingly retained control of their company. Investors lost the power to fire founders and bring in
 favored executives. And when they did, they realized something surprising: despite their inexperience, the founders were
-often the right people to run the company.[2](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnote2)
+often the right people to run the company.<sup id="footnoteid2"><a href="#footnote2">2</a></sup>
 
 ### What’s happening now with biotech companies
 
@@ -83,13 +60,14 @@ check, so this was the only way to get started.
 
 But that’s no longer the case. Just like new infrastructure brought down the cost to start a tech company, new
 infrastructure has brought down the cost of doing biology dramatically. Today, founders can make real progress proving a
-concept for a biotech company for much less, often as little as $100K. There are [low](http://wuxibiologics.com/) [cost](http://evotec.com/) [CROs](http://chempartner.com/) that will do scientific work for a fee. Companies like [Science\\
+concept for a biotech company for much less, often as little as $100K. There are [low](http://wuxibiologics.com)
+[cost](http://evotec.com) [CROs](http://chempartner.com) that will do scientific work for a fee. Companies like [Science
 Exchange](https://www.scienceexchange.com/) make access to CROs and scientific supplies instantaneous and cost effective
-to small companies. It’s easy to rent [fully equipped](https://mbcbiolabs.com/) [lab\\
+to small companies. It’s easy to rent [fully equipped](https://mbcbiolabs.com/) [lab
 space](http://www.berkeleybiolabs.com/) by the bench, and there are [companies](https://www.quartzy.com/) to help you
 [stock it](https://www.happilabs.org/). Affordable lab robots from companies like [OpenTrons](https://opentrons.com/)
 make it possible to automate batch experiments, and computational drug discovery from companies like
-[Atomwise](https://www.atomwise.com/) allows some experiments to be done completely in silico. Companies like [Cognition\\
+[Atomwise](https://www.atomwise.com/) allows some experiments to be done completely in silico. Companies like [Cognition
 IP](https://www.cognitionip.com/) are bringing down the cost of filing patents, and companies like
 [Enzyme](https://www.enzyme.com/) are streamlining FDA submission.
 
@@ -109,12 +87,12 @@ localized delivery outperformed conventional chemo.
 vision based technique. The founders Tanay and Deepika started the company while still in college and were able to make
 a working prototype with just $40K in investment. During YC they were able to run a 350 patient initial study that
 showed very good results. Their device is now FDA cleared, and they’re serving thousands of
-patients.[3](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnote3)
+patients.<sup id="footnoteid3"><a href="#footnote3">3</a></sup>
 
 Of course, running clinical trials for drugs remains very
-expensive[4](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnote4), and biotech companies will ultimately need to raise
+expensive<sup id="footnoteid4"><a href="#footnote4">4</a></sup>, and biotech companies will ultimately need to raise
 tons of money to deliver on their initial promise. But this is not too different from tech companies. The biggest YC
-(software) companies have each raised over $1B. The important part is that these companies were able to _get started_
+(software) companies have each raised over $1B. The important part is that these companies were able to *get started*
 with less than $100K and to de-risk their idea enough to raise more money later.
 
 ### Predictions for the future
@@ -124,7 +102,7 @@ raising money incrementally, rather than a giant amount upfront, you can keep co
 on your own idea, not just ideas that VCs come up with.
 
 This new path has drawn a new kind of biotech founder. Many of the biotech founders we see at YC are grad students or
-postdocs[5](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnote5). Previously their career options were to stay in academia
+postdocs<sup id="footnoteid5"><a href="#footnote5">5</a></sup>. Previously their career options were to stay in academia
 or to join a big pharma company. Starting their own company is now a viable third option.
 
 If this plays out the way it did in 2005, we'll see an explosion in the funding options for biotech companies. Many
@@ -138,25 +116,21 @@ more of these companies will look like tech companies: instead of being run by V
 the founders who care about their ideas, and who will sustain that passion building companies they love and that change
 the world for the better.
 
-**Notes**
-
-**1.** It’s common to use the word “biotech” to describe specifically therapeutics companies. I use it
+**Notes**  
+<b id="footnote1">1.</b> It’s common to use the word “biotech” to describe specifically therapeutics companies. I use it
 this way as well, but most of this post applies to all life science companies - anything related to
-biology. [↩](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnoteid1)
-
-**2.** Actually, this trend started with top VCs earlier, basically for the reasons Ben Horowitz
+biology.[↩](#footnoteid1)  
+<b id="footnote2">2.</b> Actually, this trend started with top VCs earlier, basically for the reasons Ben Horowitz
 [wrote about](https://a16z.com/2010/04/28/why-we-prefer-founding-ceos/) in 2010. But I think the rise of institutional
-seed funding accelerated it. [↩](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnoteid2)
-
-**3.** The point here is not that these companies will ultimately succeed—we don't know that yet. My
+seed funding accelerated it.[↩](#footnoteid2)  
+<b id="footnote3">3.</b> The point here is not that these companies will ultimately succeed—we don't know that yet. My
 point is that with just a seed investment and a few months, they managed to go as far along the curve as companies that
-had to raise millions of dollars before. [↩](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnoteid3)
+had to raise millions of dollars before.[↩](#footnoteid3)  
+<b id="footnote4">4.</b> Though companies like YC’s [Curebase](https://www.curebase.com/) and
+[Nucleus](https://biocomcro.org/cro/nucleus-network/) in Australia are chipping away at that.[↩](#footnoteid4)  
+<b id="footnote5">5.</b> Certainly not all of them. We’ve also backed many founders who came out of industry, along with
+MD’s and faculty.[↩](#footnoteid5)
 
-**4.** Though companies like YC’s [Curebase](https://www.curebase.com/) and
-[Nucleus](https://biocomcro.org/cro/nucleus-network/) in Australia are chipping away at that. [↩](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnoteid4)
+*Thanks to Dan Gackle, Abe Heifets, Elizabeth Iorns, Stephanie Simon, Geoff Ralston, Diego Rey, Uri Lopatin, Ethan
+Perlstein, Joe Betts-Lacroix, Jose Mejia Oneto, Tanay Tandon, and Thomas Folliard for reading drafts of this.*
 
-**5.** Certainly not all of them. We’ve also backed many founders who came out of industry, along with
-MD’s and faculty. [↩](https://www.ycombinator.com/library/4L-how-biotech-startup-funding-will-change-in-the-next-10-years#footnoteid5)
-
-_Thanks to Dan Gackle, Abe Heifets, Elizabeth Iorns, Stephanie Simon, Geoff Ralston, Diego Rey, Uri Lopatin, Ethan_
-_Perlstein, Joe Betts-Lacroix, Jose Mejia Oneto, Tanay Tandon, and Thomas Folliard for reading drafts of this._

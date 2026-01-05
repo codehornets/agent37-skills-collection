@@ -4,16 +4,11 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4s-navigating-success-for-your-startup
 
+
 ---
 
-Navigating success for your startup
-
-# Navigating success for your startup
-
-by Sam Altman
-
 When you start a startup, you get pushed off the side of a cliff with a bag of aerospace
-parts.[1](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup#footnote1) You hope they are the parts for a spaceship, and they look
+parts.<sup id="footnoteid1"><a href="#footnote1">1</a></sup> You hope they are the parts for a spaceship, and they look
 like they might be, but it’s impossible to tell when they’re all in a bag.
 
 So you start figuring out how the parts fit together as you fall. Every once in a while, it turns out you do have the
@@ -32,14 +27,6 @@ strategy, etc.), and keep trying to build a spaceship, or just decide to have a 
 willing to risk everything they’ve built for the chance to go the moon, and again, there’s plenty of advice out there
 for those people. But many rational people are happy with the airplane they’ve built, and there’s not much advice about
 what to do in this situation.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 Let’s define a “really good airplane” as a company that has profitability within reach and is on track to be worth $100
 million with several more years of hard work. This is nothing to be ashamed of—quite the opposite, obviously. This is a
@@ -78,8 +65,8 @@ And remember that this is still an outcome to be very proud of. And if you want,
 Silicon Valley is filled with people who had one or several mid-success companies before eventually hitting it out of
 the park.
 
-* * *
+-----
 
-**Notes**
+**Notes**  
+<b id="footnote1">1.</b> Thanks to David Weiden for this metaphor.[↩](#footnoteid1)
 
-**1.** Thanks to David Weiden for this metaphor. [↩](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup#footnoteid1)

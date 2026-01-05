@@ -3,75 +3,9 @@
 **Author:** Michael Seibel
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6f-how-to-plan-an-mvp
+**YouTube ID:** 1hHMwLxN6EM
 
 ---
-
-How to plan an MVP
-
-# How to plan an MVP
-
-by [Michael Seibel](https://www.ycombinator.com/people/michael-seibel)
-
-796K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Introduction
-
-0:41
-
-First, talk to users
-
-1:40
-
-Goal: launch quickly
-
-2:40
-
-After launching, get feedback
-
-4:30
-
-Lean MVP
-
-5:37
-
-Real-world examples
-
-8:21
-
-Heavy MVPs
-
-9:33
-
-Launches aren't special
-
-11:22
-
-Hacks for building an MVP quickly
-
-12:57
-
-Don't fall in love with your MVP
-
-Y Combinator Managing Director and Group Partner [**Michael Seibel**](https://twitter.com/mwseibel) shares his approach
-to building an MVP and getting your first users as a pre-launch startup.
-
-**Watch if:**
-
-- you haven't built an MVP yet
-- you're trying to figure out which features to put in your MVP
-- you're building an MVP but don't have anyone using it yet
-- your MVP is taking longer than expected to launch
-
-Read more on product development cycle fundamentals on Michael's blog:
-[http://www.michaelseibel.com/blog/product-development-cycle-fundamentals](http://www.michaelseibel.com/blog/product-development-cycle-fundamentals)
-
-## Transcript
 
 Michael: My name is Michael. I work here at Y Combinator. I help run the accelerator. Before that, I did two YC startups, one in 2007 and one in 2012. And today, I'm gonna talk to you about minimum viable product, so MVP. We always yell at founders to not use jargon, yet we have this whole set of stupid startup jargon, and MVP is one of them. When you think about an MVP, you should think about something ridiculously simple. This is the first thing you can give to the very first set of users you wanna target, in order to see if you can deliver any value at all to them. That's all it is. It's extremely simple.
 
@@ -93,7 +27,7 @@ The second, extremely limited functionality. You need to condense down what your
 
 Okay. Here is a classic example. This is one of Airbnb's first landing pages, in 2008, I believe. One of the things that you might be interested in about in Airbnb's first product is that there were no payments. When you found place to stay on Airbnb, you had to exchange money with the host in person. Needless to say, that was a pretty fucking big problem, but they started without payments. No map view. You know how when you search Airbnb, you can see where the house is in the city? You don't have that. Sorry. And, the person writing all the code, Nate, was working part time. Okay? So everyone tells these kind of magical stories about how everything was perfect from the beginning. Airbnb, not perfect from the beginning.
 
-The next one, Twitch. This was what Twitch looked like day one. Not very familiar. Well, maybe a little familiar. There's some video there, and there's some chat there. Other than that, nothing else. Twitch launched as [Justin.tv](http://justin.tv/), which was a online reality TV show. There was only one channel, Justin. You had to follow his life. If you didn't like his life, you had to leave the website. That's all there was. The video was extremely low resolution. It was funny, a founder asked me back in the day, like, "Oh, like, wasn't it weird, you guys had video in your apartment. Weren't there all these, like, secret documents and things that, like, people would be able to see?" And it was like, you could barely recognize our faces, let alone documents that we had. And most importantly, there were no video games. No video games, except if we decided to play video games in our apartment. Like, that was the only time video games ever appeared. And so, say you can do that quickly. When you think about Twitch, it's much more complex now.
+The next one, Twitch. This was what Twitch looked like day one. Not very familiar. Well, maybe a little familiar. There's some video there, and there's some chat there. Other than that, nothing else. Twitch launched as Justin.tv, which was a online reality TV show. There was only one channel, Justin. You had to follow his life. If you didn't like his life, you had to leave the website. That's all there was. The video was extremely low resolution. It was funny, a founder asked me back in the day, like, "Oh, like, wasn't it weird, you guys had video in your apartment. Weren't there all these, like, secret documents and things that, like, people would be able to see?" And it was like, you could barely recognize our faces, let alone documents that we had. And most importantly, there were no video games. No video games, except if we decided to play video games in our apartment. Like, that was the only time video games ever appeared. And so, say you can do that quickly. When you think about Twitch, it's much more complex now.
 
 Last, Stripe, which wasn't Stripe. It was called /dev/payments because, why not? Like, let's make a name that's really easy to remember. This was Stripe day one. No bank deals. I won't tell you exactly how they process payments, but it was in a very startup-ey way. Almost no features, and even cooler, if you wanted to use Stripe, the Stripe founders would come to your office and integrate it for you. How nice is that? Half because they were just desperate to get anyone to use it, and half because it was a great way to find bugs before the users found bugs. Integrate yourself.
 

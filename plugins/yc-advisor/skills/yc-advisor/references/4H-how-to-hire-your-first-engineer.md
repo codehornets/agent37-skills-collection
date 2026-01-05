@@ -4,42 +4,17 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer
 
+
 ---
 
-Table of Contents
-
-[**Table of Contents**](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#)
-
-[- Personal Networks](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#personal-networks)
-
-[- Hiring Marketplaces](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#hiring-marketplaces)
-
-[- Generate Inbound](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#generate-inbound)
-
-[- Cold Outreach](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#cold-outreach)
-
-[- Recruiters](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#recruiters)
-
-[- Meetups](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#meetups)
-
-[- Agencies](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#agencies)
-
-[- Conclusion](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer#conclusion)
-
-How to hire your first engineer
-
-# How to hire your first engineer
-
-by [Harj Taggar](https://www.ycombinator.com/people/harj-taggar)
-
-[_Harj Taggar_](https://twitter.com/Harjeet) is cofounder of [_Triplebyte_](https://triplebyte.com/) (YC S15).
+[*Harj Taggar*](https://twitter.com/Harjeet) is cofounder of [*Triplebyte*](https://triplebyte.com/) (YC S15).
 Triplebyte helps great engineers find work at the fastest growing companies in the world, with the least amount of time
 and effort.
 
-_For a more detailed, process-oriented on hiring engineers, also see [_YC's How to Hire_\_\
-__Handbook_](https://www.ycombinator.com/library/founder_link?slug=4H-how-to-hire-your-first-engineer)._
+*For a more detailed, process-oriented on hiring engineers, also see *[*YC's How to Hire
+Handbook*](founder_link?slug=4H-how-to-hire-your-first-engineer)*.*
 
-_\-\-\----------------------------------------------_
+*------------------------------------------------*
 
 This post is advice for early stage startup founders who are hiring their first engineer. At this stage traditional
 recruiting methods e.g. hiring a recruiter won't work as well for you as they do for larger companies.
@@ -47,14 +22,6 @@ recruiting methods e.g. hiring a recruiter won't work as well for you as they do
 Hiring your first engineer at a startup is incredibly hard. As a founder you're already stretched dangerously thin on
 time. There are bugs to fix, customers to close and any number of urgent existential fires that demand your full
 attention. You know you should be spending more time on hiring but it's a battle to find it.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 The bad news is even once you find the time, much of it will feel like wasted effort. Hiring isn't the kind of work that
 provides you constant dopamine hits. It involves a lot of dead ends and frustration.
@@ -71,9 +38,9 @@ now. Founders should be aware of all these tradeoffs and make the one that's bes
 Once you know what you're looking for, you're ready to start finding candidates. I'll go through the strategies
 available, starting with what I believe is most effective and working through to the least.
 
-_Note: As the founder of a hiring platform I'm not neutral in discussing their effectiveness. I have articulated both_
-_their advantages and disadvantages and we did make our own first engineering hire through_
-_[_Triplebyte_](http://triplebyte.com/)._
+*Note: As the founder of a hiring platform I'm not neutral in discussing their effectiveness. I have articulated both
+their advantages and disadvantages and we did make our own first engineering hire through
+*[*Triplebyte*](http://triplebyte.com/)*.*
 
 ## Personal Networks
 
@@ -98,15 +65,15 @@ leave their jobs and take a risk with you is scary. It's also more awkward to be
 strangers. Still, if you're optimizing for the success of your startup you'll have to put this aside. Here's a plan you
 could follow:
 
-1. Make a list of the best engineers you know, whether you think they're available or not. Go through your Facebook and
-LinkedIn to jog your memory.
-2. Invite them to lunch or dinner with them to talk about your startup.
-3. Make the ask - would you consider joining us?.
-4. Whatever they answer, ask a follow up question - if you did join us, which engineers would you most want to hire?.
-5. Ask for an introduction to those people.
-6. Repeat 2 - 5 with each of the introductions.
-7. Repeat 1 - 6 ad infinitum, I know public company founders who still do this. Expect to be spending at least a third
-of your time on this alone.
+1.  Make a list of the best engineers you know, whether you think they're available or not. Go through your Facebook and
+    LinkedIn to jog your memory.
+2.  Invite them to lunch or dinner with them to talk about your startup.
+3.  Make the ask - would you consider joining us?.
+4.  Whatever they answer, ask a follow up question - if you did join us, which engineers would you most want to hire?.
+5.  Ask for an introduction to those people.
+6.  Repeat 2 - 5 with each of the introductions.
+7.  Repeat 1 - 6 ad infinitum, I know public company founders who still do this. Expect to be spending at least a third
+    of your time on this alone.
 
 For your first three engineering hires I'd recommend focusing exclusively on personal network hiring. As your team grows
 though you'll start thinking more about the composition and diversity of your team. Hiring through your personal network
@@ -168,13 +135,13 @@ If you're not either of these types of companies you can still blog about the te
 made any controversial or unusual choices in your stack? If so, write about them. You may alienate some engineers who
 disagree but you may also capture the full attention of a few who agree strongly e.g. Cognito have especially strong
 views on testing and wrote about how they use mutation testing
-( [https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing/](https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing/)). Not only does this get the attention of
+(<https://blog.cognitohq.com/how-to-write-better-code-using-mutation-testing/>). Not only does this get the attention of
 potential candidates, it creates content that you can also use include in cold outreach (more on that later).
 
 A more time-intensive option is creating interactive content like coding challenges or puzzles, the Netflix algorithm
 contest being the most famous example. This can definitely work, Robby Walker, founder of Cue (acquired by Apple), wrote
 about how this worked well for them here
-( [https://techcrunch.com/2013/03/08/programming-challenges-benefit-job-seekers-and-employers/](https://techcrunch.com/2013/03/08/programming-challenges-benefit-job-seekers-and-employers/)). It's a high-risk
+(<https://techcrunch.com/2013/03/08/programming-challenges-benefit-job-seekers-and-employers/>). It's a high-risk
 strategy though. If you can't design something genuinely interesting then spending time on this will be a boondoggle. If
 you're confident in your ability to make something interesting then go for it but run your idea by some engineering
 friends first to see if it sparks interest.
@@ -193,10 +160,10 @@ they'll already know where the best places are to look).
 
 The challenge with cold outreach, especially on recruiting-specific platforms like LinkedIn, is the overwhelming number
 of messages good engineers receive on them. For your message to stand out from the crowd you need to put in work to make
-it personalized. Greg Brockman has some great advice ( [https://stripe.com/blog/startup-advice-cold-recruiting](https://stripe.com/blog/startup-advice-cold-recruiting)) on this.
+it personalized. Greg Brockman has some great advice (<https://stripe.com/blog/startup-advice-cold-recruiting>) on this.
 
 You'll also see a greater return if you can hunt down email addresses rather than sending messages. If you're looking at
-profiles on LinkedIn, use the Connectifer ( [https://www.connectifier.com/](https://www.connectifier.com/)) Chrome extension to get them. Otherwise do
+profiles on LinkedIn, use the Connectifer (<https://www.connectifier.com/>) Chrome extension to get them. Otherwise do
 what you can to find an email address (sometimes people include them in their forum profiles or try finding a personal
 website that might have contact information). If you have any press articles or noteworthy mentions, I'd link to these
 in the message too. You also need to follow up and expect it'll take two or three emails before you get a reply.
@@ -270,10 +237,11 @@ product challenges.
 
 Once you understand what resonates most about your company with engineers you can switch gears to working through
 channels to get that message out to potential candidates. Then be prepared for a lot of struggle and rejection until you
-find the right person. Good luck!
+find the right person. Good luck\!
 
 If there are any other strategies you've tried with success that should be added here, please do email me
-( [(redacted)](https://www.ycombinator.com/library/founder_link?slug=4H-how-to-hire-your-first-engineer)), I'd love to hear them.
+([(redacted)](founder_link?slug=4H-how-to-hire-your-first-engineer)), I'd love to hear them.
 
 If you're hiring engineers and would like to try Triplebyte, [use this link](http://triplebyte.com/tblog/express) to
 sign up and you'll get a special $15,000 hiring fee for your first hire
+

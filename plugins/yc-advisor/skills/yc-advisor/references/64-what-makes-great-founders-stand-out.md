@@ -3,434 +3,65 @@
 **Author:** Michael Seibel
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/64-what-makes-great-founders-stand-out
+**YouTube ID:** ZtfTOuSHGg8
 
 ---
-
-What makes great founders stand out?
-
-# What makes great founders stand out?
-
-by [Michael Seibel](https://www.ycombinator.com/people/michael-seibel)
-
-What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[What Makes The Top 10% Of Founders Different? - Michael Seibel](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[How To Cold Email Investors - Michael Seibel\\
-\\
-7:52](https://www.youtube.com/watch?v=A3MmYbH1hbs)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 5:52
-
-•Watch full videoLive
-
-•
-What Makes The Top 10% Of Founders Different?
-
-321K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-What Makes The Top 10% Of Founders Different?
-
-0:35
-
-Great founders execute
-
-1:22
-
-Formidability
-
-2:09
-
-Clear communication
-
-3:40
-
-Internal motivation
-
-4:52
-
-Note that "idea" is not on this list
 
 Y Combinator CEO and Partner [Michael Seibel](https://twitter.com/mwseibel) on what makes the top 10% of founders
 different.
 
-**Topics**
+**Topics**  
+[00:00](https://youtu.be/ZtfTOuSHGg8?t=0s) - What Makes The Top 10% Of Founders Different?  
+[00:35](https://youtu.be/ZtfTOuSHGg8?t=35s) - Great founders execute  
+[1:22](https://youtu.be/ZtfTOuSHGg8?t=1m22s) - Formidability  
+[2:09](https://youtu.be/ZtfTOuSHGg8?t=2m9s) - Clear communication  
+[3:40](https://youtu.be/ZtfTOuSHGg8?t=3m40s) - Internal motivation  
+[4:52](https://youtu.be/ZtfTOuSHGg8?t=4m52s) - Note that "idea" is not on this list
 
-[00:00](https://youtu.be/ZtfTOuSHGg8?t=0s) \- What Makes The Top 10% Of Founders Different?
+## Transcript
 
-What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube
+one of the questions I get often during the batch of YC is what separates out a top 10% founder versus everyone else when I started a YC I didn't really have enough context to know as a founder my own company of course had my own friends but that was a relatively small sample size over the last 13 batches I've gotten to interact with about over 2,500 founders and so I've been able to get stripe slightly stronger opinion about what makes great founder stand out um
 
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
+the first thing that I'll say is great founders execute and I'll be really specific about what that means when I do office hours with a great founder and they say they're going to do something two weeks later they've done it and they've learned something and they do that consistently they have the consistent ability to say what they want to do do it and then learn from that that doesn't mean that what they wanted
 
-Y Combinator
+to do was correct it doesn't mean they want to continue down that direction but they never get stuck in the execution step they never say oh I want to do this and then come back two weeks later and say oh we couldn't do it they always figure out a way to get some version of it done and then learn from it the second thing and really derives from the first is formidable 'ti they're formidable one of the things that happens when somebody says they're gonna do something and then does it over and
 
-2.1M subscribers
+over and over again is that you learn that that person gets done and it's pretty intimidating to work with someone who's constantly getting things done not intimidating in a bad way but intimidating in a way where they demand respect because they get done and so when you talk to them you treat them with more respect you treat their goals with more respect because you think they're more likely to accomplish them and you treat their tasks with more respect because you know they're going to do them so the ability to execute creates permit
 
-[What Makes The Top 10% Of Founders Different? - Michael Seibel](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
+ability permit ability is extremely important the last one and one that I didn't understand until doing many many YC interviews is communication I used to think that you could just execute well and not have to be able to communicate but the problem is that startups really require good communication communication with your users communication with potential investors with your co-founders with potential employees an effective founder always has to be talking about their business and getting people excited about it the number one
 
-Y Combinator
+mistake I see founders making is they can't actually explain what their business does the best founders can in one or two sentences explain exactly what their business does and they can explain it to a customer they can explain it to an investor they can explain it to their mother they could explain it to anyone of any level of knowledge about their industry and they can do it without stumbling and I think that's ridiculously important because in order for you to get advice investment
 
-Search
+to convince someone to join your company they first have to understand what you do and you would be surprised how many founders can't clearly explain what they do well enough so that they can start selling you on how you can help them or join them so once again the three most important things I see that separate our top 10% founders from everyone else is first ability to execute second the resulting formidable 'ti you kind of respect them more and third the ability to clearly communicate what they're
 
-Info
+working on now if I were to add a fourth bonus one it would be and this is a little bit strange but internal motivation another way of saying it is that they don't get too discouraged when things go wrong they stay motivated startup is a game where you're going to fail all the time you're gonna make bad decisions all the time you're gonna have strong hypotheses that turns out to be
 
-Shopping
+wrong and there's a type of person who doesn't get discouraged even if they make the wrong move five times five times in a row they stay passionate about the problem they stay passionate about trying to find a solution and they keep on executing and moving forward being motivated in the face of defeat or failure is an extremely important thing for a start-up founder to be able to do so I said three but I cheated is for
 
-Tap to unmute
+execution for mid ability communication and motivation those are the things that look I'm then make top 10% startups start founders stand out one thing I didn't say was idea it is usually very hard to tell whether in a very early stage company has a good idea it's very hard and so I never use idea to separate out great founders from anyone else
 
-If playback doesn't begin shortly, try restarting your device.
+because I'm not the arbiter of what a good idea is and I don't have perfect experience in every problem so whenever I kind of overthink oh is this a good idea or not I can get stuck in my own head and I can also pretend that I know more than I do so try not to focus on idea Cheers you
 
-You're signed out
+## Transcript
 
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+one of the questions I get often during the batch of YC is what separates out a top 10% founder versus everyone else when I started a YC I didn't really have enough context to know as a founder my own company of course had my own friends but that was a relatively small sample size over the last 13 batches I've gotten to interact with about over 2,500 founders and so I've been able to get stripe slightly stronger opinion about what makes great founder stand out um
 
-CancelConfirm
+the first thing that I'll say is great founders execute and I'll be really specific about what that means when I do office hours with a great founder and they say they're going to do something two weeks later they've done it and they've learned something and they do that consistently they have the consistent ability to say what they want to do do it and then learn from that that doesn't mean that what they wanted
 
-Share
+to do was correct it doesn't mean they want to continue down that direction but they never get stuck in the execution step they never say oh I want to do this and then come back two weeks later and say oh we couldn't do it they always figure out a way to get some version of it done and then learn from it the second thing and really derives from the first is formidable 'ti they're formidable one of the things that happens when somebody says they're gonna do something and then does it over and
 
-Include playlist
+over and over again is that you learn that that person gets done and it's pretty intimidating to work with someone who's constantly getting things done not intimidating in a bad way but intimidating in a way where they demand respect because they get done and so when you talk to them you treat them with more respect you treat their goals with more respect because you think they're more likely to accomplish them and you treat their tasks with more respect because you know they're going to do them so the ability to execute creates permit
 
-An error occurred while retrieving sharing information. Please try again later.
+ability permit ability is extremely important the last one and one that I didn't understand until doing many many YC interviews is communication I used to think that you could just execute well and not have to be able to communicate but the problem is that startups really require good communication communication with your users communication with potential investors with your co-founders with potential employees an effective founder always has to be talking about their business and getting people excited about it the number one
 
-Watch later
+mistake I see founders making is they can't actually explain what their business does the best founders can in one or two sentences explain exactly what their business does and they can explain it to a customer they can explain it to an investor they can explain it to their mother they could explain it to anyone of any level of knowledge about their industry and they can do it without stumbling and I think that's ridiculously important because in order for you to get advice investment
 
-Share
+to convince someone to join your company they first have to understand what you do and you would be surprised how many founders can't clearly explain what they do well enough so that they can start selling you on how you can help them or join them so once again the three most important things I see that separate our top 10% founders from everyone else is first ability to execute second the resulting formidable 'ti you kind of respect them more and third the ability to clearly communicate what they're
 
-Copy link
+working on now if I were to add a fourth bonus one it would be and this is a little bit strange but internal motivation another way of saying it is that they don't get too discouraged when things go wrong they stay motivated startup is a game where you're going to fail all the time you're gonna make bad decisions all the time you're gonna have strong hypotheses that turns out to be
 
-Watch on
+wrong and there's a type of person who doesn't get discouraged even if they make the wrong move five times five times in a row they stay passionate about the problem they stay passionate about trying to find a solution and they keep on executing and moving forward being motivated in the face of defeat or failure is an extremely important thing for a start-up founder to be able to do so I said three but I cheated is for
 
-0:00
+execution for mid ability communication and motivation those are the things that look I'm then make top 10% startups start founders stand out one thing I didn't say was idea it is usually very hard to tell whether in a very early stage company has a good idea it's very hard and so I never use idea to separate out great founders from anyone else
 
-/
-
-•Live
-
-•
-
-[00:35](https://youtu.be/ZtfTOuSHGg8?t=35s) \- Great founders execute
-
-What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
-
-Y Combinator
-
-2.1M subscribers
-
-[What Makes The Top 10% Of Founders Different? - Michael Seibel](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-/
-
-•Live
-
-•
-
-[1:22](https://youtu.be/ZtfTOuSHGg8?t=1m22s) \- Formidability
-
-What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
-
-Y Combinator
-
-2.1M subscribers
-
-[What Makes The Top 10% Of Founders Different? - Michael Seibel](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-/
-
-•Live
-
-•
-
-[2:09](https://youtu.be/ZtfTOuSHGg8?t=2m9s) \- Clear communication
-
-What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
-
-Y Combinator
-
-2.1M subscribers
-
-[What Makes The Top 10% Of Founders Different? - Michael Seibel](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-/
-
-•Live
-
-•
-
-[3:40](https://youtu.be/ZtfTOuSHGg8?t=3m40s) \- Internal motivation
-
-What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
-
-Y Combinator
-
-2.1M subscribers
-
-[What Makes The Top 10% Of Founders Different? - Michael Seibel](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-/
-
-•Live
-
-•
-
-[4:52](https://youtu.be/ZtfTOuSHGg8?t=4m52s) \- Note that "idea" is not on this list
-
-What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
-
-Y Combinator
-
-2.1M subscribers
-
-[What Makes The Top 10% Of Founders Different? - Michael Seibel](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-/
-
-•Live
-
-•
+because I'm not the arbiter of what a good idea is and I don't have perfect experience in every problem so whenever I kind of overthink oh is this a good idea or not I can get stuck in my own head and I can also pretend that I know more than I do so try not to focus on idea Cheers you

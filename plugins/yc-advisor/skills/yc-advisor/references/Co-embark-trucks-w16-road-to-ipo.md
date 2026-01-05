@@ -3,152 +3,9 @@
 **Author:** Geoff Ralston
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/Co-embark-trucks-w16-road-to-ipo
+**YouTube ID:** LzIA3pH7lIg
 
 ---
-
-Embark Trucks' (W16) road to IPO
-
-# Embark Trucks' (W16) road to IPO
-
-by Geoff Ralston
-
-Embark Trucks' Alex Rodrigues and Brandon Moak Chat with YC President Geoff Ralston - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Embark Trucks' Alex Rodrigues and Brandon Moak Chat with YC President Geoff Ralston](https://www.youtube.com/watch?v=LzIA3pH7lIg)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 49:14
-
-•Watch full videoLive
-
-•
-Intro
-
-6,139 views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Intro
-
-2:36
-
-Embark Trucks' Vision
-
-4:38
-
-The Founding Story
-
-8:43
-
-Going Through Y Combinator with Varden Labs
-
-11:12
-
-Learnings from YC
-
-14:26
-
-Transition from Varden Labs to Embark Trucks
-
-18:22
-
-Their YC Interview
-
-21:01
-
-YC Demo Day
-
-24:21
-
-Reflecting on the Most Transformative Things for Embark from YC
-
-28:33
-
-How Embark Trucks Came to Be
-
-34:38
-
-How they Hired a World Class Team
-
-39:32
-
-The Lows and Dealing with Adversity
-
-41:12
-
-Culture and Working at Embark
-
-43:37
-
-Looking to the Future and Going Public
-
-46:49
-
-Advice for Future Founders
 
 Today, [Embark Trucks](https://embarktrucks.com/), once a startup in YC’s W16 batch, is going public. I remember
 interviewing Alex, Brandon and their former co-founder Michael in late 2015. Whenever we see such young teams – they
@@ -171,59 +28,7 @@ in the wide-world. This was a key insight for the team: that the first self-driv
 highly constrained environment because the unconstrained problem was, frankly, too difficult. We know today all too well
 how spot-on they were.
 
-Embark Trucks' Application Video for YC W16 - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
-
-Y Combinator
-
-2.1M subscribers
-
-[Embark Trucks' Application Video for YC W16](https://www.youtube.com/watch?v=8MdVFF5HU0g)
-
-Y Combinator
-
-Search
-
-Watch later
-
-Share
-
-Copy link
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-More videos
-
-## More videos
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-[Watch on](https://www.youtube.com/watch?v=8MdVFF5HU0g&embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F)
-
-0:00
-
-0:00 / 0:55
-
-•Live
-
-•
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MdVFF5HU0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As their time in the batch progressed, they found, somewhat to their dismay, that not only was their chosen domain, i.e.
 campuses, not as constrained as they had hoped, it also turned out that various campuses had such different environments
@@ -244,3 +49,4 @@ I’ve stayed in close touch with Alex and Brandon over the years and their ener
 clarity of their thinking has never ceased to impress me. Now, they have shown they can build a company. Today’s
 milestone is but one step on what I’m sure will continue to be an exciting road for us all to follow. Congrats to Alex,
 Brandon and the entire Embark team.
+

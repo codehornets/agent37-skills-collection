@@ -4,20 +4,15 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4c-getting-press-for-your-startup
 
+
 ---
-
-Getting press for your startup
-
-# Getting press for your startup
-
-by [Michael Seibel](https://www.ycombinator.com/people/michael-seibel)
 
 **Michael Seibel, Y Combinator CEO, on press strategies for startups.**
 
 The best press advice I ever got was from Mike Arrington and M.G. Siegler while they were speaking at an SV Angel CEO
 conference. They said:
 
-**Treat PR like biz dev.**
+    **Treat PR like biz dev.**
 
 Once I heard that, everything clicked. Before then I’d wasted mental energy thinking there were special rules for
 talking to the press and getting great stories for my company. I needed cool and catchy subject lines for my emails. I
@@ -34,33 +29,28 @@ Many founders pitch reporters profiles and stories about their company that coul
 month. Everyone wants a “profile piece” on their startup but most of the time those stories aren’t valuable to
 reporters. What makes a valuable story is news.
 
-**What is News?**
-
+**What is News?**  
 News is timely. It makes more sense to talk about it today rather than tomorrow. News attracts attention now and that’s
 what reporters want. News for most startups can be broken up into these 4 categories:
 
-**1\. Product Launches and Features**
-
+**1. Product Launches and Features**  
 These are things coming out today. Not yesterday, not tomorrow, today. Think Instagram Stories or Facebook Timeline.
 Typically you are looking for user facing features. In my last company, Socialcam, we would reach out to the press when
 we released video filters, the ability to add soundtracks to videos, or user profiles.
 
-**2\. Product/Sales Milestones**
-
-This could be hitting [a million users](https://zapier.com/blog/one-million-users/), $100k MRR, or maybe [a million\\
+**2. Product/Sales Milestones**  
+This could be hitting [a million users](https://zapier.com/blog/one-million-users/), $100k MRR, or maybe [a million
 guests per night](https://techcrunch.com/2015/05/27/airbnb-hopes-to-have-almost-a-million-stays-a-night-by-summer/).
 It’s important for this number to be as big as possible (relative to your size of startup) and I’d recommend you
 sandbag this number - i.e. wait until you’re 25% past the milestone to announce - so that you’re that much closer to
 announcing the next milestone.
 
-**3\. Significant BD Deals or Customers**
-
-Did you just get a team at Airbnb or Instacart to start using your product or service? Did you [partner with\\
+**3. Significant BD Deals or Customers**  
+Did you just get a team at Airbnb or Instacart to start using your product or service? Did you [partner with
 GM](https://www.fastcompany.com/3055059/gm-partners-with-lyft-to-build-a-network-of-self-driving-cars) to build a
 network of self-driving cars? If you have their permission you should consider announcing it.
 
-**4\. Fundraising**
-
+**4. Fundraising**  
 For better or worse, fundraising is conflated with traction/success so it is a topic people want to read about. If you
 have raised an angel round or series A/B/etc. most reporters will consider this news and potential employees will notice
 it, too.
@@ -76,8 +66,7 @@ reporter relationships and making pitches. Your success rate will go up and you 
 on PR. Take it from me--we spent over $100,000 on PR agencies and PR people as an early stage startup before we figured
 this out.
 
-**How Do I Make Press Contacts?**
-
+**How Do I Make Press Contacts?**  
 Don’t spray and pray. It’s stupid.
 
 The best method to meet a tech reporter is by having the CEO or a co-founder get a warm intro. If you’re a YC founder,
@@ -85,32 +74,23 @@ the YC founder network is super helpful for these. The reporter you want to meet
 you know. Have them intro you. Proper etiquette is to ask your friend for an intro to only one reporter. If you aren’t a
 YC founder, make friends with other startups and reach out to your startup community for warm intros.
 
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
-
 Here’s what should be in your intro. The reporter should be able to read it and reply in thirty seconds.
 
-- News. Describe your news in one sentence.
-- For an [exclusive](https://www.quora.com/What-is-a-press-exclusive-and-how-does-it-work): Let the reporter know
-you’re offering an exclusive.
-- For an [embargo](https://en.wikipedia.org/wiki/News_embargo): Say when you’re making the announcement. Include the
-date and time.
-- A request for a twenty minute call. Be courteous. You don’t need to meet in person.
+  - News. Describe your news in one sentence.
+  - For an [exclusive](https://www.quora.com/What-is-a-press-exclusive-and-how-does-it-work): Let the reporter know
+    you’re offering an exclusive.
+  - For an [embargo](https://en.wikipedia.org/wiki/News_embargo): Say when you’re making the announcement. Include the
+    date and time.
+  - A request for a twenty minute call. Be courteous. You don’t need to meet in person.
 
 When you get the reporter on the phone, be ready with three to five reasons why your news and your company is important.
 Make them clear and then, at the end of your call, offer your notes and any relevant collateral (screenshots, graphs,
-logos, pictures, etc). This will provide you with an opportunity to be courteous _and_ provide reporters with the
+logos, pictures, etc). This will provide you with an opportunity to be courteous *and* provide reporters with the
 language you prefer.
 
 # Step Three: Pitch Those Contacts an Exclusive
 
 Almost all startups should be offering their story as an exclusive to one tech reporter at a time. Your target audience
-
 - investors, potential employees, motivated customers, early adopters - exist in high concentration in just a few tech
 outlets. Getting blanket coverage across a bunch of tech blogs is often not worth the struggle and can piss people off
 when embargoes are broken.
@@ -134,7 +114,7 @@ keep a regular cadence of positive news about your company in the press.
 # Other Things to Keep in Mind
 
 Just like BD, don’t expect to get every meeting and story. When a reporter says “no”, ask yourself why. Were you
-_really_ giving them news and doing all the other things right? If you’re doing all those things well, you should have
+*really* giving them news and doing all the other things right? If you’re doing all those things well, you should have
 a 25-50% success rate.
 
 After six to twelve months of keeping up a good cadence and sharing real news, you should be relatively friendly with
@@ -150,4 +130,5 @@ Lastly, remember that doing PR is a very small part of being a good CEO/Founder.
 than 5% of your time to press and don’t expect PR to create observable miracles (tons of users, customers, investment
 offers, etc). Most of the benefit I’ve received from PR only became obvious weeks or months after a story was posted.
 
-_Thanks to Kat Manalac and Craig Cannon for contributing to this article._
+*Thanks to Kat Manalac and Craig Cannon for contributing to this article.*
+

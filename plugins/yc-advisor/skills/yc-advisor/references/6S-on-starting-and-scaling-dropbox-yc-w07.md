@@ -3,71 +3,9 @@
 **Author:** Drew Houston
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07
+**YouTube ID:** U_g-fBfPOF8
 
 ---
-
-On starting and scaling Dropbox (YC W07)
-
-# On starting and scaling Dropbox (YC W07)
-
-by Drew Houston
-
-Drew Houston : How to Build the Future - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Drew Houston : How to Build the Future](https://www.youtube.com/watch?v=U_g-fBfPOF8)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 31:00
-
-•Watch full videoLive
-
-•
-Intro
-
-82K views
-
-Over 1 year ago
 
 Drew is the founder and CEO of Dropbox.
 
@@ -134,14 +72,14 @@ Sam: "My childhood best friend..."
 
 Drew: "We played t-ball together..." No, Arash and I probably knew each other for maybe two or three hours before...
 
-Sam: Wow!
+Sam: Wow\!
 
-Drew: ...we threw in together. Sam: What gave you the confidence to be okay with doing that?
+Drew: ...we threw in together. &#12;Sam: What gave you the confidence to be okay with doing that?
 
 Drew: Well, it's funny. I applied as a single founder to YC, and I got an email from Paul saying, "Hey, idea seems
 interesting, but you really need to find a co-founder." Only problem was, application deadline was like three weeks
 away, so that's like saying, "Oh, you need to get married in the next three weeks." What happened was, I... Kyle Vogt,
-who's one of the founders of [Justin.tv](http://justin.tv/), which turned into Twitch, and then started Cruise.
+who's one of the founders of Justin.tv, which turned into Twitch, and then started Cruise.
 
 Sam: So far the only YC founder with 2 billion \[inaudible 00:02:54\].
 
@@ -195,7 +133,7 @@ Sam: We can jump to that, because I think that's a really interesting point. One
 is you have just kept doing your thing no matter what noise there is in the ecosystem about "Dropbox this" or "Dropbox
 that," whether it's like, "I don't need this because I can use Wget," or, "This company's overvalued," or whatever. And
 now you're just this behemoth, and everyone's like, "Well, we were wrong about Dropbox." How do you handle just constant
-negativity from people saying, "This isn't going to work," or anything like that? Drew: I think the first thing is
+negativity from people saying, "This isn't going to work," or anything like that? &#12;Drew: I think the first thing is
 you have to recognize that that is always going to happen. We experienced that from the day we founded the company,
 actually before that, and all the way to now. When you zoom out, you realize that a company like Apple, quarter after
 quarter, can post the best, the most revenue, most profit of any company in business history...
@@ -253,7 +191,7 @@ better, and then you have a bunch of new stuff to deal with. So it's like, "Okay
 need engineers. Okay, wait, before we can get engineers, we need to pay them. I guess that means we need to fundraise.
 Okay, we need to fundraise, and then we need a lawyer and an accountant." So just the circle keeps getting bigger. You
 deal with that by dividing and conquering. You hire people, but then you have a new problem, which is you're hiring
-people to do something you don't know anything about. Suddenly everybody's running off in different directions. And
+people to do something you don't know anything about. Suddenly everybody's running off in different directions. &#12;And
 so I think the hard things were really keeping up with that. The rate at which things were breaking was faster than we
 could fix things. That was a really hard thing to get used to, because you're used to, especially if you were used to
 getting good grades in school and things like that... Ben Horowitz said this well, he said, "The average grade for
@@ -311,7 +249,7 @@ of how do you scale an organization. I have a very long list of recommendations.
 Drucker is really good. But basically what you're talking about is, you need to have good judgment about a lot of
 different things. What that really is saying is, how do you gain wisdom really quickly? Last book recommendation, "Poor
 Charlie's Almanack" by Charlie Munger. This is probably the best book on that that I've read, which is really about how
-do you build a bunch of mental models to break down the complexity of the world and know when to use each. Reading
+do you build a bunch of mental models to break down the complexity of the world and know when to use each. &#12;Reading
 is part of it, but then also having...you sort of think about that one year, two year, five year...having friends that
 are one step ahead, two steps ahead, five years ahead, and just sort of looking at the deltas between them. I remember I
 had a coffee meeting set up at Sequoia. Our first venture investors were really helpful in connecting me with other
@@ -373,7 +311,7 @@ lot of our happiest customers, it wasn't really the storage that people were buy
 really using Dropbox to get their team on the same page. What that meant a shift, which we can talk about, but a couple
 years ago, we were like, "Okay, of all the things..." We're sort of blessed and cursed with this original product,
 because we struggled in the beginning. People were like, "Well, what's Dropbox?" Or, "What's Dropbox for?" The answer,
-when you think about it, "What's a computer for? What's a file for?" So we ended up really supporting all these
+when you think about it, "What's a computer for? What's a file for?" &#12;So we ended up really supporting all these
 different use cases, but at the same time, it was very clear even in the beginning that the role of files in people's
 lives are going to change. In the beginning, yeah, maybe you'd have text files and mp3s in your Dropbox, but in the
 world of iTunes and Evernote and Spotify and Netflix, there's not a file to be seen. Tech just moves quickly, so you
@@ -433,7 +371,7 @@ Sam: They love to tear you down.
 Drew: ...they love to tear you down. Again, even if I understand that and can put that in perspective, it's very hard
 for the team. Everybody loves the idea of focus, but what focus actually means is shooting stuff you love and turning
 down things you know you can make work. That's part of the cyclical nature of it. There'll be times when you expand and
-times when you contract. Sam: Speaking of the expansion, one other thing I remember...I didn't know you really well
+times when you contract. &#12;Sam: Speaking of the expansion, one other thing I remember...I didn't know you really well
 in the early days of Dropbox, but I remember being impressed by just how much you got done. Sort of like, Dropbox was
 really taking off and just seemed to ramp up to where everyone was using it in a one-year period. How'd you manage your
 time? What did your days look like when you went from 7 users to 7 million?
@@ -491,3 +429,6 @@ tech companies are public, and that's the path we're charting.
 Sam: Great. Well, thank you very much for taking the time.
 
 Drew: Thanks for having me.
+
+&#12;
+

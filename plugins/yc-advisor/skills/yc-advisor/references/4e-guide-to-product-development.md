@@ -4,15 +4,10 @@
 **Type:** Essay
 **URL:** https://www.ycombinator.com/library/4e-guide-to-product-development
 
+
 ---
 
-Guide to product development
-
-# Guide to product development
-
-by [Michael Seibel](https://www.ycombinator.com/people/michael-seibel)
-
-Before [Justin.tv](http://justin.tv/) grew into Twitch and Socialcam we spent years with a broken understanding of how to build product. We
+Before Justin.tv grew into Twitch and Socialcam we spent years with a broken understanding of how to build product. We
 had meandering product meetings where we didn’t write down our decisions. We didn’t carefully spec new products so team
 members often had slightly different ideas about what we were building. We always wanted to build fully formed products
 instead of MVPs. And we rarely spec’d the analytics for new products so we often didn’t know how they were performing
@@ -38,19 +33,11 @@ meeting and it happened on the first day of the dev cycle. Sometimes this meetin
 
 Every product meeting was focused around one of three goals:
 
-1. Increasing content creation
-2. Increasing new users
-3. Increasing retention
+1.  Increasing content creation
+2.  Increasing new users
+3.  Increasing retention
 
 Whichever goal we chose would be the focus of the meeting and, therefore, the next two weeks.
-
-![YC Logo](<Base64-Image-Removed>)
-
-# What is Y Combinator?
-
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-
-[Apply](https://www.ycombinator.com/apply)
 
 As the product person on the team my role was to protect and improve the dev cycle and moderate the product meetings to
 ensure all team members felt comfortable contributing. Oftentimes just getting the opportunity to voice your idea and
@@ -105,5 +92,6 @@ the same period of time. Most importantly though, we did all of this work quickl
 issues with founder commitment, or really any team problems at all. Sometimes I wonder what would have happened if
 instead of selling the company we kept building for another year… But that’s another story.
 
-_Thank you Jared, Geoff, and Craig for helping me with this post, Ammon and Guillaume my co-founders at Socialcam, and_
-_Justin, Emmett, and Kyle for surviving all the pain from the good old days at [Justin.tv](http://justin.tv/)._
+*Thank you Jared, Geoff, and Craig for helping me with this post, Ammon and Guillaume my co-founders at Socialcam, and
+Justin, Emmett, and Kyle for surviving all the pain from the good old days at Justin.tv.*
+

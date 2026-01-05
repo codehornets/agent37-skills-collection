@@ -2,72 +2,15 @@
 
 **Author:** Kirsty Nathoo
 **Type:** Video
-**URL:** https://www.ycombinator.com/library/6m-understanding-safes-and-priced-equity-rounds?curius=1929
+**URL:** https://www.ycombinator.com/library/6m-understanding-safes-and-priced-equity-rounds
+**YouTube ID:** Dk6JNTDec9I
 
 ---
-
-Understanding SAFEs and priced equity rounds
-
-# Understanding SAFEs and priced equity rounds
-
-by Kirsty Nathoo
-
-349K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Introduction
-
-3:53
-
-SAFEs
-
-10:15
-
-Post-money SAFEs
-
-14:35
-
-Dilution
-
-22:40
-
-Priced rounds
-
-27:44
-
-Priced round dilution math
-
-41:07
-
-Top tips
-
-42:48
-
-Don't over-optimize
-
-44:08
-
-Conclusion
-
-YC Partner Kirsty Nathoo gives the lowdown on several different ways to capitalize your company and how those impact
-founder equity and cap tables overall.
-
-**Watch if:**
-
-- you are raising money
-- you aren't sure how startup investment documents like SAFEs work
-
-## Transcript
 
 Facilitator: I would like to introduce Kirsty who is going to talk in much detail about SAFEs, notes equity, and the like. Kirsty.
 
 Kirsty: Thank you. All right. Good morning, everybody. So, my name is Kirsty Nathoo. I'm the CFO, one of the partners here at Y Combinator. And I have now worked with probably over 1,500 companies in terms of getting them Incorporated, doing our YC investments, and then seeing them through their subsequent raises either on convertible instruments or on equity rounds. So, I've seen kind of a lot by now. And so this presentation is to give you some understanding of some of the things that people don't necessarily understand when they're raising money and to hopefully help you avoid some of the pitfalls that we've seen...some of the mistakes that we've seen founders make. So, the key message in all of this presentation is that it's important that you understand at all stages of the company's lifecycle how much of the company you've sold to investors and, in connection with that, how much therefore you also own. The thing that makes this complicated is that most companies will raise money on convertible instruments first, and because those convertible instruments aren't yet shares, it's not immediately obvious for a lot of founders how much of the company they've sold. So, I'm going to talk through some of the mechanics of that and help you understand how all that works so that you don't get surprised when it's too late and you can't do anything about it.
-So, the other thing that you should also be aware of is that a lot of companies and a lot of founders will just say, "Oh, I don't need to worry about my cap table. My lawyers deal with my cap table. I don't need to worry." And actually, that's a really dangerous statement. Again, you should make sure that you're understanding this. It's your responsibility as the CEO or as the founder of the company to understand all of this. And there's lots of ways that you can maintain your cap table. There's lots of ways that you can keep track of this. And the simplest form is just a spreadsheet. All it's going to show is who owns how many shares and that's it. That's all you need at the beginning. But there are other services out there that can help and I'll include them on a list of resources after the presentation, but there's tools like [captable.io](http://captable.io/), and Carta, which also help for you to keep track of these things.
+So, the other thing that you should also be aware of is that a lot of companies and a lot of founders will just say, "Oh, I don't need to worry about my cap table. My lawyers deal with my cap table. I don't need to worry." And actually, that's a really dangerous statement. Again, you should make sure that you're understanding this. It's your responsibility as the CEO or as the founder of the company to understand all of this. And there's lots of ways that you can maintain your cap table. There's lots of ways that you can keep track of this. And the simplest form is just a spreadsheet. All it's going to show is who owns how many shares and that's it. That's all you need at the beginning. But there are other services out there that can help and I'll include them on a list of resources after the presentation, but there's tools like captable.io, and Carta, which also help for you to keep track of these things.
 
 Okay. So, these are the three sections that I'm going to talk about. First of all, I'm going to talk about SAFEs and particularly for U.S. companies. Most companies will raise money first on SAFEs or some other convertible instruments, which I will talk about briefly as well. And I know Jeff mentioned the SAFE last week in a little bit of detail, but I'm going to go into much more detail on that and also how the sections of the SAFE works. The S stands for simple. And so hopefully, you will believe me with that and you will all be ready to understand what's going on in that SAFE as you come out of this presentation. Then we'll talk some more about dilution again so that you can see. We're going to walk through the lifecycle of a company from incorporation up to raising a price to series A round so that you can see how things change over that period. And then I'll give you some top tips on other items to do with raising money.
 All right. So, first of all, the SAFE. So, let's cover what it is and then we'll go through the details of how a SAFE is built up. So, as I said, SAFE, the S stands for simple. The rest of it is a Simple Agreement for Future Equity. And put simply, it's an instrument where the investor will give you money now in exchange for a promise from the company to give shares to the investor at a future date when you raise money on a priced round. There are minimal negotiations with a SAFE. Really, there's only two things that you're probably going to negotiate with the investor, which is how much money you're going to...how much money the investor will put into the company and at what valuation cap. So, really, those two things are the things to negotiate. Whereas when you compare that with a priced round, there's a whole raft of things to negotiate. And that's what makes the price round a lot harder to close and to raise money on them than a SAFE does. So, that's why often companies will start with a SAFE and then when they get to the point of being able to raise more money and they have a lead investor, which they negotiate with for the price round, then the SAFEs when they convert into shares will piggyback on the terms that has been negotiated with the lead investor in the price round.
@@ -162,3 +105,4 @@ Kirsty: Great question. So, the question was, what's the maximum amount that you
 Man: If you take a bunch of money for bootstrapping... Do you recommend that be part of the pre valuation or should it also ..?
 
 Kirsty: Okay. So, there's two things there. First thing is, what happens if the founders are putting in money themselves? And the second thing is, should they put in SAFEs? Not SAFE notes because that makes me grouchy because SAFE is not debt, so you don't call them notes. So, that's one of the things to bear in mind. They're just SAFEs. So, the other question was around the founders. Well, there's different ways you can do that. Founders are putting in money, they can just loan the company money. And so then, you know, if they're putting in $25,000 and then they raise $1 million from their SAFE investors, they could repay the founders. Or there are situations where the founders would put that money in on a SAFE and so they potentially get some...or they would in that situation get some series A preferred shares when the SAFEs converts. So, you can do either way. All right. I think we finished on time, so that's good news. Thank you very much for listening. I know this stuff is difficult.
+

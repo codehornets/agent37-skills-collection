@@ -3,157 +3,15 @@
 **Author:** Vinod Khosla
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6N-vinod-khosla-on-how-to-build-the-future
+**YouTube ID:** TYt5yuiGk9E
 
 ---
-
-Vinod Khosla on How to Build the Future
-
-# Vinod Khosla on How to Build the Future
-
-by Vinod Khosla
-
-Vinod Khosla : How to Build the Future - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Vinod Khosla : How to Build the Future](https://www.youtube.com/watch?v=TYt5yuiGk9E)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-[Why am I seeing this?](https://support.google.com/youtube/answer/9004474?hl=en)
-
-Watch on
-
-0:00
-
-0:00 / 34:33
-
-•Watch full videoLive
-
-•
-Vinod’s intro
-
-206K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Vinod’s intro
-
-0:40
-
-A zero-million-dollar company vs a zero-billion-dollar company
-
-3:50
-
-What percentage of investors in Silicon Valley are good long-term company builders?
-
-4:20
-
-Who has earned the right to advise an entrepreneur?
-
-6:20
-
-Which risk to take when
-
-6:50
-
-Helpful board members
-
-7:45
-
-Who to trust for what advice
-
-10:30
-
-First principles thinking and rate of change
-
-12:30
-
-Evaluating a candidate in an interview
-
-13:45
-
-How much should a founder have planned and how ambitious should a founder be?
-
-16:00
-
-Recruiting great people
-
-18:30
-
-Building a phenomenal early team
-
-19:50
-
-Being generous with early employee equity
-
-26:30
-
-Gene pool engineering - https://www.khoslaventures.com/gene-pool-engineering-for-entrepreneurs
-
-26:48
-
-The art, science, and labor of recruiting - https://www.khoslaventures.com/the-art-science-and-labor-of-recruiting
-
-27:50
-
-How founders should think about investors
-
-30:30
-
-Doers vs pontificators
-
-31:30
-
-What does Vinod want to do in the next ten years?
-
-31:40
-
-Reinventing Societal Infrastructure with Technology - https://www.khoslaventures.com/reinventing-societal-infrastructure-with-technology
 
 [Vinod Khosla](https://twitter.com/vkhosla) is the founder of [Khosla Ventures](https://www.khoslaventures.com/), a firm
 focused on assisting entrepreneurs to build impactful new energy and technology companies. Previously he was the
 founding CEO of Sun Microsystems, where he pioneered open systems and commercial RISC processors.
 
-[How to Build the Future](https://blog.ycombinator.com/category/how-to-build-the-future/) is hosted by [Sam\\
+[How to Build the Future](https://blog.ycombinator.com/category/how-to-build-the-future/) is hosted by [Sam
 Altman](https://twitter.com/sama).
 
 ## Transcript
@@ -216,7 +74,7 @@ this other firm young people going on boards cannot be on the board." I say, you
 entrepreneur, so it's unfair to the... Just because you got an MBA and joined a venture firm doesn't mean you're
 qualified to advise an entrepreneur. The biggest piece of it, not the only way, is have you built a large company? Have
 you gone through how hard it is, how uncertain it is, how traumatic it is to go through? Just this morning I was talking
-to somebody about how many times we almost worried about making payroll at Sun, of going bankrupt. Plenty of times!
+to somebody about how many times we almost worried about making payroll at Sun, of going bankrupt. Plenty of times\!
 
 Sam Altman \[05:34\] - Like more than two?
 
@@ -534,3 +392,4 @@ Vinod Khosla \[34:59\] - Yes.
 Sam Altman \[35:00\] - Thank you very much.
 
 Vinod Khosla \[35:01\] - Thanks. Thanks, Sam. This was fun.
+

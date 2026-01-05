@@ -1,5 +1,5 @@
 version: '1.0'
-total_resources: 434
+total_resources: 443
 resources:
 - code: 1k
   file: 1k-benchmarks.md
@@ -11,12 +11,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  - 3S
+  related: []
   lines: 15
 - code: 1z
   file: 1z-the-importance-of-trends.md
@@ -28,12 +23,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 2s
-  - 2z
-  - 3O
-  - 3S
+  related: []
   lines: 15
 - code: 2s
   file: 2s-advice-for-new-managers.md
@@ -45,13 +35,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2z
-  - 3O
-  - 3S
-  lines: 162
+  related: []
+  lines: 150
 - code: 2u
   file: 2u-how-to-build-your-seed-round-pitch-deck.md
   title: How to build your seed round pitch deck
@@ -64,30 +49,20 @@ resources:
   - seed-stage
   founder_stage:
   - building
-  related:
-  - 4T
-  - 8d
-  - 4b
-  - 6q
-  - '47'
-  lines: 101
+  related: []
+  lines: 89
 - code: 2z
   file: 2z-pinduoduo-and-the-rise-of-social-e-commerce.md
   title: Pinduoduo and the rise of social e-commerce
-  author: Anu Hariharan
+  author: Anu Hariharan, Nic Dardenne
   type: essay
   url: https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 3O
-  - 3S
-  lines: 281
+  related: []
+  lines: 265
 - code: 3O
   file: 3O-why-big-deals-are-bad-for-startups.md
   title: Why Big Deals Are Bad for Startups
@@ -98,12 +73,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3S
+  related: []
   lines: 94
 - code: 3S
   file: 3S-when-to-shut-down-a-startup.md
@@ -115,12 +85,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 168
 - code: 3Z
   file: 3Z-advice-for-companies-with-less-than-1-year-of-runway.md
@@ -133,13 +98,8 @@ resources:
   - mistakes
   founder_stage:
   - all
-  related:
-  - '66'
-  - 8t
-  - J2
-  - J4
-  - Je
-  lines: 115
+  related: []
+  lines: 103
 - code: 3e
   file: 3e-thoughts-on-insurance.md
   title: Thoughts on Insurance
@@ -150,17 +110,12 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 272
 - code: 3h
   file: 3h-series-a-diligence-checklist.md
   title: Series A diligence checklist
-  author: Aaron Harris
+  author: Aaron Harris, Jason Kwon
   type: essay
   url: https://www.ycombinator.com/library/3h-series-a-diligence-checklist
   topics:
@@ -168,13 +123,8 @@ resources:
   - series-a
   founder_stage:
   - scaling
-  related:
-  - 4P
-  - 8d
-  - 5G
-  - 4G
-  - 4H
-  lines: 161
+  related: []
+  lines: 130
 - code: 3i
   file: 3i-how-to-find-a-technical-co-founder.md
   title: How to Find a Technical Co-Founder
@@ -186,12 +136,7 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  - Im
+  related: []
   lines: 72
 - code: 3j
   file: 3j-how-to-measure-leadership.md
@@ -203,13 +148,8 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3k
-  - 3w
-  - 5J
-  - 5p
-  - Iw
-  lines: 261
+  related: []
+  lines: 255
 - code: 3k
   file: 3k-the-second-job-of-a-startup-ceo.md
   title: The second job of a startup CEO
@@ -221,13 +161,8 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 5p
-  - Iw
-  - Jo
-  - Jq
-  - Mu
-  lines: 242
+  related: []
+  lines: 233
 - code: 3t
   file: 3t-how-wechat-grew-to-be-the-1-app-in-the-world.md
   title: 'How WeChat grew to be the #1 app in the world'
@@ -238,13 +173,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 338
+  related: []
+  lines: 319
 - code: 3w
   file: 3w-how-to-create-and-manage-a-board.md
   title: How to create and manage a board
@@ -256,13 +186,8 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 5J
-  - 3j
-  - 3k
-  - 5p
-  - Iw
-  lines: 432
+  related: []
+  lines: 333
 - code: 3x
   file: 3x-the-hidden-forces-behind-china-s-content-king-toutiao.md
   title: The hidden forces behind China's content king Toutiao
@@ -273,13 +198,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 388
+  related: []
+  lines: 356
 - code: '47'
   file: 47-product-advice-for-hardware-founders.md
   title: Product Advice for Hardware Founders
@@ -293,12 +213,7 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  - 8C
+  related: []
   lines: 470
 - code: 4A
   file: 4A-a-guide-to-seed-fundraising.md
@@ -313,17 +228,12 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - '63'
-  - 6Y
-  - 7I
-  - Il
-  - '65'
-  lines: 624
+  related: []
+  lines: 486
 - code: 4D
   file: 4D-yc-s-essential-startup-advice.md
   title: YC's essential startup advice
-  author: Paul Graham
+  author: Y Combinator
   type: essay
   url: https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice
   topics:
@@ -331,13 +241,8 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  - 7P
-  lines: 201
+  related: []
+  lines: 177
 - code: 4G
   file: 4G-convincing-engineers-to-join-your-team.md
   title: Convincing engineers to join your team
@@ -352,13 +257,8 @@ resources:
   - team
   founder_stage:
   - scaling
-  related:
-  - 4H
-  - 4v
-  - 7N
-  - 7g
-  - '59'
-  lines: 368
+  related: []
+  lines: 334
 - code: 4H
   file: 4H-how-to-hire-your-first-engineer.md
   title: How to hire your first engineer
@@ -371,13 +271,8 @@ resources:
   - team
   founder_stage:
   - scaling
-  related:
-  - 7N
-  - 4v
-  - 4G
-  - 7g
-  - 4h
-  lines: 279
+  related: []
+  lines: 247
 - code: 4I
   file: 4I-advice-for-gaming-startups.md
   title: Advice for Gaming Startups
@@ -388,12 +283,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 544
 - code: 4L
   file: 4L-how-biotech-startup-funding-will-change-in-the-next-10-years.md
@@ -406,17 +296,12 @@ resources:
   - deep-tech
   founder_stage:
   - all
-  related:
-  - 8G
-  - Kq
-  - 4r
-  - 1k
-  - 1z
-  lines: 162
+  related: []
+  lines: 136
 - code: 4P
   file: 4P-a-standard-and-clean-series-a-term-sheet.md
   title: A standard and clean Series A term sheet
-  author: Jason Kwon
+  author: Jason Kwon, Aaron Harris
   type: essay
   url: https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet
   topics:
@@ -424,13 +309,8 @@ resources:
   - series-a
   founder_stage:
   - scaling
-  related:
-  - 3h
-  - 8d
-  - 5G
-  - 4G
-  - 4H
-  lines: 129
+  related: []
+  lines: 117
 - code: 4T
   file: 4T-how-to-design-a-better-pitch-deck.md
   title: How to design a better pitch deck
@@ -444,13 +324,8 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7G
-  - 7H
-  - Jr
-  - MG
-  - MK
-  lines: 281
+  related: []
+  lines: 269
 - code: 4b
   file: 4b-how-to-pitch-your-company.md
   title: How to Pitch Your Company
@@ -462,12 +337,7 @@ resources:
   - pitching
   founder_stage:
   - all
-  related:
-  - 6q
-  - 7u
-  - '98'
-  - DX
-  - IT
+  related: []
   lines: 152
 - code: 4c
   file: 4c-getting-press-for-your-startup.md
@@ -480,13 +350,8 @@ resources:
   - marketing
   founder_stage:
   - all
-  related:
-  - L3
-  - JL
-  - 1k
-  - 1z
-  - 2s
-  lines: 153
+  related: []
+  lines: 134
 - code: 4d
   file: 4d-a-letter-to-college-students.md
   title: A letter to college students
@@ -498,13 +363,8 @@ resources:
   - students
   founder_stage:
   - pre-idea
-  related:
-  - 6A
-  - '93'
-  - D0
-  - IZ
-  - 8y
-  lines: 85
+  related: []
+  lines: 71
 - code: 4e
   file: 4e-guide-to-product-development.md
   title: Guide to product development
@@ -516,13 +376,8 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - '62'
-  - 6f
-  - 7s
-  - 8C
-  - DT
-  lines: 109
+  related: []
+  lines: 97
 - code: 4g
   file: 4g-the-scientific-method-for-startups.md
   title: The Scientific Method for Startups
@@ -533,12 +388,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 58
 - code: 4h
   file: 4h-three-paths-in-the-tech-industry-founder-executive-or-employee.md
@@ -551,13 +401,8 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 4v
-  - 7g
-  - 5x
-  - 9j
-  - 3i
-  lines: 193
+  related: []
+  lines: 136
 - code: 4i
   file: 4i-the-yc-effect.md
   title: The YC Effect
@@ -569,12 +414,7 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 5w
-  - 6S
-  - 6t
-  - 7P
+  related: []
   lines: 95
 - code: 4j
   file: 4j-startup-hr-what-s-important.md
@@ -586,12 +426,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 145
 - code: 4l
   file: 4l-advice-for-job-seekers-on-resumes-and-reaching-out.md
@@ -603,13 +438,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 87
+  related: []
+  lines: 75
 - code: 4m
   file: 4m-enterprise-sales-for-hackers.md
   title: Enterprise sales for hackers
@@ -622,13 +452,8 @@ resources:
   - sales
   founder_stage:
   - launched
-  related:
-  - LF
-  - Ip
-  - JE
-  - Mo
-  - '70'
-  lines: 199
+  related: []
+  lines: 186
 - code: 4p
   file: 4p-before-growing-your-startup.md
   title: Before growing your startup
@@ -639,13 +464,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 59
+  related: []
+  lines: 46
 - code: 4q
   file: 4q-later-stage-advice-for-startups.md
   title: Later stage advice for startups
@@ -656,13 +476,8 @@ resources:
   - scaling
   founder_stage:
   - scaling
-  related:
-  - 8L
-  - '96'
-  - If
-  - Ig
-  - KA
-  lines: 232
+  related: []
+  lines: 214
 - code: 4r
   file: 4r-yc-and-hard-tech-startups.md
   title: YC and Hard Tech Startups
@@ -676,12 +491,7 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
+  related: []
   lines: 113
 - code: 4s
   file: 4s-navigating-success-for-your-startup.md
@@ -693,13 +503,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 85
+  related: []
+  lines: 72
 - code: 4v
   file: 4v-best-practices-for-managing-a-remote-team.md
   title: Best Practices for Managing a Remote Team
@@ -711,12 +516,7 @@ resources:
   - team
   founder_stage:
   - scaling
-  related:
-  - 7g
-  - 4H
-  - 4h
-  - 7N
-  - 4G
+  related: []
   lines: 195
 - code: 4x
   file: 4x-on-starting-a-company-from-a-hackathon-project.md
@@ -728,13 +528,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 181
+  related: []
+  lines: 129
 - code: 4y
   file: 4y-founder-stories-detroit-water-project-s-tiffani-ashley-bell.md
   title: 'Founder Stories: Detroit Water Project''s Tiffani Ashley Bell'
@@ -745,12 +540,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 207
 - code: '59'
   file: 59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team.md
@@ -767,17 +557,12 @@ resources:
   founder_stage:
   - launched
   - scaling
-  related:
-  - 4v
-  - 6k
-  - 8s
-  - '96'
-  - If
-  lines: 527
+  related: []
+  lines: 809
 - code: 5G
   file: 5G-on-raising-seed-and-series-a-as-a-woman-founder.md
   title: On raising Seed and Series A as a woman founder
-  author: Amber Atherton
+  author: Amber Atherton, Iba Masood
   type: video
   url: https://www.ycombinator.com/library/5G-on-raising-seed-and-series-a-as-a-woman-founder
   topics:
@@ -788,13 +573,9 @@ resources:
   - technology
   founder_stage:
   - scaling
-  related:
-  - 3h
-  - 4P
-  - 4A
-  - '63'
-  - 6Y
-  lines: 910
+  related: []
+  youtube_id: TogTe74Zg7w
+  lines: 810
 - code: 5I
   file: 5I-on-starting-and-scaling-healthcare-startup-23andme.md
   title: On starting and scaling healthcare startup 23andMe
@@ -805,13 +586,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 647
+  related: []
+  youtube_id: zZN-3RpdjcY
+  lines: 462
 - code: 5J
   file: 5J-how-to-create-and-manage-a-board-part-2.md
   title: Y Combinator | File Not Found
@@ -823,12 +600,7 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3w
-  - 3j
-  - 3k
-  - 5p
-  - Iw
+  related: []
   lines: 15
 - code: 5N
   file: 5N-on-starting-and-scaling-bloom-institute-of-technology.md
@@ -840,30 +612,22 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 877
+  related: []
+  youtube_id: _yIAYZtdrfI
+  lines: 769
 - code: 5O
   file: 5O-building-a-startup-is-about-solving-a-problem.md
   title: Building a startup is about solving a problem
-  author: Avni Patel
+  author: Avni Patel Thompson
   type: video
   url: https://www.ycombinator.com/library/5O-building-a-startup-is-about-solving-a-problem
   topics:
   - general
   founder_stage:
   - building
-  related:
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  - Lb
-  lines: 366
+  related: []
+  youtube_id: 0W5Jaip5_-g
+  lines: 281
 - code: 5Q
   file: 5Q-on-starting-and-scaling-aerospace-company-boom.md
   title: On starting and scaling aerospace company Boom
@@ -874,13 +638,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 229
+  related: []
+  lines: 217
 - code: 5R
   file: 5R-on-starting-and-scaling-hubspot.md
   title: On Starting and Scaling Hubspot
@@ -891,12 +650,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 1007
 - code: 5a
   file: 5a-consume-information-that-encourages-you-to-do-more.md
@@ -908,13 +662,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 324
+  related: []
+  youtube_id: uCRBLKGaHtY
+  lines: 62
 - code: 5b
   file: 5b-how-do-you-convince-someone-to-join-your-startup.md
   title: How do you convince someone to join your startup?
@@ -926,13 +676,9 @@ resources:
   - joining-startup
   founder_stage:
   - all
-  related:
-  - 5n
-  - 9t
-  - AQ
-  - K0
-  - 1k
-  lines: 97
+  related: []
+  youtube_id: N8deM6B4eE4
+  lines: 55
 - code: 5f
   file: 5f-on-starting-and-scaling-one-of-the-biggest-ios-apps.md
   title: On starting and scaling one of the biggest iOS apps
@@ -943,13 +689,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 977
+  related: []
+  youtube_id: fDcW_qb-uew
+  lines: 787
 - code: 5j
   file: 5j-jeff-dean-on-building-intelligent-systems-with-large-scale-deep-learning.md
   title: Jeff Dean on building intelligent systems with large scale deep learning
@@ -962,13 +704,9 @@ resources:
   founder_stage:
   - building
   - scaling
-  related:
-  - '96'
-  - If
-  - Ig
-  - MV
-  - 4q
-  lines: 67
+  related: []
+  youtube_id: HcStlHGpjN8
+  lines: 280
 - code: 5l
   file: 5l-how-not-to-fail.md
   title: How not to fail
@@ -982,13 +720,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 9u
-  - Ie
-  - Ly
-  - DY
-  - '66'
-  lines: 279
+  related: []
+  youtube_id: a2B4cVFIVpg
+  lines: 218
 - code: 5n
   file: 5n-why-you-should-or-should-not-work-at-a-startup.md
   title: Why you should or should not work at a startup
@@ -1000,13 +734,9 @@ resources:
   - joining-startup
   founder_stage:
   - all
-  related:
-  - 5b
-  - 9t
-  - AQ
-  - K0
-  - 1k
-  lines: 241
+  related: []
+  youtube_id: YzyatiQrQlQ
+  lines: 158
 - code: 5p
   file: 5p-creating-good-company-culture-and-sticking-to-it.md
   title: Creating good company culture (and sticking to it)
@@ -1018,13 +748,9 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3k
-  - Iw
-  - Jo
-  - Jq
-  - Mu
-  lines: 231
+  related: []
+  youtube_id: Cmd5yOjnOqo
+  lines: 221
 - code: 5s
   file: 5s-mark-zuckerberg-on-building-a-startup.md
   title: Mark Zuckerberg on building a startup
@@ -1036,13 +762,9 @@ resources:
   - tech-leaders
   founder_stage:
   - building
-  related:
-  - 6W
-  - Lp
-  - 8D
-  - IW
-  - MX
-  lines: 173
+  related: []
+  youtube_id: Lb4IcGF5iTQ
+  lines: 116
 - code: 5w
   file: 5w-on-starting-and-scaling-second-measure-yc-w15.md
   title: On Starting and Scaling Second Measure (YC W15)
@@ -1054,12 +776,7 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 6S
-  - 6t
-  - 7P
+  related: []
   lines: 865
 - code: 5x
   file: 5x-how-to-split-equity-among-co-founders.md
@@ -1074,13 +791,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 9j
-  - 8u
-  - LP
-  - 3i
-  - 4h
-  lines: 103
+  related: []
+  youtube_id: 9NhEBVPlJs4
+  lines: 69
 - code: 5z
   file: 5z-the-real-product-market-fit.md
   title: The real product-market fit
@@ -1093,13 +806,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7V
-  - '86'
-  - 4e
-  - '62'
-  - 6f
-  lines: 170
+  related: []
+  youtube_id: FBOLk9s9Ci4
+  lines: 60
 - code: '60'
   file: 60-should-i-start-a-startup.md
   title: Should I start a startup?
@@ -1110,13 +819,9 @@ resources:
   - general
   founder_stage:
   - pre-idea
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 173
+  related: []
+  youtube_id: qh8sHetf-Nk
+  lines: 81
 - code: '61'
   file: 61-order-of-operations-for-starting-a-startup.md
   title: Order of operations for starting a startup
@@ -1127,13 +832,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 215
+  related: []
+  youtube_id: 5fmDKGV0TnQ
+  lines: 102
 - code: '62'
   file: 62-how-to-build-product-as-a-small-startup.md
   title: How to build product as a small startup
@@ -1145,13 +846,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - 6f
-  - 7s
-  - 8C
-  - DT
-  lines: 722
+  related: []
+  youtube_id: kzVvjKLdAbk
+  lines: 61
 - code: '63'
   file: 63-why-fundraising-is-different-in-silicon-valley.md
   title: Why fundraising is different in Silicon Valley
@@ -1164,13 +861,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6Y
-  - 7I
-  - Il
-  - 4A
-  - '65'
-  lines: 398
+  related: []
+  youtube_id: oAEZoAp2_zY
+  lines: 36
 - code: '64'
   file: 64-what-makes-great-founders-stand-out.md
   title: What makes great founders stand out?
@@ -1181,13 +874,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 436
+  related: []
+  youtube_id: ZtfTOuSHGg8
+  lines: 43
 - code: '65'
   file: 65-how-to-cold-email-investors.md
   title: How to cold email investors
@@ -1201,13 +890,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - J1
-  - '71'
-  - '63'
-  - 6Y
-  - 7I
-  lines: 141
+  related: []
+  youtube_id: A3MmYbH1hbs
+  lines: 42
 - code: '66'
   file: 66-biggest-mistakes-first-time-founders-make.md
   title: Biggest mistakes first-time founders make
@@ -1219,13 +904,9 @@ resources:
   - mistakes
   founder_stage:
   - all
-  related:
-  - 8t
-  - J2
-  - Jh
-  - Jl
-  - 5l
-  lines: 136
+  related: []
+  youtube_id: D56QeyyQMLI
+  lines: 41
 - code: '67'
   file: 67-user-you-don-t-want.md
   title: User you don't want
@@ -1237,13 +918,9 @@ resources:
   - users
   founder_stage:
   - launched
-  related:
-  - Iq
-  - JQ
-  - J3
-  - Ip
-  - JE
-  lines: 123
+  related: []
+  youtube_id: BSYExUUrmD4
+  lines: 76
 - code: '68'
   file: 68-product-and-design-process-for-remote-teams.md
   title: Product and design process for remote teams
@@ -1259,13 +936,9 @@ resources:
   founder_stage:
   - building
   - scaling
-  related:
-  - 7g
-  - 7N
-  - 7a
-  - 4e
-  - 4v
-  lines: 1157
+  related: []
+  youtube_id: zF84IMiSP7I
+  lines: 967
 - code: '69'
   file: 69-on-starting-and-scaling-meal-kit-company-gobble.md
   title: On starting and scaling meal kit company Gobble
@@ -1276,13 +949,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 340
+  related: []
+  youtube_id: A21qyXsAfME
+  lines: 280
 - code: 6A
   file: 6A-from-student-side-project-to-startup.md
   title: Y Combinator | File Not Found
@@ -1294,12 +963,7 @@ resources:
   - students
   founder_stage:
   - pre-idea
-  related:
-  - 4d
-  - '93'
-  - D0
-  - IZ
-  - 8y
+  related: []
   lines: 15
 - code: 6G
   file: 6G-how-to-build-the-future.md
@@ -1311,12 +975,7 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6N
-  - JB
-  - Jv
-  - Lb
+  related: []
   lines: 88
 - code: 6I
   file: 6I-on-starting-and-scaling-recruiting-software-startup-lever.md
@@ -1328,13 +987,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 835
+  related: []
+  youtube_id: UKVmfinc8qE
+  lines: 701
 - code: 6L
   file: 6L-on-starting-and-scaling-construction-startup-plangrid.md
   title: On starting and scaling construction startup PlanGrid
@@ -1345,13 +1000,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 976
+  related: []
+  youtube_id: QzUQiIMtHSE
+  lines: 803
 - code: 6M
   file: 6M-on-starting-and-scaling-indian-shopping-site-meesho.md
   title: On starting and scaling Indian shopping site Meesho
@@ -1362,13 +1013,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 904
+  related: []
+  youtube_id: L325PVEvm7Q
+  lines: 702
 - code: 6N
   file: 6N-vinod-khosla-on-how-to-build-the-future.md
   title: Vinod Khosla on How to Build the Future
@@ -1379,13 +1026,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - JB
-  - Jv
-  - Lb
-  lines: 536
+  related: []
+  youtube_id: TYt5yuiGk9E
+  lines: 395
 - code: 6O
   file: 6O-yc-application-advice-from-african-startups.md
   title: YC Application Advice From African Startups
@@ -1398,12 +1041,7 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - J8
-  - J9
-  - JA
-  - 4D
-  - 4i
+  related: []
   lines: 425
 - code: 6P
   file: 6P-on-starting-and-scaling-intercom.md
@@ -1415,12 +1053,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 1204
 - code: 6Q
   file: 6Q-diane-greene-s-advice-for-founders.md
@@ -1432,30 +1065,22 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 206
+  related: []
+  youtube_id: bNvUW_IBz0g
+  lines: 123
 - code: 6R
   file: 6R-how-pachama-uses-tech-to-tackle-climate-change.md
   title: How Pachama uses tech to tackle climate change
-  author: Diego Saez
+  author: Diego Saez Gil
   type: video
   url: https://www.ycombinator.com/library/6R-how-pachama-uses-tech-to-tackle-climate-change
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 84
+  related: []
+  youtube_id: 1f2vKWIVB-w
+  lines: 193
 - code: 6S
   file: 6S-on-starting-and-scaling-dropbox-yc-w07.md
   title: On starting and scaling Dropbox (YC W07)
@@ -1467,13 +1092,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6t
-  - 7P
-  lines: 493
+  related: []
+  youtube_id: U_g-fBfPOF8
+  lines: 434
 - code: 6W
   file: 6W-elon-musk-on-how-to-build-the-future.md
   title: Elon Musk on how to build the future
@@ -1485,13 +1106,9 @@ resources:
   - tech-leaders
   founder_stage:
   - building
-  related:
-  - 5s
-  - Lp
-  - 8D
-  - IW
-  - MX
-  lines: 237
+  related: []
+  youtube_id: tnBQmEqBCY0
+  lines: 138
 - code: 6Y
   file: 6Y-how-much-should-you-spend-after-fundraising.md
   title: How Much Should You Spend After Fundraising?
@@ -1504,12 +1121,7 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - '63'
-  - 7I
-  - Il
-  - 4A
-  - '65'
+  related: []
   lines: 432
 - code: 6a
   file: 6a-on-starting-and-scaling-direct-mail-automation-startup-lob.md
@@ -1522,13 +1134,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  - Jz
-  lines: 746
+  related: []
+  youtube_id: O-LKD3yUnk0
+  lines: 592
 - code: 6e
   file: 6e-how-to-evaluate-startup-ideas.md
   title: Y Combinator | File Not Found
@@ -1540,12 +1148,7 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  - '91'
+  related: []
   lines: 15
 - code: 6f
   file: 6f-how-to-plan-an-mvp.md
@@ -1558,13 +1161,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 7s
-  - 8C
-  - DT
-  lines: 168
+  related: []
+  youtube_id: 1hHMwLxN6EM
+  lines: 102
 - code: 6h
   file: 6h-startup-pricing-101.md
   title: Startup pricing 101
@@ -1576,13 +1175,9 @@ resources:
   - sales
   founder_stage:
   - all
-  related:
-  - 9h
-  - IP
-  - Ia
-  - KD
-  - MH
-  lines: 155
+  related: []
+  youtube_id: jwXlo9gy_k4
+  lines: 58
 - code: 6i
   file: 6i-how-to-launch-again-and-again.md
   title: How to launch (again and again)
@@ -1596,17 +1191,13 @@ resources:
   - technology
   founder_stage:
   - launched
-  related:
-  - Lm
-  - N6
-  - Ir
-  - J0
-  - LG
-  lines: 74
+  related: []
+  youtube_id: 3xU050kMbHM
+  lines: 56
 - code: 6k
   file: 6k-growth-for-startups.md
   title: Growth for startups
-  author: Gustaf Alstr
+  author: Gustaf Alströmer
   type: video
   url: https://www.ycombinator.com/library/6k-growth-for-startups
   topics:
@@ -1614,13 +1205,9 @@ resources:
   - metrics
   founder_stage:
   - launched
-  related:
-  - 8s
-  - 6l
-  - 9i
-  - KR
-  - KS
-  lines: 264
+  related: []
+  youtube_id: 6lY9CYIY4pQ
+  lines: 192
 - code: 6l
   file: 6l-how-to-improve-conversion-rates.md
   title: How to improve conversion rates
@@ -1632,19 +1219,15 @@ resources:
   - metrics
   founder_stage:
   - all
-  related:
-  - 9i
-  - KR
-  - KS
-  - KT
-  - LV
-  lines: 153
+  related: []
+  youtube_id: PGqX9fpweyc
+  lines: 56
 - code: 6m
   file: 6m-understanding-safes-and-priced-equity-rounds.md
   title: Understanding SAFEs and priced equity rounds
   author: Kirsty Nathoo
   type: video
-  url: https://www.ycombinator.com/library/6m-understanding-safes-and-priced-equity-rounds?curius=1929
+  url: https://www.ycombinator.com/library/6m-understanding-safes-and-priced-equity-rounds
   topics:
   - co-founders
   - compensation
@@ -1653,13 +1236,9 @@ resources:
   - legal
   founder_stage:
   - all
-  related:
-  - 8u
-  - 5x
-  - 9j
-  - LP
-  - 3i
-  lines: 164
+  related: []
+  youtube_id: Dk6JNTDec9I
+  lines: 108
 - code: 6p
   file: 6p-all-about-pivoting.md
   title: All about pivoting
@@ -1671,13 +1250,9 @@ resources:
   - strategy
   founder_stage:
   - all
-  related:
-  - Iy
-  - MO
-  - NA
-  - 1k
-  - 1z
-  lines: 207
+  related: []
+  youtube_id: 8pNxKX1SUGE
+  lines: 142
 - code: 6q
   file: 6q-how-to-pitch-your-startup.md
   title: How to Pitch Your Startup
@@ -1689,12 +1264,7 @@ resources:
   - pitching
   founder_stage:
   - all
-  related:
-  - 4b
-  - 7u
-  - '98'
-  - DX
-  - IT
+  related: []
   lines: 317
 - code: 6r
   file: 6r-building-culture.md
@@ -1707,13 +1277,9 @@ resources:
   - leadership
   founder_stage:
   - building
-  related:
-  - JN
-  - JO
-  - 3k
-  - 5p
-  - Iw
-  lines: 69
+  related: []
+  youtube_id: qnNHW6TYv5I
+  lines: 120
 - code: 6t
   file: 6t-how-to-apply-and-succeed-at-y-combinator.md
   title: How to apply and succeed at Y Combinator
@@ -1725,13 +1291,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 7P
-  lines: 240
+  related: []
+  youtube_id: 8yiOcCPvyNE
+  lines: 146
 - code: '70'
   file: 70-template-sales-agreement.md
   title: YC Template Sales Agreements
@@ -1745,12 +1307,7 @@ resources:
   - yc
   founder_stage:
   - launched
-  related:
-  - Ip
-  - JE
-  - Mo
-  - 4m
-  - LF
+  related: []
   lines: 21
 - code: '71'
   file: 71-how-to-get-meetings-with-investors-and-raise-money.md
@@ -1766,12 +1323,7 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - '65'
-  - J1
-  - JM
-  - '63'
-  - 6Y
+  related: []
   lines: 74
 - code: '73'
   file: 73-how-to-start-a-startup-building-for-the-enterprise.md
@@ -1784,13 +1336,9 @@ resources:
   - sales
   founder_stage:
   - building
-  related:
-  - 4m
-  - LF
-  - MB
-  - 2u
-  - '47'
-  lines: 99
+  related: []
+  youtube_id: qRt7mFuKwQY
+  lines: 1004
 - code: '76'
   file: 76-how-to-invent-the-future-part-2.md
   title: How to invent the future (part 2)
@@ -1801,13 +1349,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 91
+  related: []
+  youtube_id: 1e8VZlPBx_0
+  lines: 768
 - code: '77'
   file: 77-how-to-invent-the-future-part-1.md
   title: How to invent the future (part 1)
@@ -1818,13 +1362,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 90
+  related: []
+  youtube_id: id1WShzzMCQ
+  lines: 830
 - code: 7G
   file: 7G-design-for-startups-part-1.md
   title: Design for startups (part 1)
@@ -1836,13 +1376,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7H
-  - Jr
-  - MG
-  - MK
-  - Mk
-  lines: 95
+  related: []
+  youtube_id: 9urYWGx2uNk
+  lines: 267
 - code: 7H
   file: 7H-design-for-startups-part-2.md
   title: Design for startups (part 2)
@@ -1854,13 +1390,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7G
-  - Jr
-  - MG
-  - MK
-  - Mk
-  lines: 96
+  related: []
+  youtube_id: O6uREh3G3sQ
+  lines: 89
 - code: 7I
   file: 7I-fundraising-fundamentals-sus-2018.md
   title: Fundraising Fundamentals (SUS 2018)
@@ -1873,12 +1405,7 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - '63'
-  - 6Y
-  - Il
-  - 4A
-  - '65'
+  related: []
   lines: 73
 - code: 7L
   file: 7L-how-do-you-create-luck.md
@@ -1890,13 +1417,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 97
+  related: []
+  youtube_id: NmEyx9TEkRw
+  lines: 36
 - code: 7M
   file: 7M-most-startups-are-undercharging.md
   title: Most startups are undercharging
@@ -1907,17 +1430,13 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 95
+  related: []
+  youtube_id: RxjZbmr1d1w
+  lines: 25
 - code: 7N
   file: 7N-building-an-engineering-team.md
   title: Building an engineering team
-  author: Harj Taggar
+  author: Harj Taggar, Ammon Bartram
   type: video
   url: https://www.ycombinator.com/library/7N-building-an-engineering-team
   topics:
@@ -1927,13 +1446,9 @@ resources:
   founder_stage:
   - building
   - scaling
-  related:
-  - 4H
-  - 7g
-  - 4v
-  - 4G
-  - '68'
-  lines: 96
+  related: []
+  youtube_id: AZidfpz9KfY
+  lines: 285
 - code: 7P
   file: 7P-does-yc-fund-solo-founders.md
   title: Does YC fund solo founders?
@@ -1945,12 +1460,7 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
+  related: []
   lines: 94
 - code: 7R
   file: 7R-startup-legal-mechanics.md
@@ -1963,13 +1473,9 @@ resources:
   - legal
   founder_stage:
   - all
-  related:
-  - JR
-  - Mq
-  - 6m
-  - 1k
-  - 1z
-  lines: 97
+  related: []
+  youtube_id: BTShgZxiNV8
+  lines: 233
 - code: 7S
   file: 7S-quantum-computing-with-chad-rigetti.md
   title: Quantum computing with Chad Rigetti
@@ -1980,13 +1486,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 73
+  related: []
+  youtube_id: GzMvG8UO6Eg
+  lines: 11
 - code: 7V
   file: 7V-how-to-find-product-market-fit.md
   title: How to find product-market fit
@@ -1999,13 +1501,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 5z
-  - '86'
-  - 4e
-  - '62'
-  - 6f
-  lines: 96
+  related: []
+  youtube_id: 0LNQxT9LvM0
+  lines: 12
 - code: 7a
   file: 7a-how-to-build-a-product-with-whatsapp-co-founder-jan-koum.md
   title: How to build a product with WhatsApp co-founder Jan Koum
@@ -2019,34 +1517,26 @@ resources:
   - team
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  - 8C
-  lines: 90
+  related: []
+  youtube_id: s1Rd4UShDxQ
+  lines: 11
 - code: 7e
   file: 7e-how-and-why-to-start-a-startup.md
   title: How and why to start a startup
-  author: Sam Altman
+  author: Sam Altman, Dustin Moskowitz
   type: video
   url: https://www.ycombinator.com/library/7e-how-and-why-to-start-a-startup
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 100
+  related: []
+  youtube_id: ZoqgAy3h4OM
+  lines: 12
 - code: 7g
   file: 7g-how-to-build-and-manage-teams.md
   title: How to build and manage teams
-  author: Vinod Khosla
+  author: Vinod Khosla, Anu Hariharan
   type: video
   url: https://www.ycombinator.com/library/7g-how-to-build-and-manage-teams
   topics:
@@ -2055,17 +1545,13 @@ resources:
   founder_stage:
   - building
   - scaling
-  related:
-  - 4v
-  - 7N
-  - 4h
-  - 4H
-  - '68'
-  lines: 92
+  related: []
+  youtube_id: alqHBCkSN8I
+  lines: 13
 - code: 7n
   file: 7n-live-office-hours-with-yc-s-kevin-hale-and-dalton-caldwell-2017.md
   title: Live office hours with YC's Kevin Hale and Dalton Caldwell (2017)
-  author: Dalton Caldwell
+  author: Kevin Hale, Dalton Caldwell
   type: video
   url: https://www.ycombinator.com/library/7n-live-office-hours-with-yc-s-kevin-hale-and-dalton-caldwell-2017
   topics:
@@ -2073,13 +1559,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 92
+  related: []
+  youtube_id: 8Qc8ipjzatY
+  lines: 12
 - code: 7q
   file: 7q-post-product-market-fit-people-customers-sales.md
   title: Y Combinator | File Not Found
@@ -2095,12 +1577,7 @@ resources:
   founder_stage:
   - building
   - launched
-  related:
-  - JK
-  - 5z
-  - 7V
-  - '86'
-  - 4e
+  related: []
   lines: 15
 - code: 7s
   file: 7s-building-product.md
@@ -2113,13 +1590,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 8C
-  - DT
-  lines: 151
+  related: []
+  youtube_id: C27RVio2rOs
+  lines: 11
 - code: 7u
   file: 7u-how-pitching-investors-is-different-than-pitching-customers.md
   title: How pitching investors is different than pitching customers
@@ -2134,13 +1607,9 @@ resources:
   - sales
   founder_stage:
   - all
-  related:
-  - 4b
-  - 6q
-  - '98'
-  - 9h
-  - DX
-  lines: 139
+  related: []
+  youtube_id: pQnOBHNKlgs
+  lines: 11
 - code: 7v
   file: 7v-should-i-use-a-dev-shop.md
   title: Should I use a dev shop?
@@ -2151,13 +1620,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 97
+  related: []
+  youtube_id: QAJQOXMM7ak
+  lines: 11
 - code: 7x
   file: 7x-how-to-get-and-test-ideas.md
   title: How to get and test ideas
@@ -2169,17 +1634,13 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 8B
-  - 8g
-  - 8z
-  - '91'
-  lines: 134
+  related: []
+  youtube_id: vDXkpJw16os
+  lines: 11
 - code: 7y
   file: 7y-how-to-build-a-product-with-reddit-s-steve-huffman-and-twitch-s-emmett-shear.md
   title: How to build a product with Reddit's Steve Huffman and Twitch's Emmett Shear
-  author: Michael Seibel
+  author: Michael Seibel, Emmett Shear, Steve Huffman
   type: video
   url: https://www.ycombinator.com/library/7y-how-to-build-a-product-with-reddit-s-steve-huffman-and-twitch-s-emmett-shear
   topics:
@@ -2189,47 +1650,35 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - Lf
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  lines: 22
+  related: []
+  youtube_id: 6IFR3WYSBFM
+  lines: 12
 - code: '80'
   file: 80-patrick-collison-on-effectively-running-a-startup.md
   title: Patrick Collison on effectively running a startup
-  author: Patrick Collison
+  author: Patrick Collison, Adora Cheung
   type: video
   url: https://www.ycombinator.com/library/80-patrick-collison-on-effectively-running-a-startup
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 72
+  related: []
+  youtube_id: NprBQi0cSHU
+  lines: 12
 - code: '82'
   file: 82-the-path-to-100b.md
   title: The path to $100B
-  author: Paul Buchheit
+  author: Paul Buchheit, Geoff Ralston
   type: video
   url: https://www.ycombinator.com/library/82-the-path-to-100b
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 74
+  related: []
+  youtube_id: Ir3hGtg0Wog
+  lines: 12
 - code: '84'
   file: 84-live-office-hours-with-yc-s-paul-graham-and-sam-altman-2013.md
   title: Live office hours with YC's Paul Graham and Sam Altman (2013)
@@ -2243,13 +1692,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - J7
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  lines: 71
+  related: []
+  youtube_id: syoqjYLDs48
+  lines: 11
 - code: '86'
   file: 86-how-to-start-a-startup-finding-product-market-fit.md
   title: 'How to Start a Startup: Finding Product-Market Fit'
@@ -2262,13 +1707,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 5z
-  - 7V
-  - 4e
-  - '62'
-  - 6f
-  lines: 92
+  related: []
+  youtube_id: _6pl5GG8RQ4
+  lines: 12
 - code: '89'
   file: 89-how-to-succeed-with-a-startup.md
   title: How to succeed with a startup
@@ -2279,17 +1720,13 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 255
+  related: []
+  youtube_id: 0lJKucu6HJc
+  lines: 54
 - code: 8B
   file: 8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working.md
   title: 'How to Start a Startup: How to get ideas and find what''s working'
-  author: Stewart Butterfield
+  author: Stewart Butterfield, Adam D'Angelo
   type: video
   url: https://www.ycombinator.com/library/8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working
   topics:
@@ -2297,13 +1734,9 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8g
-  - 8z
-  - '91'
-  lines: 92
+  related: []
+  youtube_id: zsBjAuexPq4
+  lines: 12
 - code: 8C
   file: 8C-how-to-measure-your-product.md
   title: How to measure your product
@@ -2315,17 +1748,13 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  - DT
-  lines: 20
+  related: []
+  youtube_id: MABmQhOlmJA
+  lines: 12
 - code: 8D
   file: 8D-live-office-hours-with-sam-altman-and-yuri-sagalov.md
   title: Live office hours with Sam Altman and Yuri Sagalov
-  author: Yuri Sagalov
+  author: Yuri Sagalov, Sam Altman
   type: video
   url: https://www.ycombinator.com/library/8D-live-office-hours-with-sam-altman-and-yuri-sagalov
   topics:
@@ -2333,13 +1762,9 @@ resources:
   - tech-leaders
   founder_stage:
   - all
-  related:
-  - IW
-  - MX
-  - 5s
-  - 6W
-  - Lp
-  lines: 100
+  related: []
+  youtube_id: abtHadERzXU
+  lines: 12
 - code: 8F
   file: 8F-modern-startup-funding.md
   title: Modern startup funding
@@ -2350,13 +1775,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 96
+  related: []
+  youtube_id: 9qWZALyGSmg
+  lines: 12
 - code: 8G
   file: 8G-advice-for-hard-tech-and-biotech-founders.md
   title: Advice for Hard-Tech and Biotech founders
@@ -2369,13 +1790,9 @@ resources:
   - hardware
   founder_stage:
   - all
-  related:
-  - 4L
-  - Kq
-  - 4r
-  - 1k
-  - 1z
-  lines: 221
+  related: []
+  youtube_id: C1DlZWfI6rk
+  lines: 13
 - code: 8H
   file: 8H-analytics-for-startups.md
   title: Analytics for startups
@@ -2386,13 +1803,9 @@ resources:
   - metrics
   founder_stage:
   - all
-  related:
-  - 6l
-  - 9i
-  - KR
-  - KS
-  - KT
-  lines: 98
+  related: []
+  youtube_id: LLerCc7MOQo
+  lines: 12
 - code: 8I
   file: 8I-managing-startup-finances.md
   title: Managing startup finances
@@ -2403,13 +1816,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 98
+  related: []
+  youtube_id: LBC16jhiwak
+  lines: 12
 - code: 8L
   file: 8L-what-s-different-about-unicorns.md
   title: What's different about unicorns?
@@ -2421,13 +1830,9 @@ resources:
   - success
   founder_stage:
   - scaling
-  related:
-  - KA
-  - 4q
-  - NA
-  - '96'
-  - If
-  lines: 95
+  related: []
+  youtube_id: Ygr3rx4hSsc
+  lines: 12
 - code: 8a
   file: 8a-the-5-things-that-kill-startups-post-seed-rounds.md
   title: The 5 things that kill startups post seed rounds
@@ -2441,13 +1846,9 @@ resources:
   - seed-stage
   founder_stage:
   - all
-  related:
-  - '66'
-  - 8t
-  - J2
-  - Jh
-  - Jl
-  lines: 72
+  related: []
+  youtube_id: Dgmmje5WHWA
+  lines: 12
 - code: 8d
   file: 8d-how-to-build-a-great-series-a-pitch-and-deck.md
   title: How to build a great Series A pitch and deck
@@ -2461,13 +1862,8 @@ resources:
   founder_stage:
   - building
   - scaling
-  related:
-  - 3h
-  - 4P
-  - 2u
-  - 4b
-  - 6q
-  lines: 453
+  related: []
+  lines: 400
 - code: 8f
   file: 8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup.md
   title: How to spin your scientific research out of a university and into a startup
@@ -2478,13 +1874,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 330
+  related: []
+  lines: 289
 - code: 8g
   file: 8g-how-to-get-startup-ideas.md
   title: How to get startup ideas
@@ -2496,13 +1887,9 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8z
-  - '91'
-  lines: 190
+  related: []
+  youtube_id: Th8JoIan4dg
+  lines: 73
 - code: 8h
   file: 8h-how-to-find-the-right-co-founder.md
   title: How to find the right co-founder
@@ -2514,13 +1901,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - Cn
-  - Cq
-  - Dw
-  - Im
-  lines: 192
+  related: []
+  youtube_id: prKi3-rUPHc
+  lines: 72
 - code: 8p
   file: 8p-how-to-prioritize-features.md
   title: How to prioritize features
@@ -2531,13 +1914,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 834
+  related: []
+  lines: 128
 - code: 8s
   file: 8s-startup-growth.md
   title: Startup = growth
@@ -2549,13 +1927,8 @@ resources:
   - metrics
   founder_stage:
   - launched
-  related:
-  - 6k
-  - 6l
-  - 9i
-  - KR
-  - KS
-  lines: 428
+  related: []
+  lines: 405
 - code: 8t
   file: 8t-the-18-mistakes-that-kill-startups.md
   title: The 18 mistakes that kill startups
@@ -2567,13 +1940,8 @@ resources:
   - mistakes
   founder_stage:
   - all
-  related:
-  - '66'
-  - J2
-  - Jh
-  - Jl
-  - 5l
-  lines: 512
+  related: []
+  lines: 467
 - code: 8u
   file: 8u-the-equity-equation.md
   title: The equity equation
@@ -2586,13 +1954,8 @@ resources:
   - hiring
   founder_stage:
   - all
-  related:
-  - 5x
-  - 9j
-  - 6m
-  - LP
-  - 3i
-  lines: 106
+  related: []
+  lines: 105
 - code: 8w
   file: 8w-the-hardest-lessons-for-startups-to-learn.md
   title: The hardest lessons for startups to learn
@@ -2603,13 +1966,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 413
+  related: []
+  lines: 388
 - code: 8x
   file: 8x-why-to-not-not-start-a-startup.md
   title: Why to not not start a startup
@@ -2620,13 +1978,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 522
+  related: []
+  lines: 481
 - code: 8y
   file: 8y-before-the-startup.md
   title: Before the startup
@@ -2638,13 +1991,8 @@ resources:
   - mindset
   founder_stage:
   - pre-idea
-  related:
-  - JI
-  - 4d
-  - 6A
-  - '93'
-  - D0
-  lines: 369
+  related: []
+  lines: 348
 - code: 8z
   file: 8z-how-to-get-startup-ideas.md
   title: How to Get Startup Ideas
@@ -2656,13 +2004,8 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - '91'
-  lines: 568
+  related: []
+  lines: 543
 - code: '91'
   file: 91-why-smart-people-have-bad-ideas.md
   title: Why smart people have bad ideas
@@ -2674,13 +2017,8 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 282
+  related: []
+  lines: 261
 - code: '93'
   file: 93-a-student-s-guide-to-startups.md
   title: A student's guide to startups
@@ -2692,13 +2030,8 @@ resources:
   - students
   founder_stage:
   - pre-idea
-  related:
-  - 4d
-  - 6A
-  - D0
-  - IZ
-  - 8y
-  lines: 464
+  related: []
+  lines: 449
 - code: '94'
   file: 94-be-relentlessly-resourceful.md
   title: Be relentlessly resourceful
@@ -2709,13 +2042,8 @@ resources:
   - mindset
   founder_stage:
   - all
-  related:
-  - DV
-  - IX
-  - Id
-  - Iu
-  - Ic
-  lines: 97
+  related: []
+  lines: 100
 - code: '95'
   file: 95-default-alive-or-default-dead.md
   title: Default alive or default dead
@@ -2726,13 +2054,8 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 134
+  related: []
+  lines: 135
 - code: '96'
   file: 96-do-things-that-don-t-scale.md
   title: Do things that don't scale
@@ -2744,13 +2067,8 @@ resources:
   - scaling
   founder_stage:
   - scaling
-  related:
-  - If
-  - Ig
-  - 5j
-  - 4q
-  - JL
-  lines: 367
+  related: []
+  lines: 338
 - code: '98'
   file: 98-how-to-convince-investors.md
   title: How to convince investors
@@ -2762,13 +2080,8 @@ resources:
   - investors
   founder_stage:
   - all
-  related:
-  - DX
-  - IT
-  - Kk
-  - '65'
-  - J1
-  lines: 306
+  related: []
+  lines: 287
 - code: 9M
   file: 9M-billionaires-build.md
   title: Billionaires build
@@ -2780,13 +2093,8 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - Kb
-  - Kl
-  - Lq
-  - Mf
-  - Mg
-  lines: 256
+  related: []
+  lines: 260
 - code: 9h
   file: 9h-how-to-get-your-first-ten-customers.md
   title: How to get your first ten customers?
@@ -2798,12 +2106,7 @@ resources:
   - sales
   founder_stage:
   - all
-  related:
-  - IP
-  - Ia
-  - KD
-  - MH
-  - Ip
+  related: []
   lines: 60
 - code: 9i
   file: 9i-how-to-choose-a-metric-and-set-your-kpi.md
@@ -2816,13 +2119,9 @@ resources:
   - metrics
   founder_stage:
   - all
-  related:
-  - 6l
-  - KR
-  - KS
-  - KT
-  - LV
-  lines: 72
+  related: []
+  youtube_id: kJIBAp48Pv8
+  lines: 12
 - code: 9j
   file: 9j-how-much-equity-should-i-give-my-first-employees.md
   title: How Much Equity Should I Give My First Employees?
@@ -2836,12 +2135,7 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 5x
-  - 8u
-  - LP
-  - 3i
-  - 4h
+  related: []
   lines: 74
 - code: 9k
   file: 9k-how-to-calculate-burn-rate-runway-and-growth-rate.md
@@ -2856,12 +2150,7 @@ resources:
   - mistakes
   founder_stage:
   - launched
-  related:
-  - 6k
-  - 8s
-  - Ir
-  - J0
-  - LG
+  related: []
   lines: 73
 - code: 9t
   file: 9t-how-to-choose-a-startup-to-join.md
@@ -2874,13 +2163,9 @@ resources:
   - joining-startup
   founder_stage:
   - all
-  related:
-  - 5b
-  - 5n
-  - AQ
-  - K0
-  - 1k
-  lines: 97
+  related: []
+  youtube_id: evIZRpNQUx4
+  lines: 12
 - code: 9u
   file: 9u-why-do-startups-fail.md
   title: Why do startups fail?
@@ -2894,17 +2179,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 5l
-  - Ie
-  - Ly
-  - DY
-  - '66'
-  lines: 22
+  related: []
+  youtube_id: gQ_rZc0YUNw
+  lines: 12
 - code: AQ
   file: AQ-how-to-pick-which-startup-to-work-at.md
   title: How to pick which startup to work at
-  author: Justin Kan
+  author: Justin Kan, Sam Altman
   type: video
   url: https://www.ycombinator.com/library/AQ-how-to-pick-which-startup-to-work-at
   topics:
@@ -2912,13 +2193,9 @@ resources:
   - joining-startup
   founder_stage:
   - all
-  related:
-  - 5b
-  - 5n
-  - 9t
-  - K0
-  - 1k
-  lines: 93
+  related: []
+  youtube_id: cN62reafxLg
+  lines: 10
 - code: CH
   file: CH-venture-debt-101-basics-and-approach.md
   title: 'Venture Debt 101: Basics and Approach'
@@ -2929,12 +2206,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 107
 - code: CP
   file: CP-one-order-of-operations-for-starting-a-startup.md
@@ -2946,13 +2218,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 121
+  related: []
+  youtube_id: 5fmDKGV0TnQ
+  lines: 11
 - code: CU
   file: CU-amplitude-w12-is-going-public.md
   title: Amplitude (W12) is going public
@@ -2963,12 +2231,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 57
 - code: CV
   file: CV-ginkgo-bioworks-s14-is-going-public-today.md
@@ -2980,12 +2243,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 122
 - code: Cn
   file: Cn-what-do-people-want-in-a-co-founder.md
@@ -2998,12 +2256,7 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cq
-  - Dw
-  - Im
+  related: []
   lines: 133
 - code: Co
   file: Co-embark-trucks-w16-road-to-ipo.md
@@ -3015,13 +2268,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 246
+  related: []
+  youtube_id: LzIA3pH7lIg
+  lines: 52
 - code: Cp
   file: Cp-weave-w14-is-going-public.md
   title: Weave (W14) is Going Public
@@ -3032,12 +2281,7 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
+  related: []
   lines: 111
 - code: Cq
   file: Cq-does-co-founder-matching-work.md
@@ -3050,17 +2294,12 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Dw
-  - Im
-  lines: 68
+  related: []
+  lines: 56
 - code: D0
   file: D0-startups-for-students.md
   title: Startups for students
-  author: Tamanna Khemani
+  author: Tamanna Khemani and Kat Mañalac
   type: essay
   url: https://www.ycombinator.com/library/D0-startups-for-students
   topics:
@@ -3068,17 +2307,12 @@ resources:
   - students
   founder_stage:
   - pre-idea
-  related:
-  - 4d
-  - 6A
-  - '93'
-  - IZ
-  - 8y
-  lines: 583
+  related: []
+  lines: 539
 - code: DT
   file: DT-dalton-michael-simple-products-that-became-big-companies.md
   title: 'Dalton & Michael: Simple products that became big companies'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/DT-dalton-michael-simple-products-that-became-big-companies
   topics:
@@ -3086,17 +2320,13 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  - 8C
-  lines: 151
+  related: []
+  youtube_id: G7TMqY7gkGY
+  lines: 12
 - code: DU
   file: DU-dalton-michael-where-do-great-startup-ideas-come-from.md
   title: 'Dalton & Michael: Where do great startup ideas come from?'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/DU-dalton-michael-where-do-great-startup-ideas-come-from
   topics:
@@ -3104,51 +2334,39 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 221
+  related: []
+  youtube_id: Jcuqq48CNj8
+  lines: 12
 - code: DV
   file: DV-dalton-michael-successful-founders-are-ok-with-rejection.md
   title: 'Dalton & Michael: Successful founders are OK with rejection'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/DV-dalton-michael-successful-founders-are-ok-with-rejection
   topics:
   - mindset
   founder_stage:
   - all
-  related:
-  - '94'
-  - IX
-  - Id
-  - Iu
-  - Ic
-  lines: 142
+  related: []
+  youtube_id: zB_SkaERWZY
+  lines: 12
 - code: DW
   file: DW-dalton-michael-should-you-follow-your-passion.md
   title: 'Dalton & Michael: Should you follow your passion?'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/DW-dalton-michael-should-you-follow-your-passion
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 150
+  related: []
+  youtube_id: KWNNmPCF-Xs
+  lines: 15
 - code: DX
   file: DX-dalton-michael-understanding-investor-terms-and-incentives.md
   title: 'Dalton & Michael: Understanding investor terms and incentives'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/DX-dalton-michael-understanding-investor-terms-and-incentives
   topics:
@@ -3156,17 +2374,13 @@ resources:
   - investors
   founder_stage:
   - all
-  related:
-  - '98'
-  - IT
-  - Kk
-  - '65'
-  - J1
-  lines: 127
+  related: []
+  youtube_id: wnyI7ZM_Mrk
+  lines: 14
 - code: DY
   file: DY-dalton-michael-yc-founders-made-these-fundraising-mistakes.md
   title: 'Dalton & Michael: YC founders made these fundraising mistakes'
-  author: Michael Seibel
+  author: Dalton Caldwell and Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/DY-dalton-michael-yc-founders-made-these-fundraising-mistakes
   topics:
@@ -3179,17 +2393,13 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 5l
-  - 9u
-  - Ie
-  - LR
-  - Ly
-  lines: 137
+  related: []
+  youtube_id: 6606a2ka-jQ
+  lines: 14
 - code: DZ
   file: DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them.md
   title: 'Dalton & Michael: Co-founder mistakes that kill companies and how to avoid them'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them
   topics:
@@ -3199,13 +2409,24 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - LP
-  - 3i
-  - '66'
-  - 8h
-  - 8t
-  lines: 90
+  related: []
+  youtube_id: dlfjs_eEEzs
+  lines: 14
+- code: Da
+  file: Da-data-rooms-and-additional-documents-to-prepare-for-seed-fundraising.md
+  title: Data rooms and additional documents to prepare for seed fundraising
+  author: None
+  type: essay
+  url: https://www.ycombinator.com/library/Da-data-rooms-and-additional-documents-to-prepare-for-seed-fundraising
+  topics:
+  - ai
+  - fundraising
+  - seed-stage
+  - technology
+  founder_stage:
+  - all
+  related: []
+  lines: 101
 - code: Dw
   file: Dw-how-to-make-your-co-founder-matching-profile-stand-out.md
   title: How to make your co-founder matching profile stand out
@@ -3217,30 +2438,21 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Im
+  related: []
   lines: 130
 - code: Ed
   file: Ed-dalton-michael-save-your-startup-during-an-economic-downturn.md
   title: 'Dalton & Michael: Save your startup during an economic downturn'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ed-dalton-michael-save-your-startup-during-an-economic-downturn
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 171
+  related: []
+  youtube_id: 0OVSTWozvfY
+  lines: 12
 - code: Ek
   file: Ek-stages-of-startups.md
   title: 'Stages of startups   : YC Startup Job Guide'
@@ -3252,12 +2464,7 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
+  related: []
   lines: 114
 - code: Eo
   file: Eo-picking-a-good-startup.md
@@ -3270,12 +2477,7 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
+  related: []
   lines: 92
 - code: GV
   file: GV-should-you-start-a-startup.md
@@ -3287,13 +2489,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 200
+  related: []
+  youtube_id: BUE-icVYRFU
+  lines: 69
 - code: Gh
   file: Gh-yc-guide-to-business-models.md
   title: YC guide to business models
@@ -3305,13 +2503,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 316
+  related: []
+  youtube_id: oWZbWzAyHAE
+  lines: 193
 - code: Gu
   file: Gu-snapdocs-aaron-king-on-navigating-market-cycles.md
   title: Snapdocs' Aaron King on navigating market cycles
@@ -3323,51 +2517,111 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 193
+  related: []
+  lines: 182
+- code: Hj
+  file: Hj-10-questions-to-discuss-with-a-potential-co-founder.md
+  title: 10 questions to discuss with a potential co-founder
+  author: Y Combinator
+  type: essay
+  url: https://www.ycombinator.com/library/Hj-10-questions-to-discuss-with-a-potential-co-founder
+  topics:
+  - co-founders
+  - team
+  founder_stage:
+  - all
+  related: []
+  lines: 134
+- code: IG
+  file: IG-successful-yc-application-video-campus-job-yc-w2015.md
+  title: 'Successful YC Application video: Campus Job (YC W2015)'
+  author: None
+  type: video
+  url: https://www.ycombinator.com/library/IG-successful-yc-application-video-campus-job-yc-w2015
+  topics:
+  - accelerator
+  - applying
+  - yc
+  founder_stage:
+  - all
+  related: []
+  youtube_id: 4nxrkPtR348
+  lines: 10
+- code: IH
+  file: IH-successful-yc-application-video-flip-yc-w2015.md
+  title: 'Successful YC Application video: Flip (YC W2015)'
+  author: None
+  type: video
+  url: https://www.ycombinator.com/library/IH-successful-yc-application-video-flip-yc-w2015
+  topics:
+  - accelerator
+  - applying
+  - yc
+  founder_stage:
+  - all
+  related: []
+  youtube_id: N5cBGeRMxms
+  lines: 10
+- code: II
+  file: II-successful-yc-application-video-zenefits-yc-w2013.md
+  title: 'Successful YC Application video: Zenefits (YC W2013)'
+  author: None
+  type: video
+  url: https://www.ycombinator.com/library/II-successful-yc-application-video-zenefits-yc-w2013
+  topics:
+  - accelerator
+  - applying
+  - yc
+  founder_stage:
+  - all
+  related: []
+  youtube_id: -S83fysRwn4
+  lines: 10
+- code: IJ
+  file: IJ-successful-yc-application-video-teespring-yc-w2013.md
+  title: 'Successful YC Application video: Teespring (YC W2013)'
+  author: None
+  type: video
+  url: https://www.ycombinator.com/library/IJ-successful-yc-application-video-teespring-yc-w2013
+  topics:
+  - accelerator
+  - applying
+  - yc
+  founder_stage:
+  - all
+  related: []
+  youtube_id: Ipf247AmhiI
+  lines: 10
 - code: IN
   file: IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco.md
   title: 'Dalton & Michael: Does Your Startup Need To Be In San Francisco?'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 126
+  related: []
+  youtube_id: ZqGOCF4O6ks
+  lines: 13
 - code: IO
   file: IO-dalton-michael-how-generosity-built-tech-giants.md
   title: 'Dalton & Michael: How generosity built tech giants'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IO-dalton-michael-how-generosity-built-tech-giants
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 134
+  related: []
+  youtube_id: RD5EAMOh7fE
+  lines: 17
 - code: IP
   file: IP-dalton-michael-secrets-you-can-learn-from-your-customers.md
   title: 'Dalton & Michael: Secrets You Can Learn From Your Customers'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IP-dalton-michael-secrets-you-can-learn-from-your-customers
   topics:
@@ -3375,51 +2629,39 @@ resources:
   - sales
   founder_stage:
   - all
-  related:
-  - 9h
-  - Ia
-  - KD
-  - MH
-  - Ip
-  lines: 160
+  related: []
+  youtube_id: IdwYMfM2QMs
+  lines: 19
 - code: IQ
   file: IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have.md
   title: 'Dalton & Michael: The hard conversations founders don''t want to have'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 133
+  related: []
+  youtube_id: hUbM-bURoJE
+  lines: 16
 - code: IR
   file: IR-dalton-michael-silicon-valley-s-cargo-culting-problem.md
   title: 'Dalton & Michael: Silicon Valley''s cargo culting problem'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IR-dalton-michael-silicon-valley-s-cargo-culting-problem
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 145
+  related: []
+  youtube_id: ECLJ95XNxA4
+  lines: 16
 - code: IS
   file: IS-dalton-michael-y-combinator-is-back-in-person.md
   title: 'Dalton & Michael: Y Combinator is back in person'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IS-dalton-michael-y-combinator-is-back-in-person
   topics:
@@ -3427,17 +2669,13 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 133
+  related: []
+  youtube_id: GiuxXzmvolU
+  lines: 12
 - code: IT
   file: IT-dalton-michael-why-investors-can-t-fix-your-company.md
   title: 'Dalton & Michael: Why investors can’t fix your company'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IT-dalton-michael-why-investors-can-t-fix-your-company
   topics:
@@ -3445,17 +2683,13 @@ resources:
   - investors
   founder_stage:
   - all
-  related:
-  - '98'
-  - DX
-  - Kk
-  - '65'
-  - J1
-  lines: 64
+  related: []
+  youtube_id: UqKzpLqXuI0
+  lines: 12
 - code: IU
   file: IU-dalton-michael-the-truth-about-y-combinator.md
   title: 'Dalton & Michael: The truth about Y Combinator'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IU-dalton-michael-the-truth-about-y-combinator
   topics:
@@ -3463,17 +2697,13 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 140
+  related: []
+  youtube_id: DOez-RwJ7mg
+  lines: 13
 - code: IW
   file: IW-dalton-michael-elon-musk-and-the-midwit-meme.md
   title: 'Dalton & Michael: Elon Musk and the Midwit meme'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IW-dalton-michael-elon-musk-and-the-midwit-meme
   topics:
@@ -3481,51 +2711,39 @@ resources:
   - tech-leaders
   founder_stage:
   - all
-  related:
-  - 8D
-  - MX
-  - 5s
-  - 6W
-  - Lp
-  lines: 21
+  related: []
+  youtube_id: IYLVhk7yaaw
+  lines: 11
 - code: IX
   file: IX-dalton-michael-how-to-deal-with-setbacks.md
   title: 'Dalton & Michael: How to deal with setbacks'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IX-dalton-michael-how-to-deal-with-setbacks
   topics:
   - mindset
   founder_stage:
   - all
-  related:
-  - '94'
-  - DV
-  - Id
-  - Iu
-  - Ic
-  lines: 153
+  related: []
+  youtube_id: AWa4qZvtMuY
+  lines: 12
 - code: IY
   file: IY-dalton-michael-the-cult-of-conformity-in-silicon-valley.md
   title: 'Dalton & Michael: The cult of conformity in Silicon Valley'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IY-dalton-michael-the-cult-of-conformity-in-silicon-valley
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 140
+  related: []
+  youtube_id: ia7IKW0yuG0
+  lines: 17
 - code: IZ
   file: IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder.md
   title: 'Dalton & Michael: The student''s guide to becoming a successful startup founder'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder
   topics:
@@ -3533,17 +2751,13 @@ resources:
   - students
   founder_stage:
   - pre-idea
-  related:
-  - 4d
-  - 6A
-  - '93'
-  - D0
-  - 8y
-  lines: 151
+  related: []
+  youtube_id: O5KCB2p6SB8
+  lines: 18
 - code: Ia
   file: Ia-dalton-michael-how-to-earn-customers-for-life.md
   title: 'Dalton & Michael: How to earn customers for life'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ia-dalton-michael-how-to-earn-customers-for-life
   topics:
@@ -3551,34 +2765,26 @@ resources:
   - sales
   founder_stage:
   - all
-  related:
-  - 9h
-  - IP
-  - KD
-  - MH
-  - Ip
-  lines: 132
+  related: []
+  youtube_id: LJay5YW4fLA
+  lines: 17
 - code: Ib
   file: Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups.md
   title: 'Dalton & Michael: What basic game theory teaches us about startups'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 131
+  related: []
+  youtube_id: gUuQsMERjUc
+  lines: 12
 - code: Ic
   file: Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup.md
   title: 'Dalton & Michael: The two mindsets that can kill your startup'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup
   topics:
@@ -3588,17 +2794,13 @@ resources:
   - philosophy
   founder_stage:
   - all
-  related:
-  - '66'
-  - 8t
-  - J2
-  - Jh
-  - Jl
-  lines: 84
+  related: []
+  youtube_id: lJausFj_Dto
+  lines: 12
 - code: Id
   file: Id-dalton-michael-setting-smarter-goals.md
   title: 'Dalton & Michael: Setting smarter goals'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Id-dalton-michael-setting-smarter-goals
   topics:
@@ -3606,17 +2808,13 @@ resources:
   - productivity
   founder_stage:
   - all
-  related:
-  - Iu
-  - '94'
-  - DV
-  - IX
-  - Ic
-  lines: 154
+  related: []
+  youtube_id: rE2XaBGHN2I
+  lines: 13
 - code: Ie
   file: Ie-dalton-michael-will-openai-kill-all-startups.md
   title: 'Dalton & Michael: Will OpenAI kill all startups?'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ie-dalton-michael-will-openai-kill-all-startups
   topics:
@@ -3626,17 +2824,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 5l
-  - 9u
-  - Ly
-  - DY
-  - '66'
-  lines: 126
+  related: []
+  youtube_id: smHw9kEwcgM
+  lines: 13
 - code: If
   file: If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale.md
   title: 'Dalton & Michael: What does it really mean to do things that don''t scale?'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale
   topics:
@@ -3644,17 +2838,13 @@ resources:
   - scaling
   founder_stage:
   - scaling
-  related:
-  - '96'
-  - Ig
-  - 5j
-  - 4q
-  - JL
-  lines: 85
+  related: []
+  youtube_id: 4RMjQal_c4U
+  lines: 12
 - code: Ig
   file: Ig-dalton-michael-things-that-don-t-scale-the-software-edition.md
   title: 'Dalton & Michael: Things that don''t scale, the software edition'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ig-dalton-michael-things-that-don-t-scale-the-software-edition
   topics:
@@ -3662,51 +2852,39 @@ resources:
   - scaling
   founder_stage:
   - scaling
-  related:
-  - '96'
-  - If
-  - 5j
-  - 4q
-  - JL
-  lines: 125
+  related: []
+  youtube_id: TCPjk8Tpb5c
+  lines: 12
 - code: Ih
   file: Ih-dalton-michael-why-you-should-leave-your-faang-job.md
   title: 'Dalton & Michael: Why you should leave your FAANG job'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ih-dalton-michael-why-you-should-leave-your-faang-job
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 125
+  related: []
+  youtube_id: sM2reZib2RY
+  lines: 12
 - code: Ii
   file: Ii-dalton-michael-most-important-lifestyle-habits-of-successful-founders.md
   title: 'Dalton & Michael: Most important lifestyle habits of successful founders'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ii-dalton-michael-most-important-lifestyle-habits-of-successful-founders
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 146
+  related: []
+  youtube_id: 0IShllkCHtY
+  lines: 12
 - code: Ik
   file: Ik-dalton-michael-how-future-billionaires-get-sh-t-done.md
   title: 'Dalton & Michael: How future billionaires get sh*t done'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Ik-dalton-michael-how-future-billionaires-get-sh-t-done
   topics:
@@ -3714,13 +2892,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - JG
-  - Jc
-  - Ju
-  - Jz
-  lines: 143
+  related: []
+  youtube_id: ephzgxgOjR0
+  lines: 12
 - code: Il
   file: Il-how-startup-fundraising-works.md
   title: How startup fundraising works
@@ -3733,17 +2907,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - '63'
-  - 6Y
-  - 7I
-  - 4A
-  - '65'
-  lines: 155
+  related: []
+  youtube_id: zBUhQPPS9AY
+  lines: 13
 - code: Im
   file: Im-keys-to-successful-co-founder-relationships.md
   title: Keys To Successful Co-Founder Relationships
-  author: Catheryn Li
+  author: Catheryn Li, Divya Bhat
   type: video
   url: https://www.ycombinator.com/library/Im-keys-to-successful-co-founder-relationships
   topics:
@@ -3751,13 +2921,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 155
+  related: []
+  youtube_id: A4SLDQDXdp0
+  lines: 13
 - code: Io
   file: Io-how-to-build-an-mvp.md
   title: How to build an MVP
@@ -3769,17 +2935,13 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  - 8C
-  lines: 135
+  related: []
+  youtube_id: QRZ_l7cVzzU
+  lines: 13
 - code: Ip
   file: Ip-how-to-get-your-first-customers.md
   title: How to get your first customers
-  author: Gustaf Alstr
+  author: Gustaf Alströmer
   type: video
   url: https://www.ycombinator.com/library/Ip-how-to-get-your-first-customers
   topics:
@@ -3787,17 +2949,13 @@ resources:
   - sales
   founder_stage:
   - launched
-  related:
-  - JE
-  - Mo
-  - 4m
-  - LF
-  - 9h
-  lines: 117
+  related: []
+  youtube_id: hyYCn_kAngI
+  lines: 12
 - code: Iq
   file: Iq-how-to-talk-to-users.md
   title: How to talk to users
-  author: Gustaf Alstr
+  author: Gustaf Alströmer
   type: video
   url: https://www.ycombinator.com/library/Iq-how-to-talk-to-users
   topics:
@@ -3806,17 +2964,13 @@ resources:
   - users
   founder_stage:
   - launched
-  related:
-  - JQ
-  - '67'
-  - J3
-  - Ip
-  - JE
-  lines: 129
+  related: []
+  youtube_id: z1iF1c8w5Lg
+  lines: 13
 - code: Ir
   file: Ir-the-best-way-to-launch-your-startup.md
   title: The best way to launch your startup
-  author: Kat Ma
+  author: Kat Mañalac
   type: video
   url: https://www.ycombinator.com/library/Ir-the-best-way-to-launch-your-startup
   topics:
@@ -3824,13 +2978,9 @@ resources:
   - launching
   founder_stage:
   - launched
-  related:
-  - J0
-  - LG
-  - 6i
-  - Lm
-  - N6
-  lines: 123
+  related: []
+  youtube_id: u36A-YTxiOw
+  lines: 13
 - code: Is
   file: Is-tips-for-technical-startup-founders.md
   title: Tips for technical startup founders
@@ -3841,13 +2991,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 145
+  related: []
+  youtube_id: rP7bpYsfa6Q
+  lines: 13
 - code: It
   file: It-how-to-apply-and-succeed-at-yc.md
   title: How to apply and succeed at YC
@@ -3859,13 +3005,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 159
+  related: []
+  youtube_id: B5tU2447OK8
+  lines: 13
 - code: Iu
   file: Iu-setting-kpis-and-goals.md
   title: Setting KPIs and goals
@@ -3878,17 +3020,13 @@ resources:
   - productivity
   founder_stage:
   - all
-  related:
-  - Id
-  - 8H
-  - '94'
-  - DV
-  - IX
-  lines: 130
+  related: []
+  youtube_id: 6DTK9yDP6p0
+  lines: 12
 - code: Iv
   file: Iv-critiquing-ai-startup-websites-with-yc-president-garry-tan.md
   title: Critiquing AI startup websites with YC President Garry Tan
-  author: Garry Tan
+  author: Aaron Epstein, Garry Tan
   type: video
   url: https://www.ycombinator.com/library/Iv-critiquing-ai-startup-websites-with-yc-president-garry-tan
   topics:
@@ -3899,13 +3037,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - LR
-  - J7
-  - '84'
-  - DY
-  - Js
-  lines: 111
+  related: []
+  youtube_id: uIYujpFmvo8
+  lines: 16
 - code: Iw
   file: Iw-critiquing-startup-websites-with-webflow-ceo-vlad-magdalin.md
   title: Critiquing startup websites with Webflow CEO Vlad Magdalin
@@ -3917,13 +3051,9 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3k
-  - 5p
-  - Jo
-  - Jq
-  - Mu
-  lines: 121
+  related: []
+  youtube_id: B2JpZPSHaVM
+  lines: 13
 - code: Ix
   file: Ix-critiquing-startup-websites-with-instacart-s-first-designer-zain-ali.md
   title: Critiquing startup websites with Instacart's first designer, Zain Ali
@@ -3937,13 +3067,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - MD
-  - Lj
-  - Mn
-  - Mp
-  - 7G
-  lines: 112
+  related: []
+  youtube_id: gok9BZLMxDs
+  lines: 13
 - code: Iy
   file: Iy-yc-s-group-partners-share-their-favorite-pivot-stories.md
   title: YC's Group Partners share their favorite pivot stories
@@ -3957,34 +3083,26 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6p
-  lines: 150
+  related: []
+  youtube_id: DmehFuCMtvc
+  lines: 19
 - code: Iz
   file: Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google.md
   title: 'Inside the Group Partner Lounge: How to compete with Amazon and Google'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 150
+  related: []
+  youtube_id: tzsmJtKZ2No
+  lines: 13
 - code: J0
   file: J0-inside-the-group-partner-lounge-when-to-launch-your-startup.md
   title: 'Inside the Group Partner Lounge: When to launch your startup'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/J0-inside-the-group-partner-lounge-when-to-launch-your-startup
   topics:
@@ -3992,17 +3110,13 @@ resources:
   - launching
   founder_stage:
   - launched
-  related:
-  - Ir
-  - LG
-  - 6i
-  - Lm
-  - N6
-  lines: 139
+  related: []
+  youtube_id: f0tPjcgcwnQ
+  lines: 12
 - code: J1
   file: J1-inside-the-group-partner-lounge-investors-said-no-now-what.md
   title: 'Inside the Group Partner Lounge: Investors said no, now what?'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/J1-inside-the-group-partner-lounge-investors-said-no-now-what
   topics:
@@ -4012,17 +3126,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - '65'
-  - '71'
-  - '63'
-  - 6Y
-  - 7I
-  lines: 117
+  related: []
+  youtube_id: euZH0tVotPQ
+  lines: 12
 - code: J2
   file: J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes.md
   title: 'Inside the Group Partner Lounge: Don''t make these hiring mistakes'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes
   topics:
@@ -4030,17 +3140,13 @@ resources:
   - mistakes
   founder_stage:
   - all
-  related:
-  - '66'
-  - 8t
-  - Jh
-  - Jl
-  - 5l
-  lines: 124
+  related: []
+  youtube_id: CUZ6PKJZvXE
+  lines: 13
 - code: J3
   file: J3-inside-the-group-partner-lounge-turning-users-into-paid-customers.md
   title: 'Inside the Group Partner Lounge: Turning users into paid customers'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/J3-inside-the-group-partner-lounge-turning-users-into-paid-customers
   topics:
@@ -4051,17 +3157,13 @@ resources:
   - users
   founder_stage:
   - launched
-  related:
-  - '67'
-  - Ip
-  - JE
-  - Mo
-  - LZ
-  lines: 64
+  related: []
+  youtube_id: 9pQJXR0Tcos
+  lines: 12
 - code: J4
   file: J4-inside-the-group-partner-lounge-top-ways-startups-waste-money.md
   title: 'Inside the Group Partner Lounge: Top ways startups waste money'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/J4-inside-the-group-partner-lounge-top-ways-startups-waste-money
   topics:
@@ -4069,17 +3171,13 @@ resources:
   - fundraising
   founder_stage:
   - all
-  related:
-  - Je
-  - M9
-  - JM
-  - '71'
-  - 3Z
-  lines: 127
+  related: []
+  youtube_id: BtzUo6vL3Iw
+  lines: 12
 - code: J5
   file: J5-inside-the-group-partner-lounge-the-ideal-customer.md
   title: 'Inside the Group Partner Lounge: The ideal customer'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/J5-inside-the-group-partner-lounge-the-ideal-customer
   topics:
@@ -4089,30 +3187,22 @@ resources:
   - sales
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 121
+  related: []
+  youtube_id: Hwfu1zNwSWI
+  lines: 12
 - code: J6
   file: J6-inside-the-group-partner-lounge-advantages-of-a-first-time-founder.md
   title: 'Inside the Group Partner Lounge: Advantages of a first-time founder'
-  author: Brad Flora
+  author: Harj Taggar, Michael Seibel, Brad Flora
   type: video
   url: https://www.ycombinator.com/library/J6-inside-the-group-partner-lounge-advantages-of-a-first-time-founder
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 138
+  related: []
+  youtube_id: bp_kMA-eTsE
+  lines: 13
 - code: J7
   file: J7-garry-tan-s-tips-for-applying-to-yc.md
   title: Garry Tan's tips for applying to YC
@@ -4125,13 +3215,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - '84'
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  lines: 75
+  related: []
+  youtube_id: 4wbCVN1yLyA
+  lines: 12
 - code: J8
   file: J8-yc-application-tips-include-a-demo.md
   title: 'YC Application Tips: Include a demo'
@@ -4144,13 +3230,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 6O
-  - J9
-  - JA
-  - 4D
-  - 4i
-  lines: 96
+  related: []
+  youtube_id: cV-MwxhRTNI
+  lines: 11
 - code: J9
   file: J9-yc-application-tips-you-don-t-need-to-know-someone.md
   title: 'YC Application Tips: You don''t need to know someone'
@@ -4163,13 +3245,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 6O
-  - J8
-  - JA
-  - 4D
-  - 4i
-  lines: 59
+  related: []
+  youtube_id: 7j2eiMPqUcg
+  lines: 11
 - code: JA
   file: JA-yc-application-tips-when-to-apply.md
   title: 'YC Application Tips: When to apply'
@@ -4182,13 +3260,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 6O
-  - J8
-  - J9
-  - 4D
-  - 4i
-  lines: 21
+  related: []
+  youtube_id: UO0n7zpk1U8
+  lines: 11
 - code: JB
   file: JB-jessica-livingston-on-how-to-build-the-future.md
   title: Jessica Livingston on how to build the future
@@ -4199,13 +3273,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - Jv
-  - Lb
-  lines: 92
+  related: []
+  youtube_id: nFOC-cgIWaY
+  lines: 12
 - code: JD
   file: JD-founder-faq-how-did-you-meet-your-co-founder.md
   title: 'Founder FAQ: How did you meet your co-founder?'
@@ -4217,13 +3287,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 81
+  related: []
+  youtube_id: IyhLAbqDw0k
+  lines: 11
 - code: JE
   file: JE-founder-faq-how-did-you-get-your-first-customer.md
   title: 'Founder FAQ: How did you get your first customer?'
@@ -4235,13 +3301,9 @@ resources:
   - sales
   founder_stage:
   - launched
-  related:
-  - Ip
-  - Mo
-  - 4m
-  - LF
-  - 9h
-  lines: 141
+  related: []
+  youtube_id: NZp5j5hvn9I
+  lines: 12
 - code: JF
   file: JF-the-immigrant-journey-behind-a-silicon-valley-success-story.md
   title: The Immigrant Journey Behind A Silicon Valley Success Story
@@ -4252,13 +3314,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 114
+  related: []
+  youtube_id: PZqt2Y84gf0
+  lines: 12
 - code: JG
   file: JG-the-main-function-how-to-go-from-startup-dream-to-reality.md
   title: 'The Main Function: How to go from startup dream to reality'
@@ -4270,13 +3328,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - Jc
-  - Ju
-  - Jz
-  lines: 111
+  related: []
+  youtube_id: jNJQTIUyT9Y
+  lines: 16
 - code: JI
   file: JI-how-to-start-a-startup-before-the-startup.md
   title: 'How to Start a Startup: Before the startup'
@@ -4288,13 +3342,9 @@ resources:
   - mindset
   founder_stage:
   - pre-idea
-  related:
-  - 8y
-  - 4d
-  - 6A
-  - '93'
-  - D0
-  lines: 72
+  related: []
+  youtube_id: ii1jcLg-eIQ
+  lines: 12
 - code: JK
   file: JK-how-to-start-a-startup-building-products-users-love.md
   title: 'How to Start a Startup: Building products users love'
@@ -4309,17 +3359,13 @@ resources:
   founder_stage:
   - building
   - launched
-  related:
-  - 7q
-  - 4e
-  - '62'
-  - '67'
-  - 6f
-  lines: 72
+  related: []
+  youtube_id: sz_LgBAGYyo
+  lines: 12
 - code: JL
   file: JL-how-to-start-a-startup-getting-started-getting-press-and-doing-things-that-don-t-scale.md
   title: 'How to Start a Startup: Getting started, getting press, and doing things that don''t scale'
-  author: Stanley Tang
+  author: Stanley Tang, Walker Williams, Justin Kan
   type: video
   url: https://www.ycombinator.com/library/JL-how-to-start-a-startup-getting-started-getting-press-and-doing-things-that-don-t-scale
   topics:
@@ -4329,17 +3375,13 @@ resources:
   - scaling
   founder_stage:
   - scaling
-  related:
-  - '96'
-  - If
-  - Ig
-  - L8
-  - 5j
-  lines: 77
+  related: []
+  youtube_id: oQOC-qy-GDY
+  lines: 15
 - code: JM
   file: JM-how-to-start-a-startup-raising-money-and-succeeding-long-term.md
   title: 'How to Start a Startup: Raising money and succeeding long-term'
-  author: Jess Lee
+  author: Jess Lee, Aaron Harris, Ali Rowghani
   type: video
   url: https://www.ycombinator.com/library/JM-how-to-start-a-startup-raising-money-and-succeeding-long-term
   topics:
@@ -4349,17 +3391,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - '71'
-  - '63'
-  - 6Y
-  - 7I
-  - Il
-  lines: 94
+  related: []
+  youtube_id: 5ZXU84_sGXo
+  lines: 13
 - code: JN
   file: JN-how-to-start-a-startup-building-company-culture-part-i.md
   title: 'How to Start a Startup: Building company culture, Part I'
-  author: Brian Chesky
+  author: Brian Chesky, Alfred Lin
   type: video
   url: https://www.ycombinator.com/library/JN-how-to-start-a-startup-building-company-culture-part-i
   topics:
@@ -4367,17 +3405,13 @@ resources:
   - leadership
   founder_stage:
   - building
-  related:
-  - 6r
-  - JO
-  - 3k
-  - 5p
-  - Iw
-  lines: 74
+  related: []
+  youtube_id: RfWgVWGEuGE
+  lines: 12
 - code: JO
   file: JO-how-to-start-a-startup-building-company-culture-part-ii.md
   title: 'How to Start a Startup: Building company culture, Part II'
-  author: Ben Silberman
+  author: Ben Silberman, John Collison, Patrick Collison
   type: video
   url: https://www.ycombinator.com/library/JO-how-to-start-a-startup-building-company-culture-part-ii
   topics:
@@ -4385,13 +3419,9 @@ resources:
   - leadership
   founder_stage:
   - building
-  related:
-  - 6r
-  - JN
-  - 3k
-  - 5p
-  - Iw
-  lines: 74
+  related: []
+  youtube_id: H8Dl8rZ6qwE
+  lines: 12
 - code: JQ
   file: JQ-how-to-start-a-startup-talking-to-users.md
   title: 'How to Start a Startup: Talking to users'
@@ -4404,13 +3434,9 @@ resources:
   - users
   founder_stage:
   - launched
-  related:
-  - Iq
-  - '67'
-  - J3
-  - Ip
-  - JE
-  lines: 76
+  related: []
+  youtube_id: qAws7eXItMk
+  lines: 13
 - code: JR
   file: JR-how-to-start-a-startup-startup-mechanics.md
   title: 'How to Start a Startup: Startup mechanics'
@@ -4422,30 +3448,22 @@ resources:
   - legal
   founder_stage:
   - all
-  related:
-  - 7R
-  - Mq
-  - 6m
-  - 1k
-  - 1z
-  lines: 102
+  related: []
+  youtube_id: 2_IpVq6vKR0
+  lines: 14
 - code: JS
   file: JS-how-to-start-a-startup-diversity-and-inclusion-at-early-stage-startups.md
   title: 'How to Start a Startup: Diversity and inclusion at early stage startups'
-  author: Kat Ma
+  author: Kat Mañalac
   type: video
   url: https://www.ycombinator.com/library/JS-how-to-start-a-startup-diversity-and-inclusion-at-early-stage-startups
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 23
+  related: []
+  youtube_id: v8b_urti6iQ
+  lines: 13
 - code: JT
   file: JT-yc-s-group-partners-share-their-worst-investor-meetings.md
   title: YC's Group Partners share their worst investor meetings
@@ -4459,18 +3477,14 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - Jd
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  lines: 163
+  related: []
+  youtube_id: ljVan7CGBiE
+  lines: 20
 - code: JU
   file: JU-edith-elliott-co-founder-ceo-of-noora-health.md
   title: Edith Elliott, Co-Founder & CEO of Noora Health
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/JU-edith-elliott-co-founder-ceo-of-noora-health
   topics:
   - co-founders
@@ -4479,18 +3493,13 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - JY
-  - KC
-  - KH
-  - JX
-  - Ja
-  lines: 41
+  related: []
+  lines: 13
 - code: JV
   file: JV-paul-graham-co-founder-of-y-combinator-and-viaweb.md
   title: Paul Graham, Co-Founder of Y Combinator and Viaweb
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/JV-paul-graham-co-founder-of-y-combinator-and-viaweb
   topics:
   - accelerator
@@ -4500,18 +3509,13 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - Ke
-  - Kz
-  - L6
-  - J7
-  - '84'
-  lines: 41
+  related: []
+  lines: 13
 - code: JW
   file: JW-brian-chesky-co-founder-ceo-of-airbnb.md
   title: Brian Chesky, Co-Founder & CEO of Airbnb
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/JW-brian-chesky-co-founder-ceo-of-airbnb
   topics:
   - ai
@@ -4524,13 +3528,8 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - JW
-  - Jx
-  - JX
-  - Ja
-  - K3
-  lines: 42
+  related: []
+  lines: 14
 - code: JW
   file: JW-the-social-radars-brian-chesky-co-founder-ceo-of-airbnb.md
   title: Brian Chesky, Co-Founder & CEO of Airbnb
@@ -4548,18 +3547,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - JW
-  - Jx
-  - JX
-  - Ja
-  - K3
+  related: []
   lines: 42
 - code: JX
   file: JX-steve-huffman-co-founder-ceo-of-reddit.md
   title: Steve Huffman, Co-Founder & CEO of Reddit
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/JX-steve-huffman-co-founder-ceo-of-reddit
   topics:
   - case-study
@@ -4570,18 +3564,13 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - Ja
-  - K3
-  - JW
-  - JW
-  - Jx
-  lines: 40
+  related: []
+  lines: 12
 - code: JY
   file: JY-tracy-young-co-founder-ceo-of-plangrid.md
   title: Tracy Young, Co-Founder & CEO of PlanGrid
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/JY-tracy-young-co-founder-ceo-of-plangrid
   topics:
   - co-founders
@@ -4590,18 +3579,13 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - JU
-  - KC
-  - KH
-  - JX
-  - Ja
-  lines: 43
+  related: []
+  lines: 15
 - code: JZ
   file: JZ-garry-tan-president-and-ceo-of-y-combinator.md
   title: Garry Tan, President and CEO of Y Combinator
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/JZ-garry-tan-president-and-ceo-of-y-combinator
   topics:
   - accelerator
@@ -4611,18 +3595,13 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - Kh
-  - J7
-  - KQ
-  - '84'
-  - Iv
-  lines: 41
+  related: []
+  lines: 13
 - code: Ja
   file: Ja-tony-xu-co-founder-ceo-of-doordash.md
   title: Tony Xu, Co-Founder & CEO of Doordash
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/Ja-tony-xu-co-founder-ceo-of-doordash
   topics:
   - case-study
@@ -4633,52 +3612,37 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - JX
-  - K3
-  - JW
-  - JW
-  - Jx
-  lines: 41
+  related: []
+  lines: 13
 - code: Jb
   file: Jb-david-lieb-creator-of-google-photos.md
   title: David Lieb, Creator of Google Photos
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/Jb-david-lieb-creator-of-google-photos
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 41
+  related: []
+  lines: 13
 - code: Jc
   file: Jc-paul-buchheit-creator-of-gmail.md
   title: Paul Buchheit, Creator of Gmail
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/Jc-paul-buchheit-creator-of-gmail
   topics:
   - ai
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Ju
-  - Jz
-  lines: 41
+  related: []
+  lines: 13
 - code: Jd
   file: Jd-dalton-michael-why-investors-secretly-love-y-combinator.md
   title: 'Dalton & Michael: Why Investors (Secretly) Love Y Combinator'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Jd-dalton-michael-why-investors-secretly-love-y-combinator
   topics:
@@ -4688,13 +3652,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - JT
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  lines: 131
+  related: []
+  youtube_id: bgp5QZwuNQI
+  lines: 18
 - code: Je
   file: Je-garry-s-channel-stop-chasing-money-chase-wealth.md
   title: 'Garry''s Channel: Stop chasing money -- Chase wealth'
@@ -4706,13 +3666,9 @@ resources:
   - fundraising
   founder_stage:
   - all
-  related:
-  - J4
-  - M9
-  - JM
-  - '71'
-  - 3Z
-  lines: 74
+  related: []
+  youtube_id: 7Hdu4DlnLIk
+  lines: 11
 - code: Jf
   file: Jf-garry-s-channel-how-i-turned-300k-into-2-billion.md
   title: 'Garry''s Channel: How I turned $300k into $2 billion'
@@ -4723,13 +3679,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 73
+  related: []
+  youtube_id: x5YApjnTG10
+  lines: 13
 - code: Jg
   file: Jg-garry-s-channel-learn-earn-or-quit-my-job-career-advice.md
   title: 'Garry''s Channel: LEARN, EARN or QUIT | My job/career advice'
@@ -4740,13 +3692,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 93
+  related: []
+  youtube_id: eLelgy5zRv4
+  lines: 12
 - code: Jh
   file: Jh-garry-s-channel-my-200-million-startup-mistake.md
   title: 'Garry''s Channel: My $200 million startup mistake'
@@ -4758,13 +3706,9 @@ resources:
   - mistakes
   founder_stage:
   - all
-  related:
-  - '66'
-  - 8t
-  - J2
-  - Jl
-  - 5l
-  lines: 98
+  related: []
+  youtube_id: dtnG0ELjvcM
+  lines: 19
 - code: Ji
   file: Ji-garry-s-channel-billion-dollar-startup-ideas.md
   title: 'Garry''s Channel: Billion dollar startup ideas'
@@ -4776,13 +3720,9 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 78
+  related: []
+  youtube_id: 3YKNr-LiblI
+  lines: 16
 - code: Jj
   file: Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how.md
   title: 'Garry''s Channel: YOU can beat Google the way Amazon does. Here’s how.'
@@ -4793,13 +3733,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 94
+  related: []
+  youtube_id: 9Fq15k9QPv8
+  lines: 13
 - code: Jk
   file: Jk-garry-s-channel-coinbase-ceo-brian-armstrong-on-cryptocurrency-and-the-future-of-decentralization.md
   title: 'Garry''s Channel: Coinbase CEO Brian Armstrong on cryptocurrency and the future of decentralization'
@@ -4815,13 +3751,9 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - JX
-  - Ja
-  - K3
-  - JW
-  - JW
-  lines: 24
+  related: []
+  youtube_id: UpbGbKQsTjc
+  lines: 14
 - code: Jl
   file: Jl-garry-s-channel-6-skills-for-successful-startup-founders.md
   title: 'Garry''s Channel: 6 Skills for Successful Startup Founders'
@@ -4833,13 +3765,9 @@ resources:
   - mistakes
   founder_stage:
   - all
-  related:
-  - '66'
-  - 8t
-  - J2
-  - Jh
-  - 5l
-  lines: 21
+  related: []
+  youtube_id: WK_XwjhJl3k
+  lines: 11
 - code: Jm
   file: Jm-garry-s-channel-how-real-movements-start-then-change-the-world.md
   title: 'Garry''s Channel: How REAL movements start, then change the world'
@@ -4850,13 +3778,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 95
+  related: []
+  youtube_id: JbHip4tjEcg
+  lines: 12
 - code: Jn
   file: Jn-garry-s-channel-billion-dollar-startups-are-better-faster-or-cheaper.md
   title: 'Garry''s Channel: Billion dollar startups are better, faster, or cheaper'
@@ -4867,13 +3791,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 96
+  related: []
+  youtube_id: opkHJLVAM4A
+  lines: 15
 - code: Jo
   file: Jo-garry-s-channel-flexport-ceo-ryan-petersen-on-scaling-a-startup-from-zero-to-8b.md
   title: 'Garry''s Channel: Flexport CEO Ryan Petersen on scaling a startup from zero to $8B'
@@ -4885,13 +3805,9 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3k
-  - 5p
-  - Iw
-  - Jq
-  - Mu
-  lines: 92
+  related: []
+  youtube_id: lm3lfZza1ro
+  lines: 15
 - code: Jp
   file: Jp-garry-s-channel-figma-s-20b-10-year-overnight-success.md
   title: 'Garry''s Channel: Figma''s $20B, 10 year overnight success'
@@ -4902,13 +3818,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 94
+  related: []
+  youtube_id: Rb3QHKjOWqQ
+  lines: 17
 - code: Jq
   file: Jq-garry-s-channel-should-you-be-the-ceo.md
   title: 'Garry''s Channel: Should you be the CEO?'
@@ -4920,13 +3832,9 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3k
-  - 5p
-  - Iw
-  - Jo
-  - Mu
-  lines: 96
+  related: []
+  youtube_id: Xa6zsbXGQ5M
+  lines: 15
 - code: Jr
   file: Jr-garry-s-channel-how-to-design-everything-if-you-don-t-know-anything.md
   title: 'Garry''s Channel: How To DESIGN EVERYTHING if you don''t know ANYTHING'
@@ -4938,13 +3846,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7G
-  - 7H
-  - MG
-  - MK
-  - Mk
-  lines: 100
+  related: []
+  youtube_id: K3Ctc1UN0bQ
+  lines: 17
 - code: Js
   file: Js-garry-s-channel-3-steps-for-billion-dollar-startups-how-airbnb-doordash-succeeded.md
   title: 'Garry''s Channel: 3 steps for billion dollar startups (How Airbnb & DoorDash succeeded)'
@@ -4958,13 +3862,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - Iv
-  - JG
-  - JW
-  lines: 94
+  related: []
+  youtube_id: viNZK9P40kY
+  lines: 14
 - code: Jt
   file: Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas.md
   title: 'Garry''s Channel: Why now? The key to million dollar startup ideas'
@@ -4976,13 +3876,9 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 91
+  related: []
+  youtube_id: LioyyxLgfXQ
+  lines: 12
 - code: Ju
   file: Ju-garry-s-channel-an-interview-with-kai-stinchcombe-founder-of-true-link-financial.md
   title: 'Garry''s Channel: An interview with Kai Stinchcombe, founder of True Link Financial'
@@ -4994,13 +3890,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Jz
-  lines: 92
+  related: []
+  youtube_id: BRp0C4P8pEM
+  lines: 16
 - code: Jv
   file: Jv-building-a-better-mobile-app.md
   title: Building a better mobile app
@@ -5011,35 +3903,27 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Lb
-  lines: 136
+  related: []
+  youtube_id: 4N55fVuxxOg
+  lines: 33
 - code: Jw
   file: Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols.md
   title: 'Dalton & Michael: Why You Shouldn''t Copy Your Tech Idols'
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 145
+  related: []
+  youtube_id: 09mXPGVkfVA
+  lines: 20
 - code: Jx
   file: Jx-brian-chesky-co-founder-ceo-of-airbnb-part-ii.md
   title: Brian Chesky, Co-Founder & CEO of Airbnb (Part II)
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/Jx-brian-chesky-co-founder-ceo-of-airbnb-part-ii
   topics:
   - ai
@@ -5052,13 +3936,8 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - JW
-  - JW
-  - JX
-  - Ja
-  - K3
-  lines: 41
+  related: []
+  lines: 13
 - code: Jz
   file: Jz-founder-faq-40-ai-startup-founders-on-the-current-state-of-ai-tech.md
   title: 'Founder FAQ: 40 AI startup founders on the current state of AI tech'
@@ -5070,13 +3949,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 108
+  related: []
+  youtube_id: TNgjY5twBIg
+  lines: 13
 - code: K0
   file: K0-sam-altman-on-how-to-pick-which-startup-to-work-at.md
   title: Sam Altman on how to pick which startup to work at
@@ -5090,13 +3965,9 @@ resources:
   - tech-leaders
   founder_stage:
   - all
-  related:
-  - 5b
-  - 5n
-  - 8D
-  - 9t
-  - AQ
-  lines: 75
+  related: []
+  youtube_id: vLQRdv6OmJU
+  lines: 15
 - code: K1
   file: K1-different-startup-stages-and-what-they-mean-for-you.md
   title: Different startup stages and what they mean for you
@@ -5107,35 +3978,27 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 89
+  related: []
+  youtube_id: _7bnpjJB9T0
+  lines: 15
 - code: K2
   file: K2-backstory-surbhi-sarna.md
   title: 'Backstory: Surbhi Sarna'
-  author: Boston Scientific
+  author: Y Combinator
   type: video
   url: https://www.ycombinator.com/library/K2-backstory-surbhi-sarna
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 144
+  related: []
+  youtube_id: R2fAYn8R318
+  lines: 19
 - code: K3
   file: K3-brian-armstrong-co-founder-and-ceo-of-coinbase.md
   title: Brian Armstrong, Co-Founder and CEO of Coinbase
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/K3-brian-armstrong-co-founder-and-ceo-of-coinbase
   topics:
   - case-study
@@ -5146,13 +4009,8 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - JX
-  - Ja
-  - JW
-  - JW
-  - Jx
-  lines: 41
+  related: []
+  lines: 13
 - code: K5
   file: K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done.md
   title: YC’s Group Partners share productivity tips and advice on actually getting things done
@@ -5166,13 +4024,9 @@ resources:
   - yc
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  - 8C
-  lines: 151
+  related: []
+  youtube_id: nF_YWdz6S0Y
+  lines: 18
 - code: K6
   file: K6-how-athelas-is-revolutionizing-healthcare.md
   title: How Athelas is revolutionizing healthcare
@@ -5183,13 +4037,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 96
+  related: []
+  youtube_id: 9iSZ12osxHM
+  lines: 18
 - code: K7
   file: K7-why-yc-we-asked-50-founders-why-they-applied-to-y-combinator.md
   title: Why YC? We asked 50 founders why they applied to Y Combinator
@@ -5201,17 +4051,13 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 116
+  related: []
+  youtube_id: HQjjgi6271k
+  lines: 13
 - code: KA
   file: KA-is-it-time-to-quit-your-job-at-a-unicorn.md
   title: Is it time to quit your job at a unicorn?
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/KA-is-it-time-to-quit-your-job-at-a-unicorn
   topics:
@@ -5219,18 +4065,14 @@ resources:
   - success
   founder_stage:
   - scaling
-  related:
-  - 8L
-  - 4q
-  - NA
-  - '96'
-  - If
-  lines: 147
+  related: []
+  youtube_id: chAoH_AeGAg
+  lines: 22
 - code: KC
   file: KC-dimitri-dadiomov-co-founder-ceo-of-modern-treasury.md
   title: Dimitri Dadiomov, Co-Founder & CEO of Modern Treasury
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/KC-dimitri-dadiomov-co-founder-ceo-of-modern-treasury
   topics:
   - co-founders
@@ -5239,13 +4081,8 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - JU
-  - JY
-  - KH
-  - JX
-  - Ja
-  lines: 41
+  related: []
+  lines: 13
 - code: KD
   file: KD-how-to-convert-more-visitors-into-customers.md
   title: How to convert more visitors into customers
@@ -5257,17 +4094,13 @@ resources:
   - sales
   founder_stage:
   - all
-  related:
-  - 9h
-  - IP
-  - Ia
-  - MH
-  - Ip
-  lines: 121
+  related: []
+  youtube_id: tJTxDqjO4vg
+  lines: 20
 - code: KF
   file: KF-how-to-not-get-screwed-over-as-a-software-engineer.md
   title: How To NOT Get Screwed Over As A Software Engineer
-  author: Michael Seibel
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/KF-how-to-not-get-screwed-over-as-a-software-engineer
   topics:
@@ -5275,13 +4108,9 @@ resources:
   - hiring
   founder_stage:
   - all
-  related:
-  - M7
-  - 4h
-  - 8u
-  - 4H
-  - 7N
-  lines: 153
+  related: []
+  youtube_id: fcfVjd_oV1I
+  lines: 20
 - code: KG
   file: KG-from-underdog-to-undefeated-the-edrizio-de-la-cruz-founder-story.md
   title: 'From Underdog to Undefeated: The Edrizio De La Cruz founder story'
@@ -5292,18 +4121,14 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 94
+  related: []
+  youtube_id: FNKyL5Q-OVQ
+  lines: 15
 - code: KH
   file: KH-bill-clerico-co-founder-ceo-of-wepay.md
   title: Bill Clerico, Co-Founder & CEO of WePay
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/KH-bill-clerico-co-founder-ceo-of-wepay
   topics:
   - co-founders
@@ -5312,13 +4137,8 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - JU
-  - JY
-  - KC
-  - JX
-  - Ja
-  lines: 41
+  related: []
+  lines: 13
 - code: KJ
   file: KJ-the-10-year-overnight-success-story-of-casetext.md
   title: The 10-Year “Overnight” Success Story of Casetext
@@ -5329,13 +4149,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 111
+  related: []
+  youtube_id: qFBUd0b8TjY
+  lines: 22
 - code: KK
   file: KK-how-psychedelics-will-change-society-for-the-better.md
   title: How psychedelics will change society for the better
@@ -5347,18 +4163,28 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 93
+  related: []
+  youtube_id: Tzw6MsmJNAU
+  lines: 14
+- code: KL
+  file: KL-33-ai-startup-founders-debate-the-creation-of-artificial-general-intelligence.md
+  title: 33 AI Startup Founders Debate the Creation of Artificial General Intelligence
+  author: Y Combinator
+  type: video
+  url: https://www.ycombinator.com/library/KL-33-ai-startup-founders-debate-the-creation-of-artificial-general-intelligence
+  topics:
+  - ai
+  - technology
+  founder_stage:
+  - all
+  related: []
+  youtube_id: nsM558l60_c
+  lines: 17
 - code: KM
   file: KM-emmett-shear-co-founder-of-twitch.md
   title: Emmett Shear, Co-Founder of Twitch
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/KM-emmett-shear-co-founder-of-twitch
   topics:
   - case-study
@@ -5367,17 +4193,12 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - Kx
-  - JX
-  - Ja
-  - K3
-  - 3i
-  lines: 41
+  related: []
+  lines: 13
 - code: KO
   file: KO-does-your-tech-startup-really-need-a-technical-co-founder-yes.md
   title: Does your tech startup really need a technical co-founder? Yes.
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/KO-does-your-tech-startup-really-need-a-technical-co-founder-yes
   topics:
@@ -5385,13 +4206,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 136
+  related: []
+  youtube_id: ZpKu2wvquWg
+  lines: 23
 - code: KP
   file: KP-five-devtool-startups-get-their-websites-reviewed.md
   title: Five DevTool Startups Get Their Websites Reviewed
@@ -5402,13 +4219,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 130
+  related: []
+  youtube_id: CYdsh1FhpI4
+  lines: 16
 - code: KQ
   file: KQ-garry-tan-speaks-at-stanford-s-entrepreneurial-thought-leaders-etl-lecture-series.md
   title: Garry Tan speaks at Stanford's Entrepreneurial Thought Leaders (ETL) lecture series
@@ -5421,13 +4234,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - JZ
-  - Kh
-  - J7
-  - '84'
-  - 3j
-  lines: 22
+  related: []
+  youtube_id: Y4yMc99fpfY
+  lines: 12
 - code: KR
   file: KR-key-startup-metrics.md
   title: Key Startup Metrics
@@ -5439,17 +4248,13 @@ resources:
   - metrics
   founder_stage:
   - all
-  related:
-  - 6l
-  - 9i
-  - KS
-  - KT
-  - LV
-  lines: 153
+  related: []
+  youtube_id: _mKeVGSqQac
+  lines: 13
 - code: KS
   file: KS-the-asymmetric-upside-of-being-positive.md
   title: The asymmetric upside of being positive
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/KS-the-asymmetric-upside-of-being-positive
   topics:
@@ -5457,13 +4262,9 @@ resources:
   - metrics
   founder_stage:
   - all
-  related:
-  - 6l
-  - 9i
-  - KR
-  - KT
-  - LV
-  lines: 171
+  related: []
+  youtube_id: vhXdUXmmhb4
+  lines: 22
 - code: KT
   file: KT-consumer-startup-metrics.md
   title: Consumer Startup Metrics
@@ -5475,17 +4276,13 @@ resources:
   - metrics
   founder_stage:
   - all
-  related:
-  - 6l
-  - 9i
-  - KR
-  - KS
-  - LV
-  lines: 154
+  related: []
+  youtube_id: fdD4y4Civp4
+  lines: 19
 - code: KV
   file: KV-do-technical-founders-need-a-business-co-founder.md
   title: Do technical founders need a business co-founder?
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/KV-do-technical-founders-need-a-business-co-founder
   topics:
@@ -5493,13 +4290,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 142
+  related: []
+  youtube_id: 43RhhwpiSk0
+  lines: 22
 - code: KY
   file: KY-backstory-tom-blomfield.md
   title: 'Backstory: Tom Blomfield'
@@ -5510,17 +4303,13 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 120
+  related: []
+  youtube_id: QKPgBAnbc10
+  lines: 19
 - code: KZ
   file: KZ-should-your-startup-bootstrap-or-raise-venture-capital.md
   title: Should your startup bootstrap or raise venture capital?
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/KZ-should-your-startup-bootstrap-or-raise-venture-capital
   topics:
@@ -5528,13 +4317,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 164
+  related: []
+  youtube_id: D81y-kh11oI
+  lines: 18
 - code: Kb
   file: Kb-the-truth-about-building-ai-startups-today-lightcone-podcast-ep-1.md
   title: The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
@@ -5546,30 +4331,22 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - 9M
-  - Kl
-  - Lq
-  - Mf
-  - Mg
-  lines: 195
+  related: []
+  youtube_id: TwDJhUJL-5o
+  lines: 13
 - code: Kc
   file: Kc-stop-innovating-on-the-wrong-things.md
   title: Stop Innovating (On The Wrong Things)
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Kc-stop-innovating-on-the-wrong-things
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 143
+  related: []
+  youtube_id: FNwu440UxhU
+  lines: 22
 - code: Kd
   file: Kd-apple-vision-pro-startup-platform-of-the-future-lightcone-podcast-ep-2.md
   title: 'Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]'
@@ -5580,13 +4357,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 94
+  related: []
+  youtube_id: a_n4yOqlWbA
+  lines: 12
 - code: Ke
   file: Ke-the-secrets-of-y-combinator-s-early-success-with-yc-co-founder-jessica-livingston.md
   title: The Secrets of Y Combinator’s Early Success (with YC Co-Founder Jessica Livingston)
@@ -5600,17 +4373,13 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - Kz
-  - L6
-  - JV
-  - 3i
-  - 4D
-  lines: 24
+  related: []
+  youtube_id: YV2YE0XvhOs
+  lines: 12
 - code: Kg
   file: Kg-building-confidence-in-yourself-and-your-ideas.md
   title: Building Confidence In Yourself and Your Ideas
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Kg-building-confidence-in-yourself-and-your-ideas
   topics:
@@ -5619,13 +4388,9 @@ resources:
   founder_stage:
   - building
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 95
+  related: []
+  youtube_id: al-15mMAS18
+  lines: 25
 - code: Kh
   file: Kh-day-in-the-life-of-y-combinator-president-ceo-garry-tan-during-the-first-week-of-the-batch.md
   title: Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch
@@ -5640,13 +4405,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - JZ
-  - J7
-  - KQ
-  - '84'
-  - Iv
-  lines: 90
+  related: []
+  youtube_id: GctjcD17iI4
+  lines: 12
 - code: Kj
   file: Kj-where-is-the-real-cerebral-valley-lightcone-podcast-ep-3.md
   title: Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
@@ -5657,17 +4418,13 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 96
+  related: []
+  youtube_id: wA0qC9D4LA0
+  lines: 12
 - code: Kk
   file: Kk-why-founders-shouldn-t-think-like-investors.md
   title: Why Founders Shouldn't Think Like Investors
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Kk-why-founders-shouldn-t-think-like-investors
   topics:
@@ -5675,13 +4432,9 @@ resources:
   - investors
   founder_stage:
   - all
-  related:
-  - '98'
-  - DX
-  - IT
-  - '65'
-  - J1
-  lines: 165
+  related: []
+  youtube_id: SMi3JO-hsyY
+  lines: 23
 - code: Kl
   file: Kl-building-ai-models-faster-and-cheaper-than-you-think-lightcone-podcast-ep-4.md
   title: Building AI Models Faster And Cheaper Than You Think  [Lightcone Podcast Ep. 4]
@@ -5693,13 +4446,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - 9M
-  - Kb
-  - Lq
-  - Mf
-  - Mg
-  lines: 147
+  related: []
+  youtube_id: fmI_OciHV_8
+  lines: 16
 - code: Km
   file: Km-how-to-survive-the-crypto-boom-bust-cycle.md
   title: How to Survive the Crypto Boom & Bust Cycle
@@ -5713,13 +4462,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 122
+  related: []
+  youtube_id: 8-Zrhz1QKGo
+  lines: 18
 - code: Kq
   file: Kq-inside-the-hard-tech-startups-turning-sci-fi-into-reality-lightcone-podcast-ep-5.md
   title: Inside The Hard Tech Startups Turning Sci-Fi Into Reality [Lightcone Podcast Ep. 5]
@@ -5731,35 +4476,27 @@ resources:
   - hardware
   founder_stage:
   - all
-  related:
-  - 8G
-  - 4r
-  - 4L
-  - '47'
-  - 1k
-  lines: 102
+  related: []
+  youtube_id: erDE2e69dlc
+  lines: 20
 - code: Kw
   file: Kw-when-should-you-trust-your-gut.md
   title: When Should You Trust Your Gut?
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/Kw-when-should-you-trust-your-gut
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 153
+  related: []
+  youtube_id: 2ViqdR5E2wU
+  lines: 23
 - code: Kx
   file: Kx-patrick-john-collison-co-founders-of-stripe.md
   title: Patrick & John Collison, Co-Founders of Stripe
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/Kx-patrick-john-collison-co-founders-of-stripe
   topics:
   - case-study
@@ -5768,35 +4505,25 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - KM
-  - JX
-  - Ja
-  - K3
-  - 3i
-  lines: 40
+  related: []
+  lines: 12
 - code: Ky
   file: Ky-parker-conrad-founder-of-zenefits-rippling.md
   title: Parker Conrad, Founder of Zenefits & Rippling
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/Ky-parker-conrad-founder-of-zenefits-rippling
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 41
+  related: []
+  lines: 13
 - code: Kz
   file: Kz-trevor-blackwell-co-founder-y-combinator-founder-anybots.md
   title: Trevor Blackwell, Co-founder Y Combinator; Founder, Anybots
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/Kz-trevor-blackwell-co-founder-y-combinator-founder-anybots
   topics:
   - accelerator
@@ -5805,49 +4532,34 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - Ke
-  - L6
-  - JV
-  - 3i
-  - 4D
-  lines: 41
+  related: []
+  lines: 13
 - code: L0
   file: L0-adora-cheung-co-founder-of-homejoy-instalab.md
   title: Adora Cheung, Co-founder of Homejoy & Instalab
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/L0-adora-cheung-co-founder-of-homejoy-instalab
   topics:
   - co-founders
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 42
+  related: []
+  lines: 14
 - code: L1
   file: L1-yuri-sagalov-co-founder-of-aerofs.md
   title: Yuri Sagalov, Co-Founder of AeroFS
-  author: The Social
-  type: podcast
+  author: The Social Radars
+  type: essay
   url: https://www.ycombinator.com/library/L1-yuri-sagalov-co-founder-of-aerofs
   topics:
   - co-founders
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 40
+  related: []
+  lines: 12
 - code: L2
   file: L2-consumer-is-back-what-s-getting-funded-now-the-vibes-immaculate-lightcone-podcast-ep-6.md
   title: Consumer is back, What’s getting funded now, The vibes immaculate [Lightcone Podcast Ep. 6]
@@ -5858,13 +4570,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 69
+  related: []
+  youtube_id: e1Yhs9BEOSw
+  lines: 15
 - code: L3
   file: L3-does-your-startup-website-pass-the-first-impression-test.md
   title: Does Your Startup Website Pass The First Impression Test?
@@ -5876,13 +4584,9 @@ resources:
   - marketing
   founder_stage:
   - all
-  related:
-  - 4c
-  - JL
-  - 1k
-  - 1z
-  - 2s
-  lines: 140
+  related: []
+  youtube_id: pqwOL6YfRIo
+  lines: 14
 - code: L5
   file: L5-why-this-is-the-perfect-time-to-start-a-startup-lightcone-podcast-live.md
   title: Why This Is The Perfect Time To Start A Startup [Lightcone Podcast LIVE]
@@ -5893,13 +4597,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 117
+  related: []
+  youtube_id: 0TNTlMZFTWw
+  lines: 12
 - code: L6
   file: L6-the-untold-stories-of-y-combinator-with-co-founder-jessica-livingston.md
   title: The Untold Stories of Y Combinator with Co-Founder Jessica Livingston
@@ -5913,30 +4613,22 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - Ke
-  - Kz
-  - JV
-  - 3i
-  - 4D
-  lines: 89
+  related: []
+  youtube_id: oYFjKml9ptk
+  lines: 12
 - code: L7
   file: L7-how-new-technology-creates-new-businesses.md
   title: How New Technology Creates New Businesses
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/L7-how-new-technology-creates-new-businesses
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 143
+  related: []
+  youtube_id: KxjPgGLVJSg
+  lines: 23
 - code: L8
   file: L8-yc-s-group-partners-discuss-doing-things-that-don-t-scale.md
   title: YC's Group Partners Discuss Doing Things That Don't Scale
@@ -5950,13 +4642,9 @@ resources:
   - yc
   founder_stage:
   - scaling
-  related:
-  - '96'
-  - If
-  - Ig
-  - JL
-  - 5j
-  lines: 149
+  related: []
+  youtube_id: IjPDIjge81o
+  lines: 18
 - code: L9
   file: L9-better-ai-models-better-startups-lightcone-podcast-ep-7.md
   title: Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
@@ -5968,13 +4656,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 148
+  related: []
+  youtube_id: 4aMQPG9gPoM
+  lines: 14
 - code: LA
   file: LA-standing-up-for-startups-yc-goes-to-d-c.md
   title: Standing Up For Startups - YC Goes To D.C.
@@ -5986,30 +4670,36 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 106
+  related: []
+  youtube_id: 6WtdFqgsEY0
+  lines: 18
 - code: LC
   file: LC-what-is-zirp-and-how-did-it-poison-startups.md
   title: What Is ZIRP And How Did It Poison Startups?
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/LC-what-is-zirp-and-how-did-it-poison-startups
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 164
+  related: []
+  youtube_id: iMo5-4h_XwE
+  lines: 28
+- code: LD
+  file: LD-10-people-ai-billion-dollar-company.md
+  title: 10 People + AI = Billion Dollar Company?
+  author: Y Combinator
+  type: video
+  url: https://www.ycombinator.com/library/LD-10-people-ai-billion-dollar-company
+  topics:
+  - ai
+  - technology
+  founder_stage:
+  - all
+  related: []
+  youtube_id: CKvo_kQbakU
+  lines: 13
 - code: LF
   file: LF-enterprise-sales-for-founders.md
   title: Enterprise Sales for Founders
@@ -6022,13 +4712,9 @@ resources:
   - sales
   founder_stage:
   - launched
-  related:
-  - 4m
-  - Ip
-  - JE
-  - Mo
-  - '70'
-  lines: 135
+  related: []
+  youtube_id: 0fKYVl12VTA
+  lines: 13
 - code: LG
   file: LG-why-startup-founders-should-launch-companies-sooner-than-they-think.md
   title: Why Startup Founders Should Launch Companies Sooner Than They Think
@@ -6040,17 +4726,13 @@ resources:
   - launching
   founder_stage:
   - launched
-  related:
-  - Ir
-  - J0
-  - 6i
-  - Lm
-  - N6
-  lines: 115
+  related: []
+  youtube_id: Nsx5RDVKZSk
+  lines: 14
 - code: LH
   file: LH-tarpit-ideas-the-sequel.md
   title: 'Tarpit Ideas: The Sequel'
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/LH-tarpit-ideas-the-sequel
   topics:
@@ -6058,13 +4740,9 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 143
+  related: []
+  youtube_id: GU9iT7MW0rs
+  lines: 13
 - code: LI
   file: LI-how-to-price-for-b2b.md
   title: How To Price For B2B
@@ -6075,30 +4753,22 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 131
+  related: []
+  youtube_id: 4hjiRmgmHiU
+  lines: 13
 - code: LM
   file: LM-the-problem-with-startup-experts.md
   title: The Problem With Startup "Experts"
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/LM-the-problem-with-startup-experts
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 143
+  related: []
+  youtube_id: ClWQCm2h9iI
+  lines: 13
 - code: LN
   file: LN-gmail-creator-paul-buchheit-on-agi-open-source-models-freedom.md
   title: Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
@@ -6110,13 +4780,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 148
+  related: []
+  youtube_id: LSUviaN1eso
+  lines: 14
 - code: LO
   file: LO-how-nothing-founder-carl-pei-built-a-multi-million-dollar-smartphone-brand-in-just-2-years.md
   title: How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
@@ -6127,13 +4793,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 74
+  related: []
+  youtube_id: uZVyBc1CKN0
+  lines: 16
 - code: LP
   file: LP-co-founder-equity-mistakes-to-avoid.md
   title: Co-Founder Equity Mistakes to Avoid
@@ -6149,30 +4811,22 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 5x
-  - 9j
-  - DZ
-  - 8u
-  - 6m
-  lines: 50
+  related: []
+  youtube_id: DISocTmEwiI
+  lines: 14
 - code: LQ
   file: LQ-how-to-influence-decision-makers.md
   title: How To Influence Decision Makers
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/LQ-how-to-influence-decision-makers
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 137
+  related: []
+  youtube_id: 8PB0l7x73rM
+  lines: 13
 - code: LR
   file: LR-are-we-in-an-ai-hype-cycle.md
   title: Are We In An AI Hype Cycle?
@@ -6186,30 +4840,22 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - Iv
-  - DY
-  - 4D
-  - 4i
-  - 5w
-  lines: 96
+  related: []
+  youtube_id: _-5xJQ4U8g0
+  lines: 12
 - code: LU
   file: LU-how-to-live-in-the-social-media-matrix.md
   title: How To Live In The Social Media Matrix
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/LU-how-to-live-in-the-social-media-matrix
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 137
+  related: []
+  youtube_id: RMW_33zyTK4
+  lines: 14
 - code: LV
   file: LV-how-to-improve-cohort-retention.md
   title: How To Improve Cohort Retention
@@ -6221,13 +4867,9 @@ resources:
   - metrics
   founder_stage:
   - all
-  related:
-  - 6l
-  - 9i
-  - KR
-  - KS
-  - KT
-  lines: 118
+  related: []
+  youtube_id: VNxBZ7ka5J0
+  lines: 15
 - code: LX
   file: LX-how-yc-was-created-with-jessica-livingston.md
   title: How YC Was Created With Jessica Livingston
@@ -6239,13 +4881,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 95
+  related: []
+  youtube_id: 6u4JVz7iQTY
+  lines: 13
 - code: LZ
   file: LZ-how-to-convert-customers-with-cold-emails.md
   title: How To Convert Customers With Cold Emails
@@ -6259,30 +4897,22 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - MB
-  - 6a
-  - 9h
-  - IP
-  - Ia
-  lines: 52
+  related: []
+  youtube_id: 7Kh_fpxP1yY
+  lines: 14
 - code: La
   file: La-signs-your-company-is-recovering-from-zirp.md
   title: Signs Your Company Is Recovering From ZIRP
-  author: Dalton Caldwell
+  author: Dalton Caldwell, Michael Seibel
   type: video
   url: https://www.ycombinator.com/library/La-signs-your-company-is-recovering-from-zirp
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 136
+  related: []
+  youtube_id: kVGvC7Ix_nc
+  lines: 16
 - code: Lb
   file: Lb-building-the-world-s-best-image-diffusion-model.md
   title: Building The World's Best Image Diffusion Model
@@ -6293,13 +4923,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 160
+  related: []
+  youtube_id: VyIOoqjm8HA
+  lines: 14
 - code: Ld
   file: Ld-how-to-find-a-co-founder.md
   title: How To Find A Co-Founder
@@ -6311,13 +4937,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 104
+  related: []
+  youtube_id: Fk9BCr5pLTU
+  lines: 14
 - code: Lf
   file: Lf-stripe-head-of-design-katie-dill-reviews-startup-websites.md
   title: Stripe Head of Design Katie Dill Reviews Startup Websites
@@ -6331,13 +4953,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - Lj
-  - 7y
-  - 7G
-  - 7H
-  - Jr
-  lines: 146
+  related: []
+  youtube_id: DY5Z-uZ6ZMc
+  lines: 17
 - code: Lg
   file: Lg-why-vertical-llm-agents-are-the-new-1-billion-saas-opportunities.md
   title: Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
@@ -6349,13 +4967,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 144
+  related: []
+  youtube_id: eBVi_sLaYsc
+  lines: 14
 - code: Li
   file: Li-how-do-billion-dollar-startups-start.md
   title: How Do Billion Dollar Startups Start?
@@ -6366,13 +4980,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 113
+  related: []
+  youtube_id: HB3l1BPi7zo
+  lines: 14
 - code: Lj
   file: Lj-why-design-matters-lessons-from-stripe-lyft-and-airbnb.md
   title: 'Why Design Matters: Lessons from Stripe, Lyft and Airbnb'
@@ -6388,13 +4998,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - Ix
-  - Lf
-  - MD
-  - Mn
-  - Mp
-  lines: 137
+  related: []
+  youtube_id: CKfERe55CeA
+  lines: 14
 - code: Lk
   file: Lk-starting-a-company-the-key-terms-you-should-know.md
   title: Starting A Company? The Key Terms You Should Know
@@ -6405,13 +5011,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 118
+  related: []
+  youtube_id: wH3TKpALlw4
+  lines: 13
 - code: Ll
   file: Ll-why-openai-s-o1-is-a-huge-deal.md
   title: Why OpenAI's o1 Is A Huge Deal
@@ -6423,17 +5025,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 110
+  related: []
+  youtube_id: Lv9bKyQgoHo
+  lines: 15
 - code: Lm
   file: Lm-you-don-t-have-to-be-a-billionaire-to-launch-satellites.md
   title: You Don’t Have To Be A Billionaire To Launch Satellites
-  author: Jared Friedman
+  author: Jared Friedman, Diana Hu
   type: video
   url: https://www.ycombinator.com/library/Lm-you-don-t-have-to-be-a-billionaire-to-launch-satellites
   topics:
@@ -6443,13 +5041,9 @@ resources:
   - technology
   founder_stage:
   - launched
-  related:
-  - 6i
-  - N6
-  - Ir
-  - J0
-  - LG
-  lines: 129
+  related: []
+  youtube_id: Q0Xs0lGgwVA
+  lines: 17
 - code: Ln
   file: Ln-the-10-trillion-parameter-ai-model-with-300-iq.md
   title: The 10 Trillion Parameter AI Model With 300 IQ
@@ -6461,13 +5055,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 142
+  related: []
+  youtube_id: lbJilIQhHko
+  lines: 14
 - code: Lp
   file: Lp-how-to-build-the-future-sam-altman.md
   title: 'How To Build The Future: Sam Altman'
@@ -6479,13 +5069,9 @@ resources:
   - tech-leaders
   founder_stage:
   - building
-  related:
-  - 5s
-  - 6W
-  - 8D
-  - IW
-  - MX
-  lines: 133
+  related: []
+  youtube_id: xXCBz_8hM9w
+  lines: 17
 - code: Lq
   file: Lq-now-anyone-can-code-how-ai-agents-can-build-your-whole-app.md
   title: 'Now Anyone Can Code: How AI Agents Can Build Your Whole App'
@@ -6497,13 +5083,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - 9M
-  - Kb
-  - Kl
-  - Mf
-  - Mg
-  lines: 96
+  related: []
+  youtube_id: jbIQfoldLag
+  lines: 14
 - code: Lr
   file: Lr-why-the-next-ai-breakthroughs-will-be-in-reasoning-not-scaling.md
   title: Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
@@ -6515,17 +5097,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 98
+  related: []
+  youtube_id: JiwiqYGw4iU
+  lines: 14
 - code: Ls
   file: Ls-twitter-vs-x-product-lessons-for-startup-founders.md
   title: 'Twitter vs. X: Product Lessons For Startup Founders'
-  author: Tom Blomfield
+  author: Tom Blomfield, David Lieb
   type: video
   url: https://www.ycombinator.com/library/Ls-twitter-vs-x-product-lessons-for-startup-founders
   topics:
@@ -6533,13 +5111,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 4e
-  - '62'
-  - 6f
-  - 7s
-  - 8C
-  lines: 116
+  related: []
+  youtube_id: EW9TUqOgjmQ
+  lines: 17
 - code: Lt
   file: Lt-vertical-ai-agents-could-be-10x-bigger-than-saas.md
   title: Vertical AI Agents Could Be 10X Bigger Than SaaS
@@ -6551,13 +5125,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 98
+  related: []
+  youtube_id: ASABxNenD_U
+  lines: 14
 - code: Lu
   file: Lu-how-to-start-a-dev-tools-company.md
   title: How To Start A Dev Tools Company
@@ -6569,13 +5139,9 @@ resources:
   - dev-tools
   founder_stage:
   - all
-  related:
-  - MB
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  lines: 154
+  related: []
+  youtube_id: z1aKRhRnVNk
+  lines: 16
 - code: Lw
   file: Lw-anthropic-s-claude-computer-use-is-a-game-changer.md
   title: Anthropic’s Claude Computer Use Is A Game Changer
@@ -6586,13 +5152,22 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 91
+  related: []
+  youtube_id: VDmU0jjklBo
+  lines: 13
+- code: Lx
+  file: Lx-2024-s-biggest-startup-trends.md
+  title: 2024’s Biggest Startup Trends
+  author: Y Combinator
+  type: video
+  url: https://www.ycombinator.com/library/Lx-2024-s-biggest-startup-trends
+  topics:
+  - general
+  founder_stage:
+  - all
+  related: []
+  youtube_id: z0wt2pe_LZM
+  lines: 14
 - code: Ly
   file: Ly-how-david-lieb-turned-a-failing-startup-into-google-photos.md
   title: How David Lieb Turned a Failing Startup Into Google Photos
@@ -6606,13 +5181,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 5l
-  - 9u
-  - Ie
-  - DY
-  - '66'
-  lines: 141
+  related: []
+  youtube_id: CcnwFJqEnxU
+  lines: 15
 - code: M0
   file: M0-the-lightcone-2025-forecast.md
   title: The Lightcone 2025 Forecast
@@ -6623,13 +5194,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 42
+  related: []
+  youtube_id: uGjv25IrjoE
+  lines: 12
 - code: M1
   file: M1-building-a-2-billion-saas-company-lessons-from-a-two-time-founder.md
   title: 'Building A $2 Billion SaaS Company: Lessons From A Two Time Founder'
@@ -6640,13 +5207,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 136
+  related: []
+  youtube_id: rjyJsbUunQ4
+  lines: 20
 - code: M2
   file: M2-how-to-build-the-future-parker-conrad.md
   title: 'How To Build The Future: Parker Conrad'
@@ -6657,13 +5220,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 157
+  related: []
+  youtube_id: FwD0wqwUjAI
+  lines: 15
 - code: M3
   file: M3-how-to-use-ai-in-your-startup.md
   title: How To Use AI In Your Startup
@@ -6675,13 +5234,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 125
+  related: []
+  youtube_id: 7Kt9ugD3bGQ
+  lines: 15
 - code: M4
   file: M4-how-scaling-laws-will-determine-ai-s-future.md
   title: How Scaling Laws Will Determine AI's Future
@@ -6693,13 +5248,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 136
+  related: []
+  youtube_id: d6Ed5bZAtrM
+  lines: 18
 - code: M5
   file: M5-ai-revolution-why-this-is-the-best-time-to-start-a-startup.md
   title: 'AI Revolution: Why This Is The Best Time To Start A Startup'
@@ -6711,13 +5262,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 162
+  related: []
+  youtube_id: 0LMK5JYkB94
+  lines: 18
 - code: M6
   file: M6-how-to-build-the-agi-future-bob-mcgrew.md
   title: 'How To Build The AGI Future: Bob McGrew'
@@ -6728,13 +5275,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 131
+  related: []
+  youtube_id: eW7rUtYHD9U
+  lines: 15
 - code: M7
   file: M7-the-engineering-unlocks-behind-deepseek-yc-decoded.md
   title: The Engineering Unlocks Behind DeepSeek | YC Decoded
@@ -6748,13 +5291,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 107
+  related: []
+  youtube_id: 4Tmn-XP93m4
+  lines: 16
 - code: M8
   file: M8-how-to-get-ai-startup-ideas.md
   title: How To Get AI Startup Ideas
@@ -6768,13 +5307,9 @@ resources:
   - technology
   founder_stage:
   - idea
-  related:
-  - MQ
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  lines: 133
+  related: []
+  youtube_id: TANaRNMbYgk
+  lines: 17
 - code: M9
   file: M9-the-right-and-wrong-way-to-spend-money-at-your-startup.md
   title: The Right (And Wrong) Way To Spend Money At Your Startup
@@ -6786,13 +5321,9 @@ resources:
   - fundraising
   founder_stage:
   - all
-  related:
-  - J4
-  - Je
-  - JM
-  - '71'
-  - 3Z
-  lines: 128
+  related: []
+  youtube_id: IRROi-Q1V44
+  lines: 15
 - code: MA
   file: MA-building-a-supersonic-plane-company-from-the-ground-up.md
   title: Building A Supersonic Plane Company From The Ground Up
@@ -6803,13 +5334,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 136
+  related: []
+  youtube_id: sOFmYwYa9Pk
+  lines: 18
 - code: MB
   file: MB-how-ai-is-changing-enterprise.md
   title: How AI Is Changing Enterprise
@@ -6823,13 +5350,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - LZ
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  lines: 146
+  related: []
+  youtube_id: aIKfA3gIXwo
+  lines: 12
 - code: MC
   file: MC-how-to-build-the-future-aravind-srinivas.md
   title: 'How To Build The Future: Aravind Srinivas'
@@ -6840,13 +5363,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 147
+  related: []
+  youtube_id: SP7Ua8FKZN4
+  lines: 15
 - code: MD
   file: MD-design-experts-critique-ai-interfaces.md
   title: Design Experts Critique AI Interfaces
@@ -6860,13 +5379,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - Ix
-  - Lj
-  - Mn
-  - Mp
-  - 7G
-  lines: 135
+  related: []
+  youtube_id: DBhSfROq3wU
+  lines: 17
 - code: ME
   file: ME-vibe-coding-is-the-future.md
   title: Vibe Coding Is The Future
@@ -6878,13 +5393,9 @@ resources:
   - development
   founder_stage:
   - all
-  related:
-  - MN
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  lines: 143
+  related: []
+  youtube_id: IACHfKmZMr8
+  lines: 13
 - code: MF
   file: MF-gpt-4-5-big-model-energy.md
   title: GPT-4.5 = Big Model Energy
@@ -6896,13 +5407,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 100
+  related: []
+  youtube_id: 5uBAQrg4SoQ
+  lines: 13
 - code: MG
   file: MG-the-future-of-design-with-figma-s-dylan-field.md
   title: The Future Of Design With Figma's Dylan Field
@@ -6914,13 +5421,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7G
-  - 7H
-  - Jr
-  - MK
-  - Mk
-  lines: 150
+  related: []
+  youtube_id: 4UE4e6b2qtA
+  lines: 12
 - code: MH
   file: MH-customer-obsession-made-gusto-a-9-6-billion-company.md
   title: Customer Obsession Made Gusto A $9.6 Billion Company
@@ -6932,13 +5435,9 @@ resources:
   - sales
   founder_stage:
   - all
-  related:
-  - 9h
-  - IP
-  - Ia
-  - KD
-  - Ip
-  lines: 131
+  related: []
+  youtube_id: VaQA55ZZWBU
+  lines: 14
 - code: MI
   file: MI-how-to-navigate-co-founder-disputes.md
   title: How To Navigate Co-Founder Disputes
@@ -6950,13 +5449,9 @@ resources:
   - team
   founder_stage:
   - all
-  related:
-  - 3i
-  - 8h
-  - Cn
-  - Cq
-  - Dw
-  lines: 127
+  related: []
+  youtube_id: bvjyaz4ZiVI
+  lines: 14
 - code: MJ
   file: MJ-how-to-build-the-future-tony-xu.md
   title: 'How To Build The Future: Tony Xu'
@@ -6967,13 +5462,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 156
+  related: []
+  youtube_id: 3N3TnaViyjk
+  lines: 17
 - code: MK
   file: MK-why-every-founder-should-care-about-design.md
   title: Why Every Founder Should Care About Design
@@ -6985,13 +5476,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7G
-  - 7H
-  - Jr
-  - MG
-  - Mk
-  lines: 110
+  related: []
+  youtube_id: ksGNfd-wQY4
+  lines: 13
 - code: ML
   file: ML-how-zepto-became-india-s-fastest-growing-startup.md
   title: How Zepto Became India’s Fastest Growing Startup
@@ -7002,13 +5489,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 137
+  related: []
+  youtube_id: aYK0H85E_oU
+  lines: 16
 - code: MM
   file: MM-the-next-breakthrough-in-ai-agents-is-here.md
   title: The Next Breakthrough In AI Agents Is Here
@@ -7020,13 +5503,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 138
+  related: []
+  youtube_id: JOYSDqJdiro
+  lines: 21
 - code: MN
   file: MN-how-to-get-the-most-out-of-vibe-coding.md
   title: How To Get The Most Out Of Vibe Coding
@@ -7038,13 +5517,9 @@ resources:
   - development
   founder_stage:
   - all
-  related:
-  - ME
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  lines: 143
+  related: []
+  youtube_id: BJjsfNO5JTo
+  lines: 20
 - code: MO
   file: MO-windsurf-ceo-betting-on-ai-agents-pivoting-in-48-hours-and-the-future-of-coding.md
   title: 'Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding'
@@ -7060,17 +5535,13 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - MU
-  - Mi
-  - JW
-  - JW
-  - Jx
-  lines: 182
+  related: []
+  youtube_id: LKgAx7FWva4
+  lines: 19
 - code: MP
   file: MP-how-ai-coding-agents-will-change-your-job.md
   title: How AI Coding Agents Will Change Your Job
-  author: Tom Blomfield
+  author: Tom Blomfield, David Lieb
   type: video
   url: https://www.ycombinator.com/library/MP-how-ai-coding-agents-will-change-your-job
   topics:
@@ -7078,13 +5549,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 142
+  related: []
+  youtube_id: TECDj4JUx7o
+  lines: 20
 - code: MQ
   file: MQ-startup-ideas-you-can-now-build-with-ai.md
   title: Startup Ideas You Can Now Build With AI
@@ -7099,17 +5566,13 @@ resources:
   founder_stage:
   - building
   - idea
-  related:
-  - M8
-  - Kg
-  - 6e
-  - 7x
-  - 8B
-  lines: 159
+  related: []
+  youtube_id: K4s6Cgicw_A
+  lines: 19
 - code: MR
   file: MR-ai-apps-are-broken-here-s-how-to-fix-them.md
   title: AI Apps Are Broken — Here's How To Fix Them
-  author: Tom Blomfield
+  author: Tom Blomfield, David Lieb, Pete Koomen
   type: video
   url: https://www.ycombinator.com/library/MR-ai-apps-are-broken-here-s-how-to-fix-them
   topics:
@@ -7117,13 +5580,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 143
+  related: []
+  youtube_id: WJoZK9sMwvw
+  lines: 20
 - code: MS
   file: MS-state-of-the-art-prompting-for-ai-agents.md
   title: State-Of-The-Art Prompting For AI Agents
@@ -7135,30 +5594,22 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 167
+  related: []
+  youtube_id: DL82mGde6wo
+  lines: 21
 - code: MT
   file: MT-fusion-energy-is-tech-s-next-big-unlock.md
   title: Fusion Energy Is Tech's Next Big Unlock
-  author: Gustaf Alstr
+  author: Gustaf Alströmer
   type: video
   url: https://www.ycombinator.com/library/MT-fusion-energy-is-tech-s-next-big-unlock
   topics:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 136
+  related: []
+  youtube_id: XdigD0LOXx0
+  lines: 18
 - code: MU
   file: MU-cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters.md
   title: 'Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters'
@@ -7172,13 +5623,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - Mi
-  - MO
-  - 3k
-  - 5p
-  - 6a
-  lines: 196
+  related: []
+  youtube_id: oOylEw3tPQ8
+  lines: 18
 - code: MV
   file: MV-alexandr-wang-building-scale-ai-transforming-work-with-agents-competing-with-china.md
   title: 'Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China'
@@ -7193,13 +5640,9 @@ resources:
   founder_stage:
   - building
   - scaling
-  related:
-  - 5j
-  - '96'
-  - 9M
-  - If
-  - Ig
-  lines: 147
+  related: []
+  youtube_id: 5noIKN8t69U
+  lines: 23
 - code: MW
   file: MW-andrej-karpathy-software-is-changing-again.md
   title: 'Andrej Karpathy: Software Is Changing (Again)'
@@ -7211,13 +5654,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 212
+  related: []
+  youtube_id: LCEmiRjPEtQ
+  lines: 25
 - code: MX
   file: MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful.md
   title: 'Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful'
@@ -7229,13 +5668,9 @@ resources:
   - tech-leaders
   founder_stage:
   - all
-  related:
-  - 8D
-  - IW
-  - 5s
-  - 6W
-  - Lp
-  lines: 154
+  related: []
+  youtube_id: cFIlta1GkiE
+  lines: 18
 - code: MY
   file: MY-sam-altman-the-future-of-openai-chatgpt-s-origins-and-building-ai-hardware.md
   title: 'Sam Altman: The Future of OpenAI, ChatGPT''s Origins, and Building AI Hardware'
@@ -7251,13 +5686,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - 5s
-  - 6W
-  - 9M
-  - Kb
-  - Kl
-  lines: 145
+  related: []
+  youtube_id: V979Wd1gmTU
+  lines: 21
 - code: MZ
   file: MZ-satya-nadella-microsoft-s-ai-bets-hyperscaling-quantum-computing-breakthroughs.md
   title: 'Satya Nadella: Microsoft''s AI Bets, Hyperscaling, Quantum Computing Breakthroughs'
@@ -7269,13 +5700,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 76
+  related: []
+  youtube_id: AUUZuzVHKdo
+  lines: 18
 - code: Mb
   file: Mb-fei-fei-li-spatial-intelligence-is-the-next-frontier-in-ai.md
   title: 'Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI'
@@ -7287,13 +5714,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 92
+  related: []
+  youtube_id: _PioN-CpOP0
+  lines: 22
 - code: Md
   file: Md-fran-ois-chollet-the-arc-prize-how-we-get-to-agi.md
   title: 'François Chollet: The ARC Prize & How We Get to AGI'
@@ -7304,13 +5727,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 170
+  related: []
+  youtube_id: 5QcCeSsNRks
+  lines: 22
 - code: Me
   file: Me-how-to-spend-your-20s-in-the-ai-era.md
   title: How to Spend Your 20s in the AI Era
@@ -7322,13 +5741,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 154
+  related: []
+  youtube_id: ShYKkPPhOoc
+  lines: 17
 - code: Mf
   file: Mf-andrew-ng-building-faster-with-ai.md
   title: 'Andrew Ng: Building Faster with AI'
@@ -7340,13 +5755,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - 9M
-  - Kb
-  - Kl
-  - Lq
-  - Mg
-  lines: 169
+  related: []
+  youtube_id: RNJCfif1dPY
+  lines: 19
 - code: Mg
   file: Mg-aravind-srinivas-the-race-to-build-the-ai-browser-of-the-future.md
   title: 'Aravind Srinivas: The Race to Build the AI Browser of the Future'
@@ -7358,13 +5769,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - 9M
-  - Kb
-  - Kl
-  - Lq
-  - Mf
-  lines: 93
+  related: []
+  youtube_id: 2jOnoTEk-xA
+  lines: 19
 - code: Mh
   file: Mh-john-jumper-alphafold-and-the-future-of-science.md
   title: 'John Jumper: AlphaFold and the Future of Science'
@@ -7375,13 +5782,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 89
+  related: []
+  youtube_id: 2Yguz5U-Nic
+  lines: 19
 - code: Mi
   file: Mi-replit-ceo-amjad-masad-coding-agents-autonomy-and-the-future-of-work.md
   title: 'Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work'
@@ -7395,13 +5798,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - MU
-  - MO
-  - 3k
-  - 5p
-  - 6a
-  lines: 158
+  related: []
+  youtube_id: kOyIjt6FUrw
+  lines: 17
 - code: Mj
   file: Mj-chelsea-finn-building-robots-that-can-do-anything.md
   title: 'Chelsea Finn: Building Robots That Can Do Anything'
@@ -7412,13 +5811,9 @@ resources:
   - general
   founder_stage:
   - building
-  related:
-  - 5O
-  - 6G
-  - 6N
-  - JB
-  - Jv
-  lines: 170
+  related: []
+  youtube_id: a8-QsBHoH94
+  lines: 24
 - code: Mk
   file: Mk-brand-design-tips-from-linear-founder-karri-saarinen.md
   title: Brand Design Tips From Linear Founder Karri Saarinen
@@ -7430,13 +5825,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7G
-  - 7H
-  - Jr
-  - MG
-  - MK
-  lines: 145
+  related: []
+  youtube_id: uEeFsW9343g
+  lines: 20
 - code: Ml
   file: Ml-scaling-and-the-road-to-human-level-ai-anthropic-co-founder-jared-kaplan.md
   title: Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan
@@ -7450,13 +5841,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 3i
-  - 6a
-  - 8h
-  - Cn
-  - Cq
-  lines: 161
+  related: []
+  youtube_id: p8Jx4qvDoSo
+  lines: 20
 - code: Mm
   file: Mm-the-finance-startup-bringing-agentic-ai-to-wall-street.md
   title: The Finance Startup Bringing Agentic AI to Wall Street
@@ -7468,13 +5855,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 189
+  related: []
+  youtube_id: lqokpIme47A
+  lines: 19
 - code: Mn
   file: Mn-figma-ceo-dylan-field-how-ai-will-transform-design.md
   title: 'Figma CEO Dylan Field: How AI Will Transform Design'
@@ -7490,13 +5873,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - Ix
-  - MD
-  - Lj
-  - Mp
-  - 6r
-  lines: 140
+  related: []
+  youtube_id: -7Qz7tSTfUU
+  lines: 18
 - code: Mo
   file: Mo-the-sales-playbook-for-founders.md
   title: The Sales Playbook for Founders
@@ -7508,13 +5887,9 @@ resources:
   - sales
   founder_stage:
   - launched
-  related:
-  - Ip
-  - JE
-  - 4m
-  - LF
-  - 9h
-  lines: 152
+  related: []
+  youtube_id: DH7REvnQ1y4
+  lines: 15
 - code: Mp
   file: Mp-anthropic-co-founder-building-claude-code-lessons-from-gpt-3-llm-system-design.md
   title: 'Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design'
@@ -7530,13 +5905,9 @@ resources:
   - technology
   founder_stage:
   - building
-  related:
-  - Ix
-  - MD
-  - Lj
-  - Mn
-  - 7a
-  lines: 153
+  related: []
+  youtube_id: JdT78t1Offo
+  lines: 18
 - code: Mq
   file: Mq-how-this-25-year-old-built-a-675m-legal-ai-startup-with-no-legal-experience.md
   title: How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)
@@ -7550,13 +5921,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - 7R
-  - Ik
-  - JG
-  - JR
-  lines: 177
+  related: []
+  youtube_id: pHuXCzM2ntU
+  lines: 17
 - code: Mr
   file: Mr-gpt-oss-vs-qwen-vs-deepseek-comparing-open-source-llm-architectures.md
   title: 'GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures'
@@ -7568,13 +5935,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 82
+  related: []
+  youtube_id: raTbhtKZTZA
+  lines: 17
 - code: Ms
   file: Ms-michael-truell-building-cursor-at-23-taking-on-github-copilot-and-advice-to-engineering-students.md
   title: 'Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students'
@@ -7589,13 +5952,9 @@ resources:
   founder_stage:
   - building
   - pre-idea
-  related:
-  - 4d
-  - 6A
-  - '93'
-  - D0
-  - IZ
-  lines: 151
+  related: []
+  youtube_id: TrXi3naD6Og
+  lines: 18
 - code: Mt
   file: Mt-the-fde-playbook-for-ai-startups-with-bob-mcgrew.md
   title: The FDE Playbook for AI Startups with Bob McGrew
@@ -7607,13 +5966,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 137
+  related: []
+  youtube_id: Zyw-YA0k3xo
+  lines: 19
 - code: Mu
   file: Mu-the-future-of-software-creation-with-replit-ceo-amjad-masad.md
   title: The Future of Software Creation with Replit CEO Amjad Masad
@@ -7625,13 +5980,9 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3k
-  - 5p
-  - Iw
-  - Jo
-  - Jq
-  lines: 130
+  related: []
+  youtube_id: lWmDiDGsLK4
+  lines: 16
 - code: Mv
   file: Mv-fintech-3-0-now-is-the-best-time-to-build-in-crypto.md
   title: 'Fintech 3.0: Now Is The Best Time To Build In Crypto'
@@ -7643,13 +5994,9 @@ resources:
   - fintech
   founder_stage:
   - building
-  related:
-  - Km
-  - 2u
-  - '47'
-  - 4T
-  - 4e
-  lines: 84
+  related: []
+  youtube_id: Pdne9xaRLUc
+  lines: 18
 - code: Mw
   file: Mw-how-to-train-an-llm-with-anthropic-s-head-of-pretraining.md
   title: How To Train An LLM with Anthropic's Head of Pretraining
@@ -7661,13 +6008,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 137
+  related: []
+  youtube_id: YFeb3yAxtjE
+  lines: 16
 - code: Mx
   file: Mx-the-7-most-powerful-moats-for-ai-startup.md
   title: The 7 Most Powerful Moats For AI Startup
@@ -7679,13 +6022,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 132
+  related: []
+  youtube_id: bxBzsSsqQAM
+  lines: 13
 - code: My
   file: My-every-ai-founder-should-be-asking-these-questions.md
   title: Every AI Founder Should Be Asking These Questions
@@ -7697,13 +6036,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 83
+  related: []
+  youtube_id: DJjZzzPANBY
+  lines: 17
 - code: Mz
   file: Mz-the-world-s-first-commercial-mobile-carbon-capture-device.md
   title: The World's First Commercial Mobile Carbon Capture Device
@@ -7714,13 +6049,9 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 121
+  related: []
+  youtube_id: ENG_DQF5E60
+  lines: 18
 - code: N0
   file: N0-unpopular-ideas-that-became-billion-dollar-businesses.md
   title: Unpopular Ideas That Became Billion-Dollar Businesses
@@ -7732,13 +6063,9 @@ resources:
   - ideas
   founder_stage:
   - idea
-  related:
-  - 6e
-  - 7x
-  - 8B
-  - 8g
-  - 8z
-  lines: 132
+  related: []
+  youtube_id: Hm-ZIiwiN1o
+  lines: 14
 - code: N1
   file: N1-what-everyone-is-getting-wrong-about-ai-and-jobs.md
   title: What Everyone Is Getting Wrong About AI And Jobs
@@ -7750,13 +6077,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 82
+  related: []
+  youtube_id: IqwSb2hO1jE
+  lines: 18
 - code: N2
   file: N2-yc-partners-answer-your-questions-office-hours.md
   title: YC Partners Answer Your Questions | Office Hours
@@ -7768,13 +6091,9 @@ resources:
   - yc
   founder_stage:
   - all
-  related:
-  - 4D
-  - 4i
-  - 5w
-  - 6S
-  - 6t
-  lines: 137
+  related: []
+  youtube_id: nGLmpKi-jRU
+  lines: 15
 - code: N3
   file: N3-transformers-explained-the-discovery-that-changed-ai-forever.md
   title: 'Transformers Explained: The Discovery That Changed AI Forever'
@@ -7786,13 +6105,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 98
+  related: []
+  youtube_id: JZLZQVmfGn8
+  lines: 15
 - code: N4
   file: N4-inside-the-mit-ai-study-everyone-misunderstood-and-what-it-means-for-startups.md
   title: Inside The MIT AI Study Everyone Misunderstood (And What It Means For Startups)
@@ -7804,13 +6119,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 138
+  related: []
+  youtube_id: DULfEcPR0Gc
+  lines: 16
 - code: N5
   file: N5-how-to-recruit-the-best-engineers-and-sales-reps.md
   title: How To Recruit The Best Engineers And Sales Reps
@@ -7824,13 +6135,9 @@ resources:
   - sales
   founder_stage:
   - launched
-  related:
-  - Ip
-  - JE
-  - Mo
-  - 4m
-  - LF
-  lines: 141
+  related: []
+  youtube_id: i_PjjXKNpA4
+  lines: 15
 - code: N6
   file: N6-inside-the-startup-launching-ai-into-space.md
   title: Inside The Startup Launching AI Into Space
@@ -7844,13 +6151,9 @@ resources:
   - technology
   founder_stage:
   - launched
-  related:
-  - 6i
-  - Lm
-  - Ir
-  - J0
-  - LG
-  lines: 136
+  related: []
+  youtube_id: hKw6cRKcqzY
+  lines: 20
 - code: N7
   file: N7-ai-is-eating-logistics.md
   title: AI Is Eating Logistics
@@ -7862,13 +6165,9 @@ resources:
   - technology
   founder_stage:
   - all
-  related:
-  - 6a
-  - Ik
-  - JG
-  - Jc
-  - Ju
-  lines: 146
+  related: []
+  youtube_id: KTmxaMdUbHA
+  lines: 16
 - code: N8
   file: N8-cursor-head-of-design-reviews-startup-websites.md
   title: Cursor Head of Design Reviews Startup Websites
@@ -7880,13 +6179,9 @@ resources:
   - product
   founder_stage:
   - building
-  related:
-  - 7G
-  - 7H
-  - Jr
-  - MG
-  - MK
-  lines: 119
+  related: []
+  youtube_id: RynySryqM_0
+  lines: 16
 - code: N9
   file: N9-what-founders-have-to-unlearn-to-become-great-ceos.md
   title: What Founders Have To Unlearn To Become Great CEOs
@@ -7898,13 +6193,9 @@ resources:
   - leadership
   founder_stage:
   - all
-  related:
-  - 3k
-  - 5p
-  - Iw
-  - Jo
-  - Jq
-  lines: 102
+  related: []
+  youtube_id: t8co94HS6tY
+  lines: 18
 - code: NA
   file: NA-from-pivot-hell-to-1-4-billion-unicorn.md
   title: From Pivot Hell To $1.4 Billion Unicorn
@@ -7918,13 +6209,9 @@ resources:
   - success
   founder_stage:
   - scaling
-  related:
-  - 8L
-  - KA
-  - 4q
-  - '96'
-  - If
-  lines: 133
+  related: []
+  youtube_id: 5WN8bfG06Hk
+  lines: 17
 - code: NB
   file: NB-what-surprised-us-most-in-2025.md
   title: What Surprised Us Most In 2025
@@ -7935,10 +6222,6 @@ resources:
   - general
   founder_stage:
   - all
-  related:
-  - 1k
-  - 1z
-  - 2s
-  - 2z
-  - 3O
-  lines: 96
+  related: []
+  youtube_id: cqrJzG03ENE
+  lines: 13

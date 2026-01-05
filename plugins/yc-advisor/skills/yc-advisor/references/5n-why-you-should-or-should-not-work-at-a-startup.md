@@ -3,105 +3,21 @@
 **Author:** Justin Kan
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/5n-why-you-should-or-should-not-work-at-a-startup
+**YouTube ID:** YzyatiQrQlQ
 
 ---
 
-Why you should or should not work at a startup
-
-# Why you should or should not work at a startup
-
-by Justin Kan
-
-Why You Should or Should Not Work at a Startup by Justin Kan - YouTube
-
-[Photo image of Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg?embeds_referring_euri=https%3A%2F%2Fwww.ycombinator.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.ycombinator.com)
-
-Y Combinator
-
-2.1M subscribers
-
-[Why You Should or Should Not Work at a Startup by Justin Kan](https://www.youtube.com/watch?v=YzyatiQrQlQ)
-
-Y Combinator
-
-Search
-
-Info
-
-Shopping
-
-Tap to unmute
-
-If playback doesn't begin shortly, try restarting your device.
-
-You're signed out
-
-Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
-
-CancelConfirm
-
-Up NextCancelAutoplay is paused
-
-[Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
-
-Subscribe
-
-Subscribed
-
-All the world is changing around technology and you may contribute a line of code. What will yours be?
-
-Subscribe for startup advice, founder stories, and a look inside Y Combinator.
-
-What is Y Combinator?
-We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.
-
-Visit ycombinator.com to learn more.
-
-[The Truth About The AI Bubble\\
-\\
-30:23](https://www.youtube.com/watch?v=cqrJzG03ENE)
-
-[Elad Gil Shares Advice from the High Growth Handbook, a Guide to Scaling Startups\\
-\\
-42:35](https://www.youtube.com/watch?v=6bhlwWJDhtk)
-
-Share
-
-Include playlist
-
-An error occurred while retrieving sharing information. Please try again later.
-
-Watch later
-
-Share
-
-Copy link
-
-Watch on
-
-0:00
-
-0:00 / 15:33
-
-•Watch full videoLive
-
-•
-
-132K views
-
-Over 1 year ago
-
-Justin Kan was a Partner at YC and cofounder of [Justin.tv/Twitch](http://justin.tv/Twitch), Atrium and Exec. He gave this talk at YC's Work at a
+Justin Kan was a Partner at YC and cofounder of Justin.tv/Twitch, Atrium and Exec. He gave this talk at YC's Work at a
 Startup Expo in 2018.
 
-* * *
+-----
 
 ## Transcript
 
 Jared Friedman - In a moment, I'm gonna introduce our first keynote speaker, Justin Kan. Justin is the founder of three
 YC companies. He is now running a company called Atrium, which you're gonna hear about later this afternoon. But before
-that he was the founder of [Justin.tv](http://justin.tv/), and he actually presented up here on this stage eight years ago, back when he was
-running [Justin.tv](http://justin.tv/), and he's going to tell you some really awesome stories from what happened back then, and talk about
+that he was the founder of Justin.tv, and he actually presented up here on this stage eight years ago, back when he was
+running Justin.tv, and he's going to tell you some really awesome stories from what happened back then, and talk about
 why you should or should not work for a startup. So, please welcome Justin Kan.
 
 Justin Kan - Thank you, Jared, for giving away my talk. It's me, Justin Kan. I am YC's remedial student, I had lost
@@ -133,18 +49,18 @@ want stability, I think you should go join Facebook. Maybe not today, but next w
 All right, all right, so now on to what you really came for, which is why you should join a startup, and when I was
 writing this in the parking lot five minutes ago, I identified three reasons All right, number one, you will get access
 to jobs that you are completely unqualified for and you might not be able to do. So, my example actually comes from that
-very first work for a startup eight years ago. You know, I was on stage talking about [Justin.tv](http://justin.tv/) and we actually
+very first work for a startup eight years ago. You know, I was on stage talking about Justin.tv and we actually
 recruited someone from that and his name was Guillaume, he was from France, a programmer, and actually, he came to work
-for a startup and got two offers from two different companies. One was [Justin.tv](http://justin.tv/) and one was actually Scribd, Jared's
+for a startup and got two offers from two different companies. One was Justin.tv and one was actually Scribd, Jared's
 company. And I sat down with Guillaume, I remember in a coffee shop after I worked for a startup and he said, "Oh, I
 have this offer from Scribd." And I said, "What was it?" He told me. I was like I'll pay you $10,000 more right now to
-sign this instant. And so he accepted, sorry Jared, he accepted and he joined [Justin.tv](http://justin.tv/) and within a year he was running
+sign this instant. And so he accepted, sorry Jared, he accepted and he joined Justin.tv and within a year he was running
 our entire Rails backend for a site that was like a top 100 site, and I think a top 10 to 20 Rails site at the time. It
 was like in 2010, so the bar was a lot lower, and that was a job he was like completely unqualified for and he would
 never have gotten the opportunity to do if he didn't join a startup where we didn't really have anyone else to do it.
 
 And he went on actually, this is a pretty cool story...he went on... we spun out a company called Socialcam a couple
-years later. He went on to be a co-founder of that company as we spun it out of [Justin.tv](http://justin.tv/). Went through YC and got an
+years later. He went on to be a co-founder of that company as we spun it out of Justin.tv. Went through YC and got an
 even greater scale challenge when they scaled to like from zero to 128 million users in like two months. And so, you
 know, just the rate of learning for him was, like, pretty incredible. And he's gone on to...now he's a co-founder at a
 company called Triplebyte that does recruiting for YC companies and others. Okay, so that's number one. You are going to
@@ -170,7 +86,7 @@ maximize your own speed of learning. I think this is actually the most important
 And I have kind of two examples of people who did that working with me, and they are both the two co-founders of Cruise.
 And I think that they're cool examples because one is kind of maximizing learning on the way up, and the other on the
 way down, and I'll explain what that means. So, the first co-founder of Cruise, his name is Kyle Vogt. We recruited him
-at [Justin.tv](http://justin.tv/) in the early days. He was an MIT student and we had found him, and he was, like, kind of this person that
+at Justin.tv in the early days. He was an MIT student and we had found him, and he was, like, kind of this person that
 we thought we needed because he was this hardware hacker and we thought we were gonna build a hardware company. And so
 we convinced him to come out from MIT for his, like, the month-long break during January. And we bought him a one-way
 ticket. We were like, "Just work for a month," and then we never bought him a ticket back.
@@ -200,11 +116,11 @@ around the world, did 90 petabytes of data transfer a month, and so, you know, I
 incredible as a software architect and obviously kind of went on and took a lot of that to Cruise which is also an
 incredible story.
 
-The other co-founder of Cruise was my brother Daniel who met Kyle actually as an intern at [Justin.tv](http://justin.tv/) when he was a
+The other co-founder of Cruise was my brother Daniel who met Kyle actually as an intern at Justin.tv when he was a
 college student. We recruited him...not really recruited, it was more like nepotism. I'm sorry, I hope he's not watching
 right now. That's fucked up, that's fucked up to say. So, no, he also had a, like, crash course in startups over the
 next couple years, didn't work for me for very long, but when he did work for me, he recruited these guys to the site. I
-remember [Justin.tv](http://justin.tv/), when we were doing like the kind of live streaming site, he recruited this unknown band, it was
+remember Justin.tv, when we were doing like the kind of live streaming site, he recruited this unknown band, it was
 called "The Jonas Brothers," and they ended up like crashing our site, they were part of the reason that Kyle hated his
 life, ended up crashing the site over and over again, but the cool thing was he joined as this intern he got to, like,
 you know, interact and kind of, like, make a deal with, like, what was basically, like, became the number one kind of
@@ -239,3 +155,4 @@ intercept, but it's your slope that's important." And so, I think you want to…
 about it is how do I...figuring out ways that I can put myself in the position to maximize my own personal rate of
 growth and rate of learning. And I suggest that you do the same regardless of whether that's at a startup or not. All
 right, best of luck.
+

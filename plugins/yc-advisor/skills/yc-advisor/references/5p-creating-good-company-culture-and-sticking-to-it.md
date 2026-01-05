@@ -1,31 +1,20 @@
-# Creating good company culture (and sticking to it)
+# Creating good company culture (and sticking to it) 
 
 **Author:** Kathryn Minshew
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/5p-creating-good-company-culture-and-sticking-to-it
+**YouTube ID:** Cmd5yOjnOqo
 
 ---
 
-Creating good company culture (and sticking to it)
-
-# Creating good company culture (and sticking to it)
-
-by Kathryn Minshew
-
-YouTube
-
-20K views
-
-Over 1 year ago
-
-In this talk, Kathryn Minshew, the co-founder of the job search and career advice platform [The\\
-Muse](http://www.themuse.com/), shares four key pieces of advice she's learned as a founder so far, including being
+In this talk, Kathryn Minshew, the co-founder of the job search and career advice platform [The
+Muse](http://www.themuse.com), shares four key pieces of advice she's learned as a founder so far, including being
 painfully honest about the state of your startup, how crucial it is to construct a positive company culture, and staying
 motivated by remembering your roots.
 
 A full transcript of Kathryn's talk is below.
 
-* * *
+-----
 
 Hey, everybody. Thank you so much. I'm so excited to be here.
 
@@ -229,3 +218,4 @@ people who have that problem, whose lives we're making a difference in. Reading 
 to somebody who found their job on the site. Because, ultimately, being a start-up can be on part one of the most
 meaningful experiences of your life, and one part a total slog. But I think when you remember why you got into it, you
 keep your focus on building for the long haul. Ultimately, that's where the magic can really happen.
+

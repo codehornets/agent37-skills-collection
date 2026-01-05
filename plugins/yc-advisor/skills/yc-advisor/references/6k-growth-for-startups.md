@@ -1,83 +1,11 @@
 # Growth for startups
 
-**Author:** Gustaf Alstr
+**Author:** Gustaf Alströmer
 **Type:** Video
 **URL:** https://www.ycombinator.com/library/6k-growth-for-startups
+**YouTube ID:** 6lY9CYIY4pQ
 
 ---
-
-Growth for startups
-
-# Growth for startups
-
-by Gustaf Alströmer
-
-154K views
-
-Over 1 year ago
-
-## Chapters
-
-0:00
-
-Introduction
-
-1:36
-
-Do things that don't scale
-
-3:55
-
-Case study: Airbnb
-
-8:33
-
-Product-market fit
-
-16:30
-
-Growth channels and tactics
-
-18:29
-
-Conversion rate optimization
-
-21:37
-
-Growth channels to explore
-
-25:46
-
-Referrals & virality
-
-28:16
-
-Paid growth
-
-30:20
-
-Search Engine Optimizaion (SEO)
-
-33:12
-
-A/B Testing
-
-37:45
-
-Conclusion
-
-YC Partner and growth expert Gustaf Alstromer talks about how to measure product market fit, how to decide on a growth
-channel, metrics that lie about PMF and other mechanics of growth for startups.
-
-**Watch this if:**
-
-- you don't have product market fit yet
-- your retention is bad (or you don't know what 'retention' means)
-- you're trying to find new ways to get new customers
-- you want to create a viral loop in your product
-- you want to learn how to run online ads
-
-## Transcript
 
 Gustaf: My name is Gustaf. I'm going to give a talk on Growth for Startups. This is going to be for some of you guys not super relevant right now, because you might not launched. And thinking too much about growth when you haven't launched isn't that relevant. But for those of you that have launched, this is hopefully going to be a good talk. So, I'm going to cover three different things today. First, I'm going to talk about product-market fit and retention. The reason that that relates to growth so much is because working on growth before you have product-market fit and good retention is not a good idea.
 
@@ -93,7 +21,7 @@ In the beginning of your company, you're going to do a lot of things that don't 
 
 Correct. That does not scale. But that is where everyone needs to start. And if you went to school and you learned that you should only work on things that really scale, you're going to have to unlearn that skill. Because when you start your company, the most important thing is going to do things that don't scale. So if you get comfortable with that idea. This is the early days of Airbnb. So, this is sometimes in 2009. They were just a few people. The article I mentioned earlier, "Doing Things That Don't Scale," tells a story of the first year or two of Airbnb. When the founders came to YC, they had spent almost a year trying to get Airbnb off the ground. It didn't really work.
 
-This was the first version of the Airbnb website, [airbedandbreakfast.com](http://airbedandbreakfast.com/). In fact, the website itself didn't really speak to what the company does. It was started as a website to offer air mattresses to people that visited design conferences, and they had to navigate their way to find the place to where Airbnb is today. When Airbnb joined YC, the first question they got from Paul Graham was, "Who are your users?" And at the time, the site looked something like this. You click on a listing, and you had three different pieces of information. You had a photo of the host, you have one photo, in this case, of the building, from the outside, and then you have one map of where that place was. Now, at the time, the only comparison to what a site like this would look like would be Craigslist.
+This was the first version of the Airbnb website, airbedandbreakfast.com. In fact, the website itself didn't really speak to what the company does. It was started as a website to offer air mattresses to people that visited design conferences, and they had to navigate their way to find the place to where Airbnb is today. When Airbnb joined YC, the first question they got from Paul Graham was, "Who are your users?" And at the time, the site looked something like this. You click on a listing, and you had three different pieces of information. You had a photo of the host, you have one photo, in this case, of the building, from the outside, and then you have one map of where that place was. Now, at the time, the only comparison to what a site like this would look like would be Craigslist.
 
 So, Craigslist wasn't a lot better than this. So at least it met that criteria, but it wasn't something that would make Airbnb take off. They didn't really have, in the product, what would make Airbnb take off. The things that were missing is, is this a good listing? How does this listing actually look like? Can I trust the host? Lots of things that were missing in that early product. And how do you learn that? The way they learned that is they went and talked to their host. On their first week in YC, Paul Graham told the founders of Airbnb, "You guys go meet your host. Where are your host?" "Most of our hosts are in New York. We don't have that many, but most of them are in New York."
 
@@ -101,7 +29,7 @@ So, they flew to New York, undercover, not on the cover. They claimed to be hire
 
 And by doing that, they got for the first time to meet the people that were their customers, which they really haven't done before. And they got to see how they use their products. That's doing things that don't scale. And that is nothing that scales. You can't go and fly to meet every single one of your customers. But when you start doing that, you will learn things that you can't learn sitting in front a computer. So, they learned that this payouts thing didn't work, or there was a big UI bug on this page, or didn't work on Internet Explorer. Well, all these things that you can't learn sitting in front of your computer.
 
-They went back to San Francisco, back to Y Combinator, and they sent an email the morning after and they said, "Here are all the photos we took of your house. They're now up on [airbedandbreakfast.com](http://airbedandbreakfast.com/). And by the way, we fixed half of the bugs that you emailed us about," or, "We fixed the bug that you told us about yesterday." That made the host love them. And those hosts became the reason that Airbnb eventually took off. Like, doing things that don't scale, fixing the product, making the product work for the early hosts, which became the backbones of the early days of Airbnb. So, the lesson here is that founders are the ones who make startups take off.
+They went back to San Francisco, back to Y Combinator, and they sent an email the morning after and they said, "Here are all the photos we took of your house. They're now up on airbedandbreakfast.com. And by the way, we fixed half of the bugs that you emailed us about," or, "We fixed the bug that you told us about yesterday." That made the host love them. And those hosts became the reason that Airbnb eventually took off. Like, doing things that don't scale, fixing the product, making the product work for the early hosts, which became the backbones of the early days of Airbnb. So, the lesson here is that founders are the ones who make startups take off.
 
 The founders, you guys, are the ones that make the startups take off. You're going to have to do unconventional things, you're gonna have to do things that don't feel right, certainly gonna do things that you didn't learn in business school, and you're just gonna do the things that are needed. And this is basically what the YC batch is about. When someone joins YC, we're going to be like, "You're gonna launch," because that's the most important thing you could do right now. But once you've launched it's like, "How do I get users?" Like, you gotta figure out how to do it. And it's different for every company. For many of the company, that means sales.
 
