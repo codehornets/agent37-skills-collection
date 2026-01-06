@@ -25,14 +25,17 @@ For broad questions, clarify the user's context:
 1. Load `references/quick-index.md` to scan available resources (~500 lines, grouped by topic)
 2. Identify 3-5 most relevant resources based on the question (line counts help estimate size)
 3. Check `references/learning-paths.md` if user is on a founder journey
-4. Check `references/frameworks/` if user has a decision question
+4. Check `references/frameworks/` directory if user has a decision question (list files first, then read specific ones)
 5. For deeper search, use grep on `references/summaries.md` (too large to load fully)
 
 ### Step 3: Deep Dive
 
-1. Load the FULL content of top 2-3 resources from `references/`
-2. Read completely - do not skim
-3. Extract key insights, quotes, and actionable advice
+1. **Look up exact filename in `index.yaml`** - use the code to find the `file` field
+   - Example: For code `DZ`, grep for `- code: DZ` and use its `file:` value
+   - Do NOT guess filenames from titles - they often include author names or different hyphenation
+2. Load the FULL content of top 2-3 resources from `references/[exact-filename]`
+3. Read completely - do not skim
+4. Extract key insights, quotes, and actionable advice
 
 ### Step 4: Synthesize Answer
 
