@@ -1,6 +1,6 @@
 # Agent 37 Skills Collection
 
-A collection of Claude Code plugins.
+A collection of Claude Code plugins 
 
 ## yc-advisor
 
@@ -12,6 +12,8 @@ YC startup advice from 434 curated resources (Paul Graham essays, founder interv
 ```
 
 This is a **skill** - automatically triggered when you ask about startups, fundraising, etc.
+
+You can interact with this live at https://www.agent37.com/yc
 
 ## local-review
 
