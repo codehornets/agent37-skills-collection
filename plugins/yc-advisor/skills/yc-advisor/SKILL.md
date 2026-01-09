@@ -25,15 +25,15 @@ For broad questions, clarify the user's context:
 1. Load `references/quick-index.md` to scan available resources (~500 lines, grouped by topic)
 2. Identify 3-5 most relevant resources based on the question (line counts help estimate size)
 3. Check `references/learning-paths.md` if user is on a founder journey
-4. Check `references/frameworks/` directory if user has a decision question (list files first, then read specific ones)
+4. Check `references/frameworks/` for decision questions - use glob `references/frameworks/*.md` to list files, then read specific ones
 5. For deeper search, use grep on `references/summaries.md` (too large to load fully)
 
 ### Step 3: Deep Dive
 
-1. **Get the filename from quick-index.md** - the last field in each entry is the filename in backticks
-   - Example: `- **DZ** | ... | \`DZ-dalton-michael-co-founder-mistakes....md\``
-   - **WARNING:** NEVER read `index.yaml` with the Read tool - it exceeds token limits (64K tokens)
-2. Load the FULL content of top 2-3 resources from `references/[filename]`
+1. **Find files using the code** - use glob pattern `references/{CODE}-*.md`
+   - Example: For code `DZ`, use glob `references/DZ-*.md` to find the file
+   - **WARNING:** NEVER read `index.yaml` - it exceeds token limits (64K tokens)
+2. Load the FULL content of top 2-3 resources
 3. Read completely - do not skim
 4. Extract key insights, quotes, and actionable advice
 
@@ -102,9 +102,9 @@ When users want to learn systematically:
 
 ### references/quick-index.md (Primary Discovery)
 Lightweight index (~500 lines) grouped by topic. Each entry shows:
-- Code, title, author, type, line count, founder stage, **filename**
+- Code, title, author, type, line count, founder stage
 - **Use this first** - small enough to load fully
-- Use the filename (last field in backticks) to load full source files
+- Use glob pattern `references/{CODE}-*.md` to find files by code
 
 ### references/summaries.md (Deep Search)
 Detailed summaries with content previews (~4300 lines). Too large to load fully.
@@ -122,13 +122,15 @@ Curated resource sequences for common founder journeys:
 - Fundraising path
 - And more...
 
-### references/frameworks/
-Decision frameworks for common questions:
-- Should I start a startup?
-- Solo vs co-founder
-- Bootstrap vs raise
-- When to pivot
-- When to quit
+### references/frameworks/ (Use glob to list, NOT Read)
+Decision frameworks for common questions. **Use glob `references/frameworks/*.md` to list files.**
+Available frameworks:
+- should-i-start-a-startup.md
+- solo-vs-cofounder.md
+- bootstrap-vs-raise.md
+- when-to-pivot.md
+- when-to-quit.md
+- technical-cofounder-needed.md
 
 ### references/*.md
 The 443 full-content source files. Each follows this structure:
