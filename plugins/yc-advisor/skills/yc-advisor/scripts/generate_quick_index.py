@@ -85,8 +85,9 @@ def generate_quick_index(index):
             topics = ', '.join(r.get('topics', []))
             stages = ', '.join(r.get('founder_stage', []))
 
-            # Compact format: code | title | author | type | lines | stages
-            lines.append(f"- **{code}** | {title} | {author} | {rtype} | {line_count}L | {stages}")
+            # Compact format: code | title | author | type | lines | stages | filename
+            filename = r['file']
+            lines.append(f"- **{code}** | {title} | {author} | {rtype} | {line_count}L | {stages} | `{filename}`")
 
         lines.append("")
 

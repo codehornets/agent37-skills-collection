@@ -30,10 +30,10 @@ For broad questions, clarify the user's context:
 
 ### Step 3: Deep Dive
 
-1. **Look up exact filename in `index.yaml`** - use the code to find the `file` field
-   - Example: For code `DZ`, grep for `- code: DZ` and use its `file:` value
-   - Do NOT guess filenames from titles - they often include author names or different hyphenation
-2. Load the FULL content of top 2-3 resources from `references/[exact-filename]`
+1. **Get the filename from quick-index.md** - the last field in each entry is the filename in backticks
+   - Example: `- **DZ** | ... | \`DZ-dalton-michael-co-founder-mistakes....md\``
+   - **WARNING:** NEVER read `index.yaml` with the Read tool - it exceeds token limits (64K tokens)
+2. Load the FULL content of top 2-3 resources from `references/[filename]`
 3. Read completely - do not skim
 4. Extract key insights, quotes, and actionable advice
 
@@ -102,21 +102,18 @@ When users want to learn systematically:
 
 ### references/quick-index.md (Primary Discovery)
 Lightweight index (~500 lines) grouped by topic. Each entry shows:
-- Code, title, author, type, line count, founder stage
+- Code, title, author, type, line count, founder stage, **filename**
 - **Use this first** - small enough to load fully
+- Use the filename (last field in backticks) to load full source files
 
 ### references/summaries.md (Deep Search)
 Detailed summaries with content previews (~4300 lines). Too large to load fully.
 - Use grep to search for specific keywords
 - Provides more context than quick-index when needed
 
-### references/index.yaml
-Structured metadata for all resources including:
-- `code`, `file`, `title`, `author`, `type`
-- `topics` - categorization tags
-- `founder_stage` - relevant stages (pre-idea, idea, building, launched, scaling)
-- `related` - related resource codes
-- `lines` - line count (helps estimate context consumption)
+### references/index.yaml (Maintenance Only - DO NOT READ)
+Structured metadata for all resources. **Too large for runtime use (64K tokens).**
+Used only by maintenance scripts. For filename lookups, use quick-index.md instead.
 
 ### references/learning-paths.md
 Curated resource sequences for common founder journeys:

@@ -863,7 +863,7 @@ resources:
   - all
   related: []
   youtube_id: oAEZoAp2_zY
-  lines: 36
+  lines: 52
 - code: '64'
   file: 64-what-makes-great-founders-stand-out.md
   title: What makes great founders stand out?
@@ -876,7 +876,7 @@ resources:
   - all
   related: []
   youtube_id: ZtfTOuSHGg8
-  lines: 43
+  lines: 67
 - code: '65'
   file: 65-how-to-cold-email-investors.md
   title: How to cold email investors
@@ -892,7 +892,7 @@ resources:
   - all
   related: []
   youtube_id: A3MmYbH1hbs
-  lines: 42
+  lines: 74
 - code: '66'
   file: 66-biggest-mistakes-first-time-founders-make.md
   title: Biggest mistakes first-time founders make
@@ -906,7 +906,7 @@ resources:
   - all
   related: []
   youtube_id: D56QeyyQMLI
-  lines: 41
+  lines: 71
 - code: '67'
   file: 67-user-you-don-t-want.md
   title: User you don't want
@@ -1419,7 +1419,7 @@ resources:
   - all
   related: []
   youtube_id: NmEyx9TEkRw
-  lines: 36
+  lines: 62
 - code: 7M
   file: 7M-most-startups-are-undercharging.md
   title: Most startups are undercharging
@@ -1432,7 +1432,7 @@ resources:
   - all
   related: []
   youtube_id: RxjZbmr1d1w
-  lines: 25
+  lines: 39
 - code: 7N
   file: 7N-building-an-engineering-team.md
   title: Building an engineering team
@@ -1488,7 +1488,7 @@ resources:
   - all
   related: []
   youtube_id: GzMvG8UO6Eg
-  lines: 11
+  lines: 106
 - code: 7V
   file: 7V-how-to-find-product-market-fit.md
   title: How to find product-market fit
@@ -1503,7 +1503,7 @@ resources:
   - building
   related: []
   youtube_id: 0LNQxT9LvM0
-  lines: 12
+  lines: 237
 - code: 7a
   file: 7a-how-to-build-a-product-with-whatsapp-co-founder-jan-koum.md
   title: How to build a product with WhatsApp co-founder Jan Koum
@@ -1519,7 +1519,7 @@ resources:
   - building
   related: []
   youtube_id: s1Rd4UShDxQ
-  lines: 11
+  lines: 863
 - code: 7e
   file: 7e-how-and-why-to-start-a-startup.md
   title: How and why to start a startup
@@ -1532,7 +1532,7 @@ resources:
   - all
   related: []
   youtube_id: ZoqgAy3h4OM
-  lines: 12
+  lines: 817
 - code: 7g
   file: 7g-how-to-build-and-manage-teams.md
   title: How to build and manage teams
@@ -1547,7 +1547,7 @@ resources:
   - scaling
   related: []
   youtube_id: alqHBCkSN8I
-  lines: 13
+  lines: 845
 - code: 7n
   file: 7n-live-office-hours-with-yc-s-kevin-hale-and-dalton-caldwell-2017.md
   title: Live office hours with YC's Kevin Hale and Dalton Caldwell (2017)
@@ -1561,7 +1561,7 @@ resources:
   - all
   related: []
   youtube_id: 8Qc8ipjzatY
-  lines: 12
+  lines: 1064
 - code: 7q
   file: 7q-post-product-market-fit-people-customers-sales.md
   title: Y Combinator | File Not Found
@@ -1592,7 +1592,7 @@ resources:
   - building
   related: []
   youtube_id: C27RVio2rOs
-  lines: 11
+  lines: 238
 - code: 7u
   file: 7u-how-pitching-investors-is-different-than-pitching-customers.md
   title: How pitching investors is different than pitching customers
@@ -1609,7 +1609,7 @@ resources:
   - all
   related: []
   youtube_id: pQnOBHNKlgs
-  lines: 11
+  lines: 36
 - code: 7v
   file: 7v-should-i-use-a-dev-shop.md
   title: Should I use a dev shop?
@@ -1622,7 +1622,7 @@ resources:
   - all
   related: []
   youtube_id: QAJQOXMM7ak
-  lines: 11
+  lines: 36
 - code: 7x
   file: 7x-how-to-get-and-test-ideas.md
   title: How to get and test ideas
@@ -1636,7 +1636,7 @@ resources:
   - idea
   related: []
   youtube_id: vDXkpJw16os
-  lines: 11
+  lines: 36
 - code: 7y
   file: 7y-how-to-build-a-product-with-reddit-s-steve-huffman-and-twitch-s-emmett-shear.md
   title: How to build a product with Reddit's Steve Huffman and Twitch's Emmett Shear
@@ -1652,7 +1652,7 @@ resources:
   - building
   related: []
   youtube_id: 6IFR3WYSBFM
-  lines: 12
+  lines: 815
 - code: '80'
   file: 80-patrick-collison-on-effectively-running-a-startup.md
   title: Patrick Collison on effectively running a startup
@@ -1665,7 +1665,7 @@ resources:
   - all
   related: []
   youtube_id: NprBQi0cSHU
-  lines: 12
+  lines: 233
 - code: '82'
   file: 82-the-path-to-100b.md
   title: The path to $100B
@@ -1678,7 +1678,7 @@ resources:
   - all
   related: []
   youtube_id: Ir3hGtg0Wog
-  lines: 12
+  lines: 219
 - code: '84'
   file: 84-live-office-hours-with-yc-s-paul-graham-and-sam-altman-2013.md
   title: Live office hours with YC's Paul Graham and Sam Altman (2013)
@@ -1694,7 +1694,7 @@ resources:
   - all
   related: []
   youtube_id: syoqjYLDs48
-  lines: 11
+  lines: 126
 - code: '86'
   file: 86-how-to-start-a-startup-finding-product-market-fit.md
   title: 'How to Start a Startup: Finding Product-Market Fit'
@@ -1709,7 +1709,7 @@ resources:
   - building
   related: []
   youtube_id: _6pl5GG8RQ4
-  lines: 12
+  lines: 871
 - code: '89'
   file: 89-how-to-succeed-with-a-startup.md
   title: How to succeed with a startup
@@ -1736,7 +1736,7 @@ resources:
   - idea
   related: []
   youtube_id: zsBjAuexPq4
-  lines: 12
+  lines: 855
 - code: 8C
   file: 8C-how-to-measure-your-product.md
   title: How to measure your product
@@ -1750,7 +1750,7 @@ resources:
   - building
   related: []
   youtube_id: MABmQhOlmJA
-  lines: 12
+  lines: 237
 - code: 8D
   file: 8D-live-office-hours-with-sam-altman-and-yuri-sagalov.md
   title: Live office hours with Sam Altman and Yuri Sagalov
@@ -1764,7 +1764,7 @@ resources:
   - all
   related: []
   youtube_id: abtHadERzXU
-  lines: 12
+  lines: 791
 - code: 8F
   file: 8F-modern-startup-funding.md
   title: Modern startup funding
@@ -1777,7 +1777,7 @@ resources:
   - all
   related: []
   youtube_id: 9qWZALyGSmg
-  lines: 12
+  lines: 121
 - code: 8G
   file: 8G-advice-for-hard-tech-and-biotech-founders.md
   title: Advice for Hard-Tech and Biotech founders
@@ -1792,7 +1792,7 @@ resources:
   - all
   related: []
   youtube_id: C1DlZWfI6rk
-  lines: 13
+  lines: 108
 - code: 8H
   file: 8H-analytics-for-startups.md
   title: Analytics for startups
@@ -1805,7 +1805,7 @@ resources:
   - all
   related: []
   youtube_id: LLerCc7MOQo
-  lines: 12
+  lines: 93
 - code: 8I
   file: 8I-managing-startup-finances.md
   title: Managing startup finances
@@ -1818,7 +1818,7 @@ resources:
   - all
   related: []
   youtube_id: LBC16jhiwak
-  lines: 12
+  lines: 123
 - code: 8L
   file: 8L-what-s-different-about-unicorns.md
   title: What's different about unicorns?
@@ -1832,7 +1832,7 @@ resources:
   - scaling
   related: []
   youtube_id: Ygr3rx4hSsc
-  lines: 12
+  lines: 69
 - code: 8a
   file: 8a-the-5-things-that-kill-startups-post-seed-rounds.md
   title: The 5 things that kill startups post seed rounds
@@ -1848,7 +1848,7 @@ resources:
   - all
   related: []
   youtube_id: Dgmmje5WHWA
-  lines: 12
+  lines: 183
 - code: 8d
   file: 8d-how-to-build-a-great-series-a-pitch-and-deck.md
   title: How to build a great Series A pitch and deck
@@ -2165,7 +2165,7 @@ resources:
   - all
   related: []
   youtube_id: evIZRpNQUx4
-  lines: 12
+  lines: 33
 - code: 9u
   file: 9u-why-do-startups-fail.md
   title: Why do startups fail?
@@ -2195,7 +2195,7 @@ resources:
   - all
   related: []
   youtube_id: cN62reafxLg
-  lines: 10
+  lines: 456
 - code: CH
   file: CH-venture-debt-101-basics-and-approach.md
   title: 'Venture Debt 101: Basics and Approach'
@@ -2220,7 +2220,7 @@ resources:
   - all
   related: []
   youtube_id: 5fmDKGV0TnQ
-  lines: 11
+  lines: 72
 - code: CU
   file: CU-amplitude-w12-is-going-public.md
   title: Amplitude (W12) is going public
@@ -2322,7 +2322,7 @@ resources:
   - building
   related: []
   youtube_id: G7TMqY7gkGY
-  lines: 12
+  lines: 97
 - code: DU
   file: DU-dalton-michael-where-do-great-startup-ideas-come-from.md
   title: 'Dalton & Michael: Where do great startup ideas come from?'
@@ -2336,7 +2336,7 @@ resources:
   - idea
   related: []
   youtube_id: Jcuqq48CNj8
-  lines: 12
+  lines: 93
 - code: DV
   file: DV-dalton-michael-successful-founders-are-ok-with-rejection.md
   title: 'Dalton & Michael: Successful founders are OK with rejection'
@@ -2349,7 +2349,7 @@ resources:
   - all
   related: []
   youtube_id: zB_SkaERWZY
-  lines: 12
+  lines: 91
 - code: DW
   file: DW-dalton-michael-should-you-follow-your-passion.md
   title: 'Dalton & Michael: Should you follow your passion?'
@@ -2362,7 +2362,7 @@ resources:
   - all
   related: []
   youtube_id: KWNNmPCF-Xs
-  lines: 15
+  lines: 90
 - code: DX
   file: DX-dalton-michael-understanding-investor-terms-and-incentives.md
   title: 'Dalton & Michael: Understanding investor terms and incentives'
@@ -2376,7 +2376,7 @@ resources:
   - all
   related: []
   youtube_id: wnyI7ZM_Mrk
-  lines: 14
+  lines: 53
 - code: DY
   file: DY-dalton-michael-yc-founders-made-these-fundraising-mistakes.md
   title: 'Dalton & Michael: YC founders made these fundraising mistakes'
@@ -2395,7 +2395,7 @@ resources:
   - all
   related: []
   youtube_id: 6606a2ka-jQ
-  lines: 14
+  lines: 45
 - code: DZ
   file: DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them.md
   title: 'Dalton & Michael: Co-founder mistakes that kill companies and how to avoid them'
@@ -2411,7 +2411,7 @@ resources:
   - all
   related: []
   youtube_id: dlfjs_eEEzs
-  lines: 14
+  lines: 49
 - code: Da
   file: Da-data-rooms-and-additional-documents-to-prepare-for-seed-fundraising.md
   title: Data rooms and additional documents to prepare for seed fundraising
@@ -2452,7 +2452,7 @@ resources:
   - all
   related: []
   youtube_id: 0OVSTWozvfY
-  lines: 12
+  lines: 151
 - code: Ek
   file: Ek-stages-of-startups.md
   title: 'Stages of startups   : YC Startup Job Guide'
@@ -2546,7 +2546,7 @@ resources:
   - all
   related: []
   youtube_id: 4nxrkPtR348
-  lines: 10
+  lines: 16
 - code: IH
   file: IH-successful-yc-application-video-flip-yc-w2015.md
   title: 'Successful YC Application video: Flip (YC W2015)'
@@ -2561,7 +2561,7 @@ resources:
   - all
   related: []
   youtube_id: N5cBGeRMxms
-  lines: 10
+  lines: 16
 - code: II
   file: II-successful-yc-application-video-zenefits-yc-w2013.md
   title: 'Successful YC Application video: Zenefits (YC W2013)'
@@ -2576,7 +2576,7 @@ resources:
   - all
   related: []
   youtube_id: -S83fysRwn4
-  lines: 10
+  lines: 24
 - code: IJ
   file: IJ-successful-yc-application-video-teespring-yc-w2013.md
   title: 'Successful YC Application video: Teespring (YC W2013)'
@@ -2591,7 +2591,7 @@ resources:
   - all
   related: []
   youtube_id: Ipf247AmhiI
-  lines: 10
+  lines: 16
 - code: IN
   file: IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco.md
   title: 'Dalton & Michael: Does Your Startup Need To Be In San Francisco?'
@@ -2604,7 +2604,7 @@ resources:
   - all
   related: []
   youtube_id: ZqGOCF4O6ks
-  lines: 13
+  lines: 74
 - code: IO
   file: IO-dalton-michael-how-generosity-built-tech-giants.md
   title: 'Dalton & Michael: How generosity built tech giants'
@@ -2617,7 +2617,7 @@ resources:
   - all
   related: []
   youtube_id: RD5EAMOh7fE
-  lines: 17
+  lines: 60
 - code: IP
   file: IP-dalton-michael-secrets-you-can-learn-from-your-customers.md
   title: 'Dalton & Michael: Secrets You Can Learn From Your Customers'
@@ -2631,7 +2631,7 @@ resources:
   - all
   related: []
   youtube_id: IdwYMfM2QMs
-  lines: 19
+  lines: 78
 - code: IQ
   file: IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have.md
   title: 'Dalton & Michael: The hard conversations founders don''t want to have'
@@ -2644,7 +2644,7 @@ resources:
   - all
   related: []
   youtube_id: hUbM-bURoJE
-  lines: 16
+  lines: 101
 - code: IR
   file: IR-dalton-michael-silicon-valley-s-cargo-culting-problem.md
   title: 'Dalton & Michael: Silicon Valley''s cargo culting problem'
@@ -2657,7 +2657,7 @@ resources:
   - all
   related: []
   youtube_id: ECLJ95XNxA4
-  lines: 16
+  lines: 81
 - code: IS
   file: IS-dalton-michael-y-combinator-is-back-in-person.md
   title: 'Dalton & Michael: Y Combinator is back in person'
@@ -2671,7 +2671,7 @@ resources:
   - all
   related: []
   youtube_id: GiuxXzmvolU
-  lines: 12
+  lines: 91
 - code: IT
   file: IT-dalton-michael-why-investors-can-t-fix-your-company.md
   title: 'Dalton & Michael: Why investors can’t fix your company'
@@ -2685,7 +2685,7 @@ resources:
   - all
   related: []
   youtube_id: UqKzpLqXuI0
-  lines: 12
+  lines: 107
 - code: IU
   file: IU-dalton-michael-the-truth-about-y-combinator.md
   title: 'Dalton & Michael: The truth about Y Combinator'
@@ -2699,7 +2699,7 @@ resources:
   - all
   related: []
   youtube_id: DOez-RwJ7mg
-  lines: 13
+  lines: 118
 - code: IW
   file: IW-dalton-michael-elon-musk-and-the-midwit-meme.md
   title: 'Dalton & Michael: Elon Musk and the Midwit meme'
@@ -2713,7 +2713,7 @@ resources:
   - all
   related: []
   youtube_id: IYLVhk7yaaw
-  lines: 11
+  lines: 80
 - code: IX
   file: IX-dalton-michael-how-to-deal-with-setbacks.md
   title: 'Dalton & Michael: How to deal with setbacks'
@@ -2726,7 +2726,7 @@ resources:
   - all
   related: []
   youtube_id: AWa4qZvtMuY
-  lines: 12
+  lines: 99
 - code: IY
   file: IY-dalton-michael-the-cult-of-conformity-in-silicon-valley.md
   title: 'Dalton & Michael: The cult of conformity in Silicon Valley'
@@ -2739,7 +2739,7 @@ resources:
   - all
   related: []
   youtube_id: ia7IKW0yuG0
-  lines: 17
+  lines: 88
 - code: IZ
   file: IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder.md
   title: 'Dalton & Michael: The student''s guide to becoming a successful startup founder'
@@ -2753,7 +2753,7 @@ resources:
   - pre-idea
   related: []
   youtube_id: O5KCB2p6SB8
-  lines: 18
+  lines: 113
 - code: Ia
   file: Ia-dalton-michael-how-to-earn-customers-for-life.md
   title: 'Dalton & Michael: How to earn customers for life'
@@ -2767,7 +2767,7 @@ resources:
   - all
   related: []
   youtube_id: LJay5YW4fLA
-  lines: 17
+  lines: 70
 - code: Ib
   file: Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups.md
   title: 'Dalton & Michael: What basic game theory teaches us about startups'
@@ -2780,7 +2780,7 @@ resources:
   - all
   related: []
   youtube_id: gUuQsMERjUc
-  lines: 12
+  lines: 87
 - code: Ic
   file: Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup.md
   title: 'Dalton & Michael: The two mindsets that can kill your startup'
@@ -2796,7 +2796,7 @@ resources:
   - all
   related: []
   youtube_id: lJausFj_Dto
-  lines: 12
+  lines: 109
 - code: Id
   file: Id-dalton-michael-setting-smarter-goals.md
   title: 'Dalton & Michael: Setting smarter goals'
@@ -2810,7 +2810,7 @@ resources:
   - all
   related: []
   youtube_id: rE2XaBGHN2I
-  lines: 13
+  lines: 126
 - code: Ie
   file: Ie-dalton-michael-will-openai-kill-all-startups.md
   title: 'Dalton & Michael: Will OpenAI kill all startups?'
@@ -2826,7 +2826,7 @@ resources:
   - all
   related: []
   youtube_id: smHw9kEwcgM
-  lines: 13
+  lines: 66
 - code: If
   file: If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale.md
   title: 'Dalton & Michael: What does it really mean to do things that don''t scale?'
@@ -2840,7 +2840,7 @@ resources:
   - scaling
   related: []
   youtube_id: 4RMjQal_c4U
-  lines: 12
+  lines: 87
 - code: Ig
   file: Ig-dalton-michael-things-that-don-t-scale-the-software-edition.md
   title: 'Dalton & Michael: Things that don''t scale, the software edition'
@@ -2854,7 +2854,7 @@ resources:
   - scaling
   related: []
   youtube_id: TCPjk8Tpb5c
-  lines: 12
+  lines: 113
 - code: Ih
   file: Ih-dalton-michael-why-you-should-leave-your-faang-job.md
   title: 'Dalton & Michael: Why you should leave your FAANG job'
@@ -2867,7 +2867,7 @@ resources:
   - all
   related: []
   youtube_id: sM2reZib2RY
-  lines: 12
+  lines: 91
 - code: Ii
   file: Ii-dalton-michael-most-important-lifestyle-habits-of-successful-founders.md
   title: 'Dalton & Michael: Most important lifestyle habits of successful founders'
@@ -2880,7 +2880,7 @@ resources:
   - all
   related: []
   youtube_id: 0IShllkCHtY
-  lines: 12
+  lines: 137
 - code: Ik
   file: Ik-dalton-michael-how-future-billionaires-get-sh-t-done.md
   title: 'Dalton & Michael: How future billionaires get sh*t done'
@@ -2894,7 +2894,7 @@ resources:
   - all
   related: []
   youtube_id: ephzgxgOjR0
-  lines: 12
+  lines: 93
 - code: Il
   file: Il-how-startup-fundraising-works.md
   title: How startup fundraising works
@@ -2909,7 +2909,7 @@ resources:
   - all
   related: []
   youtube_id: zBUhQPPS9AY
-  lines: 13
+  lines: 124
 - code: Im
   file: Im-keys-to-successful-co-founder-relationships.md
   title: Keys To Successful Co-Founder Relationships
@@ -2923,7 +2923,7 @@ resources:
   - all
   related: []
   youtube_id: A4SLDQDXdp0
-  lines: 13
+  lines: 136
 - code: Io
   file: Io-how-to-build-an-mvp.md
   title: How to build an MVP
@@ -2937,7 +2937,7 @@ resources:
   - building
   related: []
   youtube_id: QRZ_l7cVzzU
-  lines: 13
+  lines: 80
 - code: Ip
   file: Ip-how-to-get-your-first-customers.md
   title: How to get your first customers
@@ -2951,7 +2951,7 @@ resources:
   - launched
   related: []
   youtube_id: hyYCn_kAngI
-  lines: 12
+  lines: 101
 - code: Iq
   file: Iq-how-to-talk-to-users.md
   title: How to talk to users
@@ -2966,7 +2966,7 @@ resources:
   - launched
   related: []
   youtube_id: z1iF1c8w5Lg
-  lines: 13
+  lines: 82
 - code: Ir
   file: Ir-the-best-way-to-launch-your-startup.md
   title: The best way to launch your startup
@@ -2980,7 +2980,7 @@ resources:
   - launched
   related: []
   youtube_id: u36A-YTxiOw
-  lines: 13
+  lines: 96
 - code: Is
   file: Is-tips-for-technical-startup-founders.md
   title: Tips for technical startup founders
@@ -2993,7 +2993,7 @@ resources:
   - all
   related: []
   youtube_id: rP7bpYsfa6Q
-  lines: 13
+  lines: 124
 - code: It
   file: It-how-to-apply-and-succeed-at-yc.md
   title: How to apply and succeed at YC
@@ -3007,7 +3007,7 @@ resources:
   - all
   related: []
   youtube_id: B5tU2447OK8
-  lines: 13
+  lines: 110
 - code: Iu
   file: Iu-setting-kpis-and-goals.md
   title: Setting KPIs and goals
@@ -3022,7 +3022,7 @@ resources:
   - all
   related: []
   youtube_id: 6DTK9yDP6p0
-  lines: 12
+  lines: 119
 - code: Iv
   file: Iv-critiquing-ai-startup-websites-with-yc-president-garry-tan.md
   title: Critiquing AI startup websites with YC President Garry Tan
@@ -3039,7 +3039,7 @@ resources:
   - all
   related: []
   youtube_id: uIYujpFmvo8
-  lines: 16
+  lines: 111
 - code: Iw
   file: Iw-critiquing-startup-websites-with-webflow-ceo-vlad-magdalin.md
   title: Critiquing startup websites with Webflow CEO Vlad Magdalin
@@ -3053,7 +3053,7 @@ resources:
   - all
   related: []
   youtube_id: B2JpZPSHaVM
-  lines: 13
+  lines: 108
 - code: Ix
   file: Ix-critiquing-startup-websites-with-instacart-s-first-designer-zain-ali.md
   title: Critiquing startup websites with Instacart's first designer, Zain Ali
@@ -3069,7 +3069,7 @@ resources:
   - building
   related: []
   youtube_id: gok9BZLMxDs
-  lines: 13
+  lines: 104
 - code: Iy
   file: Iy-yc-s-group-partners-share-their-favorite-pivot-stories.md
   title: YC's Group Partners share their favorite pivot stories
@@ -3085,7 +3085,7 @@ resources:
   - all
   related: []
   youtube_id: DmehFuCMtvc
-  lines: 19
+  lines: 102
 - code: Iz
   file: Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google.md
   title: 'Inside the Group Partner Lounge: How to compete with Amazon and Google'
@@ -3098,7 +3098,7 @@ resources:
   - all
   related: []
   youtube_id: tzsmJtKZ2No
-  lines: 13
+  lines: 76
 - code: J0
   file: J0-inside-the-group-partner-lounge-when-to-launch-your-startup.md
   title: 'Inside the Group Partner Lounge: When to launch your startup'
@@ -3112,7 +3112,7 @@ resources:
   - launched
   related: []
   youtube_id: f0tPjcgcwnQ
-  lines: 12
+  lines: 67
 - code: J1
   file: J1-inside-the-group-partner-lounge-investors-said-no-now-what.md
   title: 'Inside the Group Partner Lounge: Investors said no, now what?'
@@ -3128,7 +3128,7 @@ resources:
   - all
   related: []
   youtube_id: euZH0tVotPQ
-  lines: 12
+  lines: 75
 - code: J2
   file: J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes.md
   title: 'Inside the Group Partner Lounge: Don''t make these hiring mistakes'
@@ -3142,7 +3142,7 @@ resources:
   - all
   related: []
   youtube_id: CUZ6PKJZvXE
-  lines: 13
+  lines: 92
 - code: J3
   file: J3-inside-the-group-partner-lounge-turning-users-into-paid-customers.md
   title: 'Inside the Group Partner Lounge: Turning users into paid customers'
@@ -3159,7 +3159,7 @@ resources:
   - launched
   related: []
   youtube_id: 9pQJXR0Tcos
-  lines: 12
+  lines: 65
 - code: J4
   file: J4-inside-the-group-partner-lounge-top-ways-startups-waste-money.md
   title: 'Inside the Group Partner Lounge: Top ways startups waste money'
@@ -3173,7 +3173,7 @@ resources:
   - all
   related: []
   youtube_id: BtzUo6vL3Iw
-  lines: 12
+  lines: 121
 - code: J5
   file: J5-inside-the-group-partner-lounge-the-ideal-customer.md
   title: 'Inside the Group Partner Lounge: The ideal customer'
@@ -3189,7 +3189,7 @@ resources:
   - idea
   related: []
   youtube_id: Hwfu1zNwSWI
-  lines: 12
+  lines: 81
 - code: J6
   file: J6-inside-the-group-partner-lounge-advantages-of-a-first-time-founder.md
   title: 'Inside the Group Partner Lounge: Advantages of a first-time founder'
@@ -3202,7 +3202,7 @@ resources:
   - all
   related: []
   youtube_id: bp_kMA-eTsE
-  lines: 13
+  lines: 100
 - code: J7
   file: J7-garry-tan-s-tips-for-applying-to-yc.md
   title: Garry Tan's tips for applying to YC
@@ -3217,7 +3217,7 @@ resources:
   - all
   related: []
   youtube_id: 4wbCVN1yLyA
-  lines: 12
+  lines: 93
 - code: J8
   file: J8-yc-application-tips-include-a-demo.md
   title: 'YC Application Tips: Include a demo'
@@ -3232,7 +3232,7 @@ resources:
   - all
   related: []
   youtube_id: cV-MwxhRTNI
-  lines: 11
+  lines: 14
 - code: J9
   file: J9-yc-application-tips-you-don-t-need-to-know-someone.md
   title: 'YC Application Tips: You don''t need to know someone'
