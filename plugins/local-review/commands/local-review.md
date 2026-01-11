@@ -15,11 +15,43 @@ To do this, follow these steps precisely:
 
 2. Use another Haiku agent to find any relevant CLAUDE.md files: the root CLAUDE.md file (if one exists), as well as any CLAUDE.md files in the directories containing modified files
 
-3. Then, launch 4 parallel Sonnet agents to independently code review the changes. Each agent should read the full file context when needed. The agents should return a list of issues and the reason each issue was flagged:
+3. Then, launch 5 parallel Sonnet agents to independently code review the changes. Each agent should read the full file context when needed. The agents should return a list of issues and the reason each issue was flagged:
    a. Agent #1: Audit the changes to make sure they comply with any CLAUDE.md guidelines found. Note that CLAUDE.md is guidance for Claude as it writes code, so not all instructions will be applicable during code review.
    b. Agent #2: Read the file changes, then scan for bugs, logic errors, and edge cases. Focus on significant bugs, avoid nitpicks. Check for: null/undefined issues, off-by-one errors, race conditions, resource leaks, error handling gaps.
    c. Agent #3: Scan for security vulnerabilities (OWASP top 10): injection flaws, XSS, auth bypass, sensitive data exposure, insecure dependencies, etc.
    d. Agent #4: Check for TypeScript type safety issues, performance problems, and code quality concerns that would fail code review.
+   e. Agent #5 (Code Simplifier): You are an expert code simplification specialist focused on enhancing code clarity, consistency, and maintainability while preserving exact functionality. Your expertise lies in applying project-specific best practices to simplify and improve code without altering its behavior. You prioritize readable, explicit code over overly compact solutions.
+
+      Analyze the changed code and flag issues related to:
+
+      1. **Preserve Functionality**: Flag any simplification that would change what the code does - only how it does it matters. All original features, outputs, and behaviors must remain intact.
+
+      2. **Apply Project Standards**: Flag violations of coding standards from CLAUDE.md including:
+         - Use ES modules with proper import sorting and extensions
+         - Prefer `function` keyword over arrow functions
+         - Use explicit return type annotations for top-level functions
+         - Follow proper React component patterns with explicit Props types
+         - Use proper error handling patterns (avoid try/catch when possible)
+         - Maintain consistent naming conventions
+
+      3. **Enhance Clarity**: Flag code that could be simplified by:
+         - Reducing unnecessary complexity and nesting
+         - Eliminating redundant code and abstractions
+         - Improving readability through clear variable and function names
+         - Consolidating related logic
+         - Removing unnecessary comments that describe obvious code
+         - IMPORTANT: Flag nested ternary operators - prefer switch statements or if/else chains for multiple conditions
+         - Choose clarity over brevity - explicit code is often better than overly compact code
+
+      4. **Maintain Balance**: Do NOT flag issues that would lead to over-simplification:
+         - Avoid reducing code clarity or maintainability
+         - Avoid creating overly clever solutions that are hard to understand
+         - Avoid combining too many concerns into single functions or components
+         - Avoid removing helpful abstractions that improve code organization
+         - Avoid prioritizing "fewer lines" over readability (e.g., nested ternaries, dense one-liners)
+         - Avoid making the code harder to debug or extend
+
+      Return a list of code clarity and maintainability issues found in the changed code.
 
 4. For each issue found in #3, launch a parallel Haiku agent that takes the issue description and CLAUDE.md files (from step 2), and returns a confidence score from 0-100. The scale is:
    a. 0: Not confident at all. This is a false positive that doesn't stand up to light scrutiny, or is a pre-existing issue.
@@ -33,6 +65,7 @@ To do this, follow these steps precisely:
 6. Present the filtered issues to the user, grouped by severity:
    - Critical (score 95-100): Must fix before committing
    - Warning (score 80-94): Should consider fixing
+   - Simplification (from Agent #5): Code clarity improvements to consider
 
 Examples of false positives to filter out in steps 3 and 4:
 
@@ -74,6 +107,12 @@ Found N issues in uncommitted changes:
 
    <explanation and suggested fix>
 
+**Simplification** (N issues)
+
+1. **file.ts:28** - <brief description>
+
+   <explanation and suggested simplification>
+
 ---
 
 Or, if no issues:
@@ -84,6 +123,6 @@ Or, if no issues:
 
 No significant issues found. Code looks good for commit.
 
-Checked for: bugs, security vulnerabilities, CLAUDE.md compliance, type safety.
+Checked for: bugs, security vulnerabilities, CLAUDE.md compliance, type safety, code clarity.
 
 ---
